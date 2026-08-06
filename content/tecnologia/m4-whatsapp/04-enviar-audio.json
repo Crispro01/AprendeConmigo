@@ -56,11 +56,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Qué debemos hacer para grabar un audio?",
+      "question": "¿Para quién es más útil enviar audios en vez de mensajes escritos?",
       "options": [
-        "Mantener presionado el micrófono",
-        "Tocarlo una vez y soltar",
-        "Apagar el celular"
+        "Para quien le cuesta escribir",
+        "Para nadie en particular",
+        "Solo para jóvenes"
       ],
       "correctIndex": 0
     },

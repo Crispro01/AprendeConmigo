@@ -46,7 +46,7 @@
   "exercises": [
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_OTA",
+      "question": "_OTA (falta una letra, se usa en el pie para caminar)",
       "options": [
         "D",
         "B",
@@ -56,7 +56,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la B?",
+      "question": "En la palabra LOBO, ¿cuál de estas letras escuchamos?",
       "options": [
         "B",
         "D",
@@ -81,17 +81,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la B?",
+      "question": "¿Cuál de estas letras aparece en la palabra ARBOL?",
       "options": [
+        "R",
         "B",
-        "C",
-        "D"
+        "C"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra ABUELA?",
+      "question": "¿Qué letra suena en la palabra ABUELA?",
       "answer": "B"
     },
     {
@@ -106,22 +106,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la B?",
+      "question": "Fíjate en la palabra BURRO. ¿Cuál de estas letras tiene?",
       "options": [
-        "B",
-        "R",
-        "C"
+        "D",
+        "N",
+        "B"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra BEBÉ?",
+      "question": "En la palabra BEBÉ, ¿qué letra reconoces?",
       "answer": "B"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "LO_O",
+      "question": "LO_O (falta una letra, animal salvaje parecido a un perro grande)",
       "options": [
         "N",
         "B",

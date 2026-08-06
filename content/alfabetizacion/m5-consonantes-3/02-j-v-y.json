@@ -46,7 +46,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_ACA",
+      "question": "_ACA (falta una letra, animal que da leche)",
       "options": [
         "Y",
         "V",
@@ -56,22 +56,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la J?",
+      "question": "En la palabra OREJA, ¿cuál de estas letras escuchamos?",
       "options": [
         "J",
-        "Y",
-        "G"
+        "V",
+        "Y"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra VACA?",
+      "question": "¿Qué letra suena en la palabra VACA?",
       "answer": "V"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_UGO",
+      "question": "_UGO (falta una letra, bebida que se hace de frutas)",
       "options": [
         "V",
         "J",
@@ -81,17 +81,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la V?",
+      "question": "¿Cuál de estas letras aparece en la palabra NUEVE?",
       "options": [
+        "B",
         "V",
-        "J",
-        "Y"
+        "F"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra CAJA?",
+      "question": "En la palabra CAJA, ¿qué letra reconoces?",
       "answer": "J"
     },
     {
@@ -106,21 +106,21 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la J?",
+      "question": "Fíjate en la palabra OREJA. ¿Cuál de estas letras tiene?",
       "options": [
-        "J",
-        "H",
-        "V"
+        "V",
+        "Y",
+        "J"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál letra suena en la palabra JUGO?",
+      "question": "De estas letras, ¿cuál está en la palabra OREJA?",
       "options": [
         "J",
-        "G",
-        "H"
+        "B",
+        "F"
       ],
       "correctIndex": 0
     }

@@ -51,7 +51,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_ATO",
+      "question": "_ATO (falta una letra, animal que dice miau)",
       "options": [
         "H",
         "G",
@@ -61,17 +61,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la F?",
+      "question": "En la palabra FIESTA, ¿cuál de estas letras escuchamos?",
       "options": [
         "F",
-        "H",
-        "M"
+        "G",
+        "H"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra GATO?",
+      "question": "¿Qué letra suena en la palabra GATO?",
       "answer": "G"
     },
     {
@@ -86,17 +86,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la G?",
+      "question": "¿Cuál de estas letras aparece en la palabra AMIGO?",
       "options": [
+        "M",
         "G",
-        "F",
-        "H"
+        "S"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra CAFÉ?",
+      "question": "En la palabra CAFÉ, ¿qué letra reconoces?",
       "answer": "F"
     },
     {
@@ -111,17 +111,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la F?",
+      "question": "Fíjate en la palabra FIESTA. ¿Cuál de estas letras tiene?",
       "options": [
-        "F",
-        "S",
-        "G"
+        "G",
+        "H",
+        "F"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "multiple-choice",
-      "question": "¿Qué letra NO se pronuncia?",
+      "question": "¿Qué letra de estas NO se pronuncia?",
       "options": [
         "H",
         "F",

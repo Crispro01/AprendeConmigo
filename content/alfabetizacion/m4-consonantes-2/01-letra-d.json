@@ -61,17 +61,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la D?",
+      "question": "En la palabra MODA, ¿cuál de estas letras escuchamos?",
       "options": [
         "D",
-        "R",
-        "C"
+        "N",
+        "R"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra NIDO?",
+      "question": "¿Qué letra suena en la palabra NIDO?",
       "answer": "D"
     },
     {
@@ -86,17 +86,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la D?",
+      "question": "¿Cuál de estas letras aparece en la palabra SEDA?",
       "options": [
+        "C",
         "D",
-        "N",
-        "R"
+        "B"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra RADIO?",
+      "question": "En la palabra RADIO, ¿qué letra reconoces?",
       "answer": "D"
     },
     {
@@ -111,17 +111,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la D?",
+      "question": "Fíjate en la palabra MODA. ¿Cuál de estas letras tiene?",
       "options": [
-        "D",
-        "B",
-        "N"
+        "N",
+        "R",
+        "D"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra DULCE?",
+      "question": "¿Qué letra aparece en la palabra DULCE?",
       "answer": "D"
     }
   ]

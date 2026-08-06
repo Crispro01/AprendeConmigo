@@ -56,11 +56,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la N?",
+      "question": "En la palabra ANIMAL, ¿cuál de estas letras escuchamos?",
       "options": [
         "N",
-        "R",
-        "C"
+        "D",
+        "R"
       ],
       "correctIndex": 0
     },
@@ -81,17 +81,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la N?",
+      "question": "¿Cuál de estas letras aparece en la palabra NIÑO?",
       "options": [
+        "C",
         "N",
-        "D",
-        "R"
+        "B"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra MANO?",
+      "question": "¿Qué letra suena en la palabra MANO?",
       "answer": "N"
     },
     {
@@ -106,17 +106,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la N?",
+      "question": "Fíjate en la palabra PAN. ¿Cuál de estas letras tiene?",
       "options": [
-        "N",
-        "B",
-        "D"
+        "D",
+        "R",
+        "N"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra LUNA?",
+      "question": "En la palabra LUNA, ¿qué letra reconoces?",
       "answer": "N"
     },
     {

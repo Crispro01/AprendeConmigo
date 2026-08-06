@@ -10,7 +10,10 @@ const nextConfig: NextConfig = {
   output: "export",
   images: { unoptimized: true },
   basePath: isGithubPages ? `/${repoName}` : "",
-  trailingSlash: true,
+  // GitHub Pages sirve cada ruta como carpeta/index.html, por eso necesita la
+  // barra final. En desarrollo local esto rompía la navegación (los enlaces
+  // internos no llevan barra final), así que solo se activa en ese build.
+  trailingSlash: isGithubPages,
 };
 
 export default nextConfig;

@@ -41,7 +41,7 @@
   "exercises": [
     {
       "type": "fill-in-the-blank-choice",
-      "question": "S_L (falta una vocal)",
+      "question": "S_L (falta una vocal, brilla de día en el cielo)",
       "options": [
         "O",
         "A",
@@ -51,7 +51,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "C_SA (falta una vocal)",
+      "question": "C_SA (falta una vocal, donde vivimos)",
       "options": [
         "A",
         "E",
@@ -71,7 +71,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_JO (falta una vocal)",
+      "question": "_JO (falta una vocal, sirve para ver)",
       "options": [
         "O",
         "A",
@@ -81,7 +81,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "L_NA (falta una vocal)",
+      "question": "L_NA (falta una vocal, se ve de noche en el cielo)",
       "options": [
         "I",
         "U",
@@ -91,7 +91,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "M_SA (falta una vocal)",
+      "question": "M_SA (falta una vocal, el mueble donde comemos)",
       "options": [
         "O",
         "E",

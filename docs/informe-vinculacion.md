@@ -24,6 +24,28 @@ A diferencia de sistemas de gestión institucional que dependen de bases de dato
 
 La solución se construyó con **Next.js** (React) exportado como sitio 100% estático, con un sistema de texto a voz basado en la **Web Speech API** del navegador, un modelo de contenido en archivos JSON validados con **zod** para que voluntarios sin conocimientos de programación puedan mantenerlo, y un sistema de accesibilidad pensado desde cero para el público objetivo: letras grandes, alto contraste, botones táctiles amplios y navegación simple.
 
+## Justificación: cifras oficiales que sustentan la necesidad de este proyecto
+
+Antes de proponer una solución, es necesario dimensionar el problema con datos oficiales. Las siguientes cifras, provenientes del Instituto Nacional de Estadística y Censos (INEC) del Ecuador y de la Comisión Económica para América Latina y el Caribe (CEPAL), muestran que la doble brecha que este proyecto busca atender —alfabetización básica y alfabetización digital en personas adultas mayores— no es una percepción, sino una realidad medible y documentada.
+
+### Analfabetismo en personas adultas mayores
+
+Según el VIII Censo de Población y VII de Vivienda (2022), la tasa nacional de analfabetismo en Ecuador se redujo del 6,8 % en 2010 al 3,7 % en 2022. Sin embargo, ese avance no fue parejo entre grupos de edad: **las personas adultas mayores siguen presentando la tasa de analfabetismo más alta del país, con un 16 %** —más de cuatro veces la tasa nacional—, a pesar de una reducción de 11,3 puntos porcentuales desde 2010 (INEC, 2023). Es decir, de cada seis personas adultas mayores en Ecuador, aproximadamente una no sabe leer ni escribir, una proporción muy superior a la del resto de la población.
+
+### Una población que crece
+
+Este problema no solo persiste: afecta a un grupo cada vez más numeroso. El mismo censo 2022 registró que la población de 65 años o más pasó de representar el 6,2 % de la población total en 2010 al 9 % en 2022, alcanzando aproximadamente 1,5 millones de personas en el país (INEC, 2023; citado en El Heraldo, 2023). El envejecimiento poblacional del Ecuador implica que, sin intervenciones específicas, el número absoluto de personas adultas mayores en situación de analfabetismo seguirá creciendo en la próxima década, no solo su proporción.
+
+### Brecha digital y analfabetismo tecnológico
+
+La segunda brecha que atiende este proyecto —el uso básico de tecnología— también está documentada oficialmente. Un informe de la Escuela Politécnica Nacional recogido por Primicias (2025) señala que, si bien el acceso a internet en Ecuador creció del 28 % en 2013 al 71,3 % en 2025, ese acceso no se traduce automáticamente en uso: el analfabetismo digital sigue afectando principalmente a personas entre 35 y 65 años y a personas adultas mayores, con las tasas más altas entre quienes no tienen educación formal (11,1 %) y la población indígena (10 %). Adicionalmente, el acceso a tecnología está fuertemente correlacionado con el nivel educativo: los hogares con educación superior alcanzan un 88,6 % de acceso a internet, frente a apenas un 38 % en hogares sin educación formal (Primicias, 2025).
+
+A nivel regional, un estudio de la CEPAL confirma un patrón que incluye explícitamente a Ecuador: en cinco de siete países analizados —entre ellos Ecuador—, el porcentaje de personas adultas mayores que efectivamente *usan* una computadora es menor al porcentaje que *tiene acceso* a una en su hogar (CEPAL, s.f.). Esto confirma que el problema no es únicamente de acceso a dispositivos, sino de falta de habilidades y de materiales de aprendizaje adecuados para este grupo etario, exactamente el vacío que este proyecto busca llenar.
+
+### Síntesis
+
+Estas cifras permiten formular con precisión la necesidad que origina este proyecto: en Ecuador hay aproximadamente 1,5 millones de personas adultas mayores, de las cuales cerca de una de cada seis no sabe leer ni escribir (16 %), y una proporción similar o mayor tiene acceso a un dispositivo pero no sabe cómo usarlo. Ambas carencias suelen presentarse juntas en la misma persona, y ninguna de las dos se resuelve solo con más infraestructura o más conectividad: se necesitan materiales educativos diseñados específicamente para este público, de acceso gratuito y sin barreras de entrada de registro o de costo. Ese es, en cifras concretas, el problema que **Aprende Conmigo** busca resolver.
+
 ## Objetivo Principal
 
 Diseñar e implementar una plataforma web accesible y de uso autónomo que permita a personas adultas mayores aprender, a su propio ritmo, alfabetización básica (lectura, escritura y números) y alfabetización tecnológica (uso del celular e internet), sin requerir registro, conexión constante a un servidor ni asistencia técnica externa.
@@ -467,6 +489,14 @@ A diferencia de un sistema institucional con roles diferenciados (analista, auto
 - Se recomienda producir material impreso (usando la vista imprimible ya implementada) para las sesiones presenciales del programa, dirigido a personas sin celular propio.
 
 ## Referencias
+
+Instituto Nacional de Estadística y Censos [INEC]. (2023). *Reducción del analfabetismo en Ecuador: más de 199.000 personas libres de esta condición desde 2010*. https://www.ecuadorencifras.gob.ec/institucional/reduccion-del-analfabetismo-en-ecuador-mas-de-199-000-personas-libres-de-esta-condicion-desde-2010/
+
+El Heraldo. (2023). *INEC registra incremento de adultos mayores*. https://www.elheraldo.com.ec/inec-registra-incremento-de-adultos-mayores/
+
+Primicias. (2025). *Acceso a Internet en Ecuador llega al 71,3 %, pero uso productivo es mínimo, según informe*. https://www.primicias.ec/sociedad/ecuador-acceso-internet-brecha-digital-usos-informe-politecnica-113472/
+
+Comisión Económica para América Latina y el Caribe [CEPAL]. (s.f.). *Las tecnologías de la información y las comunicaciones (TIC): una clave para la inclusión de las personas mayores en América Latina*. https://www.cepal.org/es/notas/tecnologias-la-informacion-comunicaciones-tic-clave-la-inclusion-personas-mayores-america
 
 Mozilla Developer Network. (n.d.). *SpeechSynthesis API*. MDN Web Docs. https://developer.mozilla.org/es/docs/Web/API/SpeechSynthesis
 

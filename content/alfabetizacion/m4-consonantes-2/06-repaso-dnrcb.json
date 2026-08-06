@@ -51,22 +51,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la R?",
+      "question": "En la palabra CARO, ¿cuál de estas letras escuchamos?",
       "options": [
         "R",
-        "N",
-        "C"
+        "D",
+        "N"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra CASA?",
+      "question": "¿Qué letra suena en la palabra CASA?",
       "answer": "C"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_OTA",
+      "question": "_OTA (falta una letra, se usa en el pie)",
       "options": [
         "D",
         "B",
@@ -76,22 +76,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la D?",
+      "question": "¿Cuál de estas letras aparece en la palabra NIDO?",
       "options": [
+        "C",
         "D",
-        "N",
-        "R"
+        "B"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra NUBE?",
+      "question": "En la palabra NUBE, ¿qué letra reconoces?",
       "answer": "N"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "CA_O",
+      "question": "CA_O (falta una letra, cuesta mucho dinero)",
       "options": [
         "B",
         "R",
@@ -101,13 +101,13 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la C?",
+      "question": "Fíjate en la palabra VACA. ¿Cuál de estas letras tiene?",
       "options": [
-        "C",
-        "B",
-        "D"
+        "D",
+        "N",
+        "C"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "match-pairs",

@@ -41,11 +41,11 @@
   "exercises": [
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la S?",
+      "question": "En la palabra SOPA, ¿cuál de estas letras escuchamos?",
       "options": [
         "S",
-        "P",
-        "L"
+        "M",
+        "P"
       ],
       "correctIndex": 0
     },
@@ -66,22 +66,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la S?",
+      "question": "¿Cuál de estas letras aparece en la palabra ROSA?",
       "options": [
+        "L",
         "S",
-        "M",
-        "P"
+        "T"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra CASA?",
+      "question": "¿Qué letra suena en la palabra CASA?",
       "answer": "S"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "CA_A",
+      "question": "CA_A (falta una letra, donde vivimos)",
       "options": [
         "T",
         "S",
@@ -91,22 +91,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la S?",
+      "question": "Fíjate en la palabra OSO. ¿Cuál de estas letras tiene?",
       "options": [
-        "S",
-        "T",
-        "M"
+        "M",
+        "P",
+        "S"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra MESA?",
+      "question": "En la palabra MESA, ¿qué letra reconoces?",
       "answer": "S"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "ME_A",
+      "question": "ME_A (falta una letra, el mueble donde comemos)",
       "options": [
         "L",
         "S",
@@ -116,7 +116,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la S?",
+      "question": "De estas letras, ¿cuál está en la palabra SOPA?",
       "options": [
         "S",
         "L",

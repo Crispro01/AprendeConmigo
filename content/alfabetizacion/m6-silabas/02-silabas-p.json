@@ -41,10 +41,10 @@
   "exercises": [
     {
       "type": "fill-in-the-blank-choice",
-      "question": "¿Qué sílaba falta para decir PATO? PA + ___",
+      "question": "¿Qué sílaba falta para decir PATO (el animal)? PA + ___",
       "options": [
         "TO",
-        "TA",
+        "TI",
         "TE"
       ],
       "correctIndex": 0

@@ -46,7 +46,7 @@
   "exercises": [
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_AZA",
+      "question": "_AZA (falta una letra, se usa para tomar café)",
       "options": [
         "M",
         "T",
@@ -56,7 +56,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la T?",
+      "question": "En la palabra ZAPATO, ¿cuál de estas letras escuchamos?",
       "options": [
         "T",
         "M",
@@ -71,7 +71,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "GA_O",
+      "question": "GA_O (falta una letra, animal que dice miau)",
       "options": [
         "L",
         "T",
@@ -81,22 +81,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la T?",
+      "question": "¿Cuál de estas letras aparece en la palabra TOMATE?",
       "options": [
+        "S",
         "T",
-        "L",
-        "M"
+        "L"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra GATO?",
+      "question": "¿Qué letra suena en la palabra GATO?",
       "answer": "T"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "PA_O",
+      "question": "PA_O (falta una letra, animal que nada y hace cuac)",
       "options": [
         "S",
         "T",
@@ -106,17 +106,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la T?",
+      "question": "Fíjate en la palabra PATA. ¿Cuál de estas letras tiene?",
       "options": [
-        "T",
-        "S",
-        "L"
+        "M",
+        "P",
+        "T"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra PATO?",
+      "question": "En la palabra PATO, ¿qué letra reconoces?",
       "answer": "T"
     },
     {

@@ -56,22 +56,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la A?",
+      "question": "En la palabra ARROZ, ¿cuál de estas letras escuchamos?",
       "options": [
         "A",
-        "I",
-        "O"
+        "E",
+        "I"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra CASA?",
+      "question": "¿Qué letra suena en la palabra CASA?",
       "answer": "A"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "C_SA",
+      "question": "C_SA (falta una vocal, donde vivimos)",
       "options": [
         "E",
         "A",
@@ -81,17 +81,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la A?",
+      "question": "¿Cuál de estas letras aparece en la palabra GATO?",
       "options": [
+        "O",
         "A",
-        "E",
-        "I"
+        "U"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra MESA?",
+      "question": "En la palabra MESA, ¿qué letra reconoces?",
       "answer": "A"
     },
     {
@@ -106,17 +106,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la A?",
+      "question": "Fíjate en la palabra ARROZ. ¿Cuál de estas letras tiene?",
       "options": [
-        "A",
-        "U",
-        "E"
+        "E",
+        "I",
+        "A"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra MANO?",
+      "question": "¿Qué letra aparece en la palabra MANO?",
       "answer": "A"
     }
   ]

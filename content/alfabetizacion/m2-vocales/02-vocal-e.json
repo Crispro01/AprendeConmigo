@@ -51,11 +51,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la E?",
+      "question": "En la palabra ESPEJO, ¿cuál de estas letras escuchamos?",
       "options": [
         "E",
-        "I",
-        "O"
+        "A",
+        "I"
       ],
       "correctIndex": 0
     },
@@ -66,7 +66,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "M_SA",
+      "question": "M_SA (falta una vocal, el mueble donde comemos)",
       "options": [
         "A",
         "E",
@@ -76,17 +76,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la E?",
+      "question": "¿Cuál de estas letras aparece en la palabra ELEFANTE?",
       "options": [
+        "O",
         "E",
-        "A",
-        "I"
+        "U"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra MESA?",
+      "question": "¿Qué letra suena en la palabra MESA?",
       "answer": "E"
     },
     {
@@ -101,17 +101,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la E?",
+      "question": "Fíjate en la palabra NIEVE. ¿Cuál de estas letras tiene?",
       "options": [
-        "E",
-        "U",
-        "A"
+        "A",
+        "I",
+        "E"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra VERDE?",
+      "question": "En la palabra VERDE, ¿qué letra reconoces?",
       "answer": "E"
     },
     {

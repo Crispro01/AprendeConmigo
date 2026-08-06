@@ -41,7 +41,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_AN",
+      "question": "_AN (falta una letra, se come con mantequilla)",
       "options": [
         "S",
         "P",
@@ -51,22 +51,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la S?",
+      "question": "En la palabra SOL, ¿cuál de estas letras escuchamos?",
       "options": [
         "S",
-        "P",
-        "L"
+        "M",
+        "P"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra LUNA?",
+      "question": "¿Qué letra suena en la palabra LUNA?",
       "answer": "L"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_AZA",
+      "question": "_AZA (falta una letra, se usa para tomar café)",
       "options": [
         "M",
         "T",
@@ -76,17 +76,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la M?",
+      "question": "¿Cuál de estas letras aparece en la palabra MAMÁ?",
       "options": [
+        "L",
         "M",
-        "P",
-        "S"
+        "T"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra PAN?",
+      "question": "En la palabra PAN, ¿qué letra reconoces?",
       "answer": "P"
     },
     {
@@ -101,13 +101,13 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la L?",
+      "question": "Fíjate en la palabra SILLA. ¿Cuál de estas letras tiene?",
       "options": [
-        "L",
-        "T",
-        "M"
+        "M",
+        "P",
+        "L"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "match-pairs",

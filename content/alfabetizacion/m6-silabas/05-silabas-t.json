@@ -41,7 +41,7 @@
   "exercises": [
     {
       "type": "fill-in-the-blank-choice",
-      "question": "¿Qué sílaba falta para decir TAZA? TA + ___",
+      "question": "¿Qué sílaba falta para decir TAZA (para tomar café)? TA + ___",
       "options": [
         "ZA",
         "ZO",
@@ -51,10 +51,10 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "¿Qué sílaba falta para decir GATO? GA + ___",
+      "question": "¿Qué sílaba falta para decir GATO (el animal)? GA + ___",
       "options": [
         "TO",
-        "TA",
+        "TI",
         "TE"
       ],
       "correctIndex": 0

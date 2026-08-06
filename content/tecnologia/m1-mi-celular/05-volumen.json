@@ -56,11 +56,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Dónde están normalmente los botones de volumen?",
+      "question": "¿Qué vemos en la pantalla cuando cambiamos el volumen?",
       "options": [
-        "A un lado del celular",
-        "Detrás de la cámara",
-        "Adentro de la pantalla"
+        "Una barra que sube o baja",
+        "Una foto",
+        "Nada"
       ],
       "correctIndex": 0
     },

@@ -56,22 +56,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la I?",
+      "question": "En la palabra ISLA, ¿cuál de estas letras escuchamos?",
       "options": [
         "I",
-        "E",
-        "O"
+        "A",
+        "E"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra SOL?",
+      "question": "¿Qué letra suena en la palabra SOL?",
       "answer": "O"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "L_NA",
+      "question": "L_NA (falta una vocal, se ve de noche en el cielo)",
       "options": [
         "A",
         "U",
@@ -81,17 +81,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la A?",
+      "question": "¿Cuál de estas letras aparece en la palabra CASA?",
       "options": [
+        "O",
         "A",
-        "E",
-        "I"
+        "U"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra LECHE?",
+      "question": "En la palabra LECHE, ¿qué letra reconoces?",
       "answer": "E"
     },
     {
@@ -106,13 +106,13 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la O?",
+      "question": "Fíjate en la palabra OJO. ¿Cuál de estas letras tiene?",
       "options": [
-        "O",
-        "U",
-        "A"
+        "A",
+        "E",
+        "O"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "match-pairs",

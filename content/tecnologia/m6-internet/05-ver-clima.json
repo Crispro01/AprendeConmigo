@@ -61,11 +61,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Qué información nos da el clima?",
+      "question": "¿Con qué frecuencia podemos revisar el clima en el celular?",
       "options": [
-        "Si hace sol, frío o lluvia",
-        "El precio del pan",
-        "Un número de teléfono"
+        "Las veces que queramos, es gratis",
+        "Solo una vez al mes",
+        "Nunca, hay que adivinar"
       ],
       "correctIndex": 0
     },

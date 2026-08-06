@@ -71,11 +71,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Dónde escribimos lo que queremos buscar?",
+      "question": "¿Qué necesitamos para poder usar el navegador?",
       "options": [
-        "En la barra de arriba",
-        "En la cámara",
-        "En el teclado del teléfono"
+        "Conexión a internet",
+        "Solo el celular apagado",
+        "Nada"
       ],
       "correctIndex": 0
     },

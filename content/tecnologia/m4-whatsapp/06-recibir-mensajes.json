@@ -61,11 +61,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Qué tocamos para escuchar un audio recibido?",
+      "question": "¿Qué debemos hacer al ver una notificación de mensaje nuevo?",
       "options": [
-        "El botón de play",
-        "El botón de basura",
-        "El botón de llamar"
+        "Tocarla o abrir WhatsApp para leerlo",
+        "Ignorarla siempre",
+        "Apagar el celular"
       ],
       "correctIndex": 0
     },

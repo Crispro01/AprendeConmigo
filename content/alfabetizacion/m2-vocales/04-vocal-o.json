@@ -46,7 +46,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "S_L",
+      "question": "S_L (falta una vocal, brilla de día en el cielo)",
       "options": [
         "A",
         "O",
@@ -56,7 +56,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la O?",
+      "question": "En la palabra OSO, ¿cuál de estas letras escuchamos?",
       "options": [
         "O",
         "A",
@@ -66,12 +66,12 @@
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra OJO?",
+      "question": "¿Qué letra suena en la palabra OJO?",
       "answer": "O"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_JO",
+      "question": "_JO (falta una vocal, sirve para ver)",
       "options": [
         "U",
         "O",
@@ -81,22 +81,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la O?",
+      "question": "¿Cuál de estas letras aparece en la palabra ROPA?",
       "options": [
+        "I",
         "O",
-        "U",
-        "A"
+        "U"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra POLLO?",
+      "question": "En la palabra POLLO, ¿qué letra reconoces?",
       "answer": "O"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "P_LLO",
+      "question": "P_LLO (falta una vocal, animal de granja que se come)",
       "options": [
         "I",
         "O",
@@ -106,17 +106,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la O?",
+      "question": "Fíjate en la palabra OSO. ¿Cuál de estas letras tiene?",
       "options": [
-        "O",
-        "I",
-        "U"
+        "A",
+        "E",
+        "O"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra TOMATE?",
+      "question": "¿Qué letra aparece en la palabra TOMATE?",
       "answer": "O"
     }
   ]

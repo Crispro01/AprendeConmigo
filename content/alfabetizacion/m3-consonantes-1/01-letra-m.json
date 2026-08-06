@@ -61,17 +61,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la M?",
+      "question": "En la palabra LIMÓN, ¿cuál de estas letras escuchamos?",
       "options": [
         "M",
-        "S",
-        "L"
+        "P",
+        "S"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra MAMÁ?",
+      "question": "¿Qué letra suena en la palabra MAMÁ?",
       "answer": "M"
     },
     {
@@ -86,22 +86,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la M?",
+      "question": "¿Cuál de estas letras aparece en la palabra TOMATE?",
       "options": [
+        "L",
         "M",
-        "P",
-        "S"
+        "T"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra CAMA?",
+      "question": "En la palabra CAMA, ¿qué letra reconoces?",
       "answer": "M"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "CA_A",
+      "question": "CA_A (falta una letra, donde dormimos)",
       "options": [
         "T",
         "M",
@@ -111,17 +111,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la M?",
+      "question": "Fíjate en la palabra LIMÓN. ¿Cuál de estas letras tiene?",
       "options": [
-        "M",
-        "T",
-        "P"
+        "P",
+        "S",
+        "M"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra MANO?",
+      "question": "¿Qué letra aparece en la palabra MANO?",
       "answer": "M"
     }
   ]

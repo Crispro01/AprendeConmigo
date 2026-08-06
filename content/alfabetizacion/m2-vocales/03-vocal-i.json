@@ -41,11 +41,11 @@
   "exercises": [
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la I?",
+      "question": "En la palabra CAMISA, ¿cuál de estas letras escuchamos?",
       "options": [
         "I",
-        "E",
-        "O"
+        "A",
+        "E"
       ],
       "correctIndex": 0
     },
@@ -66,17 +66,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la I?",
+      "question": "¿Cuál de estas letras aparece en la palabra NIÑO?",
       "options": [
+        "O",
         "I",
-        "A",
-        "E"
+        "U"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra SILLA?",
+      "question": "¿Qué letra suena en la palabra SILLA?",
       "answer": "I"
     },
     {
@@ -91,17 +91,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la I?",
+      "question": "Fíjate en la palabra AMIGO. ¿Cuál de estas letras tiene?",
       "options": [
-        "I",
-        "U",
-        "A"
+        "A",
+        "E",
+        "I"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra LIBRO?",
+      "question": "En la palabra LIBRO, ¿qué letra reconoces?",
       "answer": "I"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la I?",
+      "question": "De estas letras, ¿cuál está en la palabra CAMISA?",
       "options": [
         "I",
         "O",

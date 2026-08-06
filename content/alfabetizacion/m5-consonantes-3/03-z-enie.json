@@ -61,17 +61,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la Z?",
+      "question": "En la palabra LUZ, ¿cuál de estas letras escuchamos?",
       "options": [
         "Z",
-        "C",
-        "Ñ"
+        "S",
+        "C"
       ],
       "correctIndex": 0
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra NIÑO?",
+      "question": "¿Qué letra suena en la palabra NIÑO?",
       "answer": "Ñ"
     },
     {
@@ -86,42 +86,42 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la Ñ?",
+      "question": "¿Cuál de estas letras aparece en la palabra BAÑO?",
       "options": [
-        "Ñ",
-        "N",
-        "M"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra TAZA?",
-      "answer": "Z"
-    },
-    {
-      "type": "fill-in-the-blank-choice",
-      "question": "A_O",
-      "options": [
-        "S",
+        "C",
         "Ñ",
         "N"
       ],
       "correctIndex": 1
     },
     {
-      "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la Z?",
+      "type": "type-word",
+      "question": "En la palabra TAZA, ¿qué letra reconoces?",
+      "answer": "Z"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "A_O (falta una letra con una rayita arriba, tiene 12 meses)",
       "options": [
-        "Z",
-        "N",
-        "S"
+        "S",
+        "Ñ",
+        "L"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Fíjate en la palabra LUZ. ¿Cuál de estas letras tiene?",
+      "options": [
+        "S",
+        "C",
+        "Z"
+      ],
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra AÑO?",
+      "question": "¿Qué letra aparece en la palabra AÑO?",
       "answer": "Ñ"
     }
   ]

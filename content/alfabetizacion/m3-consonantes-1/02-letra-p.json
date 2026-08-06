@@ -46,7 +46,7 @@
   "exercises": [
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_AN",
+      "question": "_AN (falta una letra, se come con mantequilla)",
       "options": [
         "S",
         "P",
@@ -56,11 +56,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la P?",
+      "question": "En la palabra PATO, ¿cuál de estas letras escuchamos?",
       "options": [
         "P",
-        "S",
-        "L"
+        "M",
+        "S"
       ],
       "correctIndex": 0
     },
@@ -81,22 +81,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la P?",
+      "question": "¿Cuál de estas letras aparece en la palabra TAPA?",
       "options": [
+        "L",
         "P",
-        "M",
-        "S"
+        "T"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra PAPÁ?",
+      "question": "¿Qué letra suena en la palabra PAPÁ?",
       "answer": "P"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "SO_A",
+      "question": "SO_A (falta una letra, se come caliente con cuchara)",
       "options": [
         "T",
         "P",
@@ -106,17 +106,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la P?",
+      "question": "Fíjate en la palabra ROPA. ¿Cuál de estas letras tiene?",
       "options": [
-        "P",
-        "T",
-        "M"
+        "M",
+        "S",
+        "P"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra SOPA?",
+      "question": "En la palabra SOPA, ¿qué letra reconoces?",
       "answer": "P"
     },
     {

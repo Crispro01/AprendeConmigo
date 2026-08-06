@@ -41,11 +41,11 @@
   "exercises": [
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la R?",
+      "question": "En la palabra TORO, ¿cuál de estas letras escuchamos?",
       "options": [
         "R",
-        "N",
-        "C"
+        "D",
+        "N"
       ],
       "correctIndex": 0
     },
@@ -56,7 +56,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "CA_O",
+      "question": "CA_O (falta una letra, cuesta mucho dinero)",
       "options": [
         "D",
         "R",
@@ -66,42 +66,42 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la R?",
+      "question": "¿Cuál de estas letras aparece en la palabra CARTA?",
       "options": [
+        "C",
         "R",
-        "D",
-        "N"
+        "B"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra PERO?",
+      "question": "¿Qué letra suena en la palabra PERO?",
       "answer": "R"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "PE_O",
+      "question": "PE_O (falta una letra, se usa para decir 'sin embargo')",
       "options": [
         "B",
         "R",
-        "D"
+        "N"
       ],
       "correctIndex": 1
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la R?",
+      "question": "Fíjate en la palabra PARED. ¿Cuál de estas letras tiene?",
       "options": [
-        "R",
-        "B",
-        "D"
+        "D",
+        "N",
+        "R"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra ARENA?",
+      "question": "En la palabra ARENA, ¿qué letra reconoces?",
       "answer": "R"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la R?",
+      "question": "De estas letras, ¿cuál está en la palabra TORO?",
       "options": [
         "R",
         "C",

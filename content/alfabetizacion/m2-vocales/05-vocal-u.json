@@ -41,7 +41,7 @@
   "exercises": [
     {
       "type": "fill-in-the-blank-choice",
-      "question": "L_NA",
+      "question": "L_NA (falta una vocal, se ve de noche en el cielo)",
       "options": [
         "A",
         "U",
@@ -51,7 +51,7 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la U?",
+      "question": "En la palabra CUNA, ¿cuál de estas letras escuchamos?",
       "options": [
         "U",
         "A",
@@ -66,7 +66,7 @@
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "_VA",
+      "question": "_VA (falta una vocal, fruta pequeña y morada)",
       "options": [
         "O",
         "U",
@@ -76,17 +76,17 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la U?",
+      "question": "¿Cuál de estas letras aparece en la palabra TUCAN?",
       "options": [
+        "I",
         "U",
-        "O",
-        "A"
+        "O"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra UVA?",
+      "question": "¿Qué letra suena en la palabra UVA?",
       "answer": "U"
     },
     {
@@ -101,22 +101,22 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Cuál de estas letras es la U?",
+      "question": "Fíjate en la palabra USO. ¿Cuál de estas letras tiene?",
       "options": [
-        "U",
-        "I",
-        "O"
+        "A",
+        "E",
+        "U"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "type": "type-word",
-      "question": "¿Qué letra escuchas en la palabra MUSICA?",
+      "question": "En la palabra MUSICA, ¿qué letra reconoces?",
       "answer": "U"
     },
     {
       "type": "fill-in-the-blank-choice",
-      "question": "C_NA",
+      "question": "C_NA (falta una vocal, donde duerme un bebé)",
       "options": [
         "E",
         "U",

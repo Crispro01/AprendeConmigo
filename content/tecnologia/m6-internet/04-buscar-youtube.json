@@ -81,8 +81,8 @@
     },
     {
       "type": "type-word",
-      "question": "¿De qué color es el ícono de YouTube?",
-      "answer": "ROJO"
+      "question": "¿Qué símbolo tocamos para buscar un video? (una palabra)",
+      "answer": "LUPA"
     }
   ]
 }

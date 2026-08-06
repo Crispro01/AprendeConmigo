@@ -51,11 +51,11 @@
     },
     {
       "type": "multiple-choice",
-      "question": "¿Para qué sirven las apps de salud?",
+      "question": "¿Por qué son útiles las apps de salud para personas con movilidad reducida?",
       "options": [
-        "Para agendar citas médicas",
-        "Para tomar fotos",
-        "Para hacer videollamadas solamente"
+        "Evitan tener que desplazarse para pedir una cita",
+        "No tienen ninguna utilidad",
+        "Solo sirven para jóvenes"
       ],
       "correctIndex": 0
     },
