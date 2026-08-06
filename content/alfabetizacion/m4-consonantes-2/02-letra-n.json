@@ -1,0 +1,133 @@
+{
+  "id": "letra-n",
+  "moduleId": "m4-consonantes-2",
+  "title": "La N",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La N se produce tocando el paladar con la lengua, dejando salir el aire por la nariz. La escuchamos en palabras como NUBE o MANO."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Toca el paladar con la lengua, como con la L, pero esta vez tapa la salida de aire por la boca."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Deja salir el sonido por la nariz y di: NA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Combina la N con las vocales: NA - NE - NI - NO - NU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Busca la N en la palabra NUBE."
+    },
+    {
+      "type": "analogy",
+      "text": "La N es como cuando tapas tu nariz al resfriarte: el sonido sale por ahí en vez de por la boca."
+    },
+    {
+      "type": "image",
+      "src": "N n",
+      "alt": "La letra N mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "Si te tapas la nariz mientras dices 'NA', vas a notar que el sonido cambia o se corta. Así puedes comprobar que el aire sale por ahí."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_UBE",
+      "options": [
+        "R",
+        "N",
+        "C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la N?",
+      "options": [
+        "N",
+        "R",
+        "C"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra NUBE?",
+      "answer": "N"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "MA_O",
+      "options": [
+        "D",
+        "N",
+        "R"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la N?",
+      "options": [
+        "N",
+        "D",
+        "R"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MANO?",
+      "answer": "N"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "LU_A",
+      "options": [
+        "B",
+        "N",
+        "D"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la N?",
+      "options": [
+        "N",
+        "B",
+        "D"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra LUNA?",
+      "answer": "N"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "A_IMAL",
+      "options": [
+        "C",
+        "N",
+        "B"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

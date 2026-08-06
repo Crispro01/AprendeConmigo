@@ -1,0 +1,88 @@
+{
+  "id": "llamadas-perdidas",
+  "moduleId": "m2-llamadas",
+  "title": "Llamadas perdidas e historial",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "El celular guarda un registro de todas las llamadas: las que hiciste, las que recibiste, y las que no contestaste (llamadas perdidas)."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre Teléfono y busca la pestaña que dice 'Recientes' o 'Historial'."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Ahí vas a ver una lista con nombres o números y la hora de cada llamada."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Una llamada perdida suele aparecer marcada en rojo o con una flecha especial."
+    },
+    {
+      "type": "analogy",
+      "text": "El historial de llamadas es como el buzón de un contestador antiguo: guarda un registro de quién llamó, aunque no hayas contestado."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m2-llamadas/05-llamadas-perdidas.png",
+      "alt": "Ícono de llamada perdida en el historial del celular"
+    },
+    {
+      "type": "tip",
+      "text": "Si ves una llamada perdida de un número que no conoces, tómate tu tiempo antes de devolverla. No toda llamada desconocida necesita respuesta inmediata."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde vemos las llamadas que no contestamos?",
+      "options": [
+        "En el historial o llamadas recientes",
+        "En la cámara",
+        "En el calendario"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde vemos el registro de llamadas?",
+      "options": [
+        "En Recientes o Historial",
+        "En la Cámara",
+        "En WhatsApp"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿De qué color suele marcarse una llamada perdida?",
+      "options": [
+        "Rojo",
+        "Verde",
+        "Azul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer con una llamada perdida de un número desconocido?",
+      "options": [
+        "Tener cuidado antes de devolverla",
+        "Devolverla de inmediato sin pensar",
+        "Ignorarla siempre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cómo se llama una llamada que no contestamos? (una palabra)",
+      "answer": "PERDIDA"
+    }
+  ]
+}

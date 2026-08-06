@@ -1,0 +1,88 @@
+{
+  "id": "abrir-conversacion",
+  "moduleId": "m4-whatsapp",
+  "title": "Abrir una conversación",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Cada conversación en WhatsApp es como una carpeta separada para hablar con una persona o un grupo. Vamos a aprender a abrirla."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación WhatsApp tocando su ícono."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Vas a ver una lista con los nombres de las personas con las que ya has hablado."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Toca el nombre de la persona con la que quieres hablar, y se va a abrir la conversación completa."
+    },
+    {
+      "type": "analogy",
+      "text": "Cada conversación de WhatsApp es como una carpeta con cartas de una sola persona: ahí están guardados todos los mensajes entre ustedes."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m4-whatsapp/02-abrir-conversacion.png",
+      "alt": "Lista de conversaciones en aplicación de mensajería"
+    },
+    {
+      "type": "tip",
+      "text": "Si no encuentras a alguien en la lista, puede que aún no hayan hablado antes; en ese caso, necesitas buscarla entre tus contactos."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para abrir una conversación?",
+      "options": [
+        "El nombre de la persona",
+        "El ícono de la cámara",
+        "El botón de apagar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué vemos en la lista principal de WhatsApp?",
+      "options": [
+        "Los nombres de las personas con quienes hablamos",
+        "Solo números",
+        "Fotos sin nombres"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué hacemos si no encontramos a alguien en la lista de chats?",
+      "options": [
+        "Buscarlo entre los contactos",
+        "Es imposible hablarle",
+        "Crear un contacto falso"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué pasa al tocar el nombre de una persona en WhatsApp?",
+      "options": [
+        "Se abre la conversación con ella",
+        "Se borra el contacto",
+        "Se llama automáticamente"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Dónde vemos todos los mensajes con una persona? (una palabra)",
+      "answer": "CONVERSACION"
+    }
+  ]
+}

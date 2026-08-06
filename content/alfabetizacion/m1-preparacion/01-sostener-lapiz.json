@@ -1,0 +1,98 @@
+{
+  "id": "sostener-lapiz",
+  "moduleId": "m1-preparacion",
+  "title": "Cómo sostener el lápiz",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Aprender a escribir empieza por algo muy simple: cómo sostenemos el lápiz. Si lo sostenemos de forma cómoda, escribir será mucho menos cansado y más fácil de controlar."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m1-preparacion/01-sostener-lapiz.png",
+      "alt": "Mano sosteniendo correctamente un lápiz sobre papel de cuaderno"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Toma el lápiz con tres dedos: el pulgar, el índice y el dedo del medio."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "El pulgar y el índice sostienen el lápiz por los lados, como si hicieras una pinza suave."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "El dedo del medio queda debajo, apoyando el lápiz para que no se caiga."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Siéntate derecho, con la espalda apoyada, los pies en el suelo y el papel justo frente a ti, no de lado."
+    },
+    {
+      "type": "analogy",
+      "text": "Sostener el lápiz es como sostener una cuchara para comer: al principio hay que pensarlo, pero con la práctica la mano lo hace sola."
+    },
+    {
+      "type": "tip",
+      "text": "No hay una única forma 'correcta': lo importante es que tu mano esté relajada, no apretada. Si te duele la mano, para, descansa un momento y sigue luego."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Con qué dedos sostenemos el lápiz principalmente?",
+      "options": [
+        "Pulgar e índice",
+        "Los cinco dedos apretados",
+        "Solo el meñique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué dedo va debajo del lápiz para apoyarlo?",
+      "options": [
+        "El dedo del medio",
+        "El meñique",
+        "El pulgar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo deben estar tus pies mientras escribes?",
+      "options": [
+        "Apoyados en el suelo",
+        "Cruzados en el aire",
+        "No importa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde debe estar el papel mientras escribes?",
+      "options": [
+        "Frente a ti",
+        "A un lado, sin mirarlo",
+        "Detrás de ti"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Si te cansa la mano al escribir, ¿qué debes hacer?",
+      "options": [
+        "Descansar un momento",
+        "Seguir sin parar",
+        "Dejar de practicar para siempre"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

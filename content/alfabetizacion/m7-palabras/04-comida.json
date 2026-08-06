@@ -1,0 +1,93 @@
+{
+  "id": "comida",
+  "moduleId": "m7-palabras",
+  "title": "Palabras de comida",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La comida es parte de nuestro día a día, así que estas palabras te van a ser muy útiles, por ejemplo para hacer una lista de compras."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "PAN es uno de los alimentos más comunes."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "AGUA es lo que tomamos para no deshidratarnos."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "ARROZ y SAL son parte de muchas comidas."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "LECHE también se toma, como el agua."
+    },
+    {
+      "type": "analogy",
+      "text": "Aprender palabras de comida es como aprender el menú de tu propia cocina: son palabras que ya usas hablando, solo falta reconocerlas escritas."
+    },
+    {
+      "type": "image",
+      "src": "🍞",
+      "alt": "Pan"
+    },
+    {
+      "type": "tip",
+      "text": "Cuando vayas a comprar, intenta leer estas palabras en los envases o en tu lista. Practicar en la vida real ayuda mucho."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas palabras se toma, no se come?",
+      "options": [
+        "AGUA",
+        "PAN",
+        "ARROZ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas palabras es un alimento, no una bebida?",
+      "options": [
+        "PAN",
+        "AGUA",
+        "LECHE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la palabra: ARROZ",
+      "answer": "ARROZ"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra nombra algo que le ponemos a la comida para darle sabor?",
+      "options": [
+        "SAL",
+        "PAN",
+        "AGUA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas también se toma, como el agua?",
+      "options": [
+        "LECHE",
+        "PAN",
+        "ARROZ"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

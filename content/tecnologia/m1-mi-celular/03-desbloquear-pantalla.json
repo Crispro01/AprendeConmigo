@@ -1,0 +1,88 @@
+{
+  "id": "desbloquear-pantalla",
+  "moduleId": "m1-mi-celular",
+  "title": "Desbloquear la pantalla",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Cuando no usamos el celular por un rato, la pantalla se bloquea sola para ahorrar batería y proteger tu información. Vamos a aprender a desbloquearla."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Presiona una vez el botón lateral para 'despertar' la pantalla."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Vas a ver la hora y, debajo, algún mensaje o símbolo para desbloquear."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Desliza el dedo hacia arriba desde la parte de abajo de la pantalla, o ingresa tu clave o patrón si lo configuraste."
+    },
+    {
+      "type": "analogy",
+      "text": "Desbloquear la pantalla es como abrir la puerta de tu casa con llave: solo tú, o quien tenga la clave, puede entrar."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/03-desbloquear-pantalla.png",
+      "alt": "Pantalla de desbloqueo con teclado numérico"
+    },
+    {
+      "type": "tip",
+      "text": "Elige una clave que tú puedas recordar fácilmente, pero que otras personas no puedan adivinar fácilmente, como una fecha muy conocida por todos."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué gesto usamos generalmente para desbloquear la pantalla?",
+      "options": [
+        "Deslizar el dedo hacia arriba",
+        "Soplar la pantalla",
+        "Golpear el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer primero para desbloquear la pantalla?",
+      "options": [
+        "Presionar el botón lateral",
+        "Apagar el celular",
+        "Sacar la batería"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tipo de clave es mejor elegir?",
+      "options": [
+        "Una que recuerdes fácil pero otros no adivinen",
+        "Cualquiera, no importa",
+        "1234 siempre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué gesto usamos comúnmente para desbloquear?",
+      "options": [
+        "Deslizar el dedo hacia arriba",
+        "Soplar la pantalla",
+        "Sacudir el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué necesitamos para desbloquear la pantalla, además del gesto? (una palabra)",
+      "answer": "CLAVE"
+    }
+  ]
+}

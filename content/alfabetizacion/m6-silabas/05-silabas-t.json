@@ -1,0 +1,83 @@
+{
+  "id": "silabas-t",
+  "moduleId": "m6-silabas",
+  "title": "Sílabas con T",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Terminamos este grupo de sílabas con la T."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Di despacio: TA."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Sigue con: TE - TI - TO - TU."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Repite las cinco seguidas: TA - TE - TI - TO - TU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Piensa en una palabra que tenga TA, como TAZA."
+    },
+    {
+      "type": "analogy",
+      "text": "Ya llevas cinco grupos de sílabas: es como haber aprendido cinco recetas básicas, ahora puedes empezar a combinarlas para crear más."
+    },
+    {
+      "type": "tip",
+      "text": "Ya practicaste sílabas con 5 consonantes distintas. Eso es una base muy sólida para empezar a leer palabras completas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir TAZA? TA + ___",
+      "options": [
+        "ZA",
+        "ZO",
+        "ZE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir GATO? GA + ___",
+      "options": [
+        "TO",
+        "TA",
+        "TE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la sílaba TI",
+      "answer": "TI"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas es una sílaba con T?",
+      "options": [
+        "TU",
+        "SU",
+        "LU"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Di y escribe la sílaba: T + E = ?",
+      "answer": "TE"
+    }
+  ]
+}

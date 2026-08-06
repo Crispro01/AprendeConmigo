@@ -1,0 +1,123 @@
+{
+  "id": "vocal-a",
+  "moduleId": "m2-vocales",
+  "title": "La A",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Empezamos por las vocales, las letras más importantes del español: A, E, I, O, U. Vas a encontrarlas en casi todas las palabras que existen. Hoy conocemos la primera: la A."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre bien la boca, como si fueras a bostezar, y di: 'A'."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Fíjate que el sonido sale limpio, sin cerrar los labios ni la garganta."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Ahora busca la A en la palabra CASA: C-A-S-A. ¿La escuchas dos veces?"
+    },
+    {
+      "type": "analogy",
+      "text": "La A es como la puerta principal de una casa: es la primera letra que casi todos aprenden a reconocer, porque abre el camino a todas las demás."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m2-vocales/01-vocal-a.png",
+      "alt": "Letra A mayúscula y a minúscula con una manzana"
+    },
+    {
+      "type": "tip",
+      "text": "Practica diciendo en voz alta otras palabras que empiecen con A, como AGUA, ARROZ o AMIGO. Repetirlas ayuda a que el sonido se te quede grabado."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra AGUA?",
+      "answer": "A"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_GUA",
+      "options": [
+        "I",
+        "A",
+        "O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la A?",
+      "options": [
+        "A",
+        "I",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CASA?",
+      "answer": "A"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "C_SA",
+      "options": [
+        "E",
+        "A",
+        "I"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la A?",
+      "options": [
+        "A",
+        "E",
+        "I"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MESA?",
+      "answer": "A"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "MES_",
+      "options": [
+        "U",
+        "A",
+        "E"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la A?",
+      "options": [
+        "A",
+        "U",
+        "E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MANO?",
+      "answer": "A"
+    }
+  ]
+}

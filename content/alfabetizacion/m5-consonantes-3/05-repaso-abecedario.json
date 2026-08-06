@@ -1,0 +1,127 @@
+{
+  "id": "repaso-abecedario",
+  "moduleId": "m5-consonantes-3",
+  "title": "Repaso del abecedario completo",
+  "order": 5,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "¡Felicidades! Has llegado a conocer todas las letras del abecedario en español. Esto es un logro importante, tómate un momento para reconocerlo."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Intenta decir el abecedario completo en voz alta, de la A a la Z, sin apuro."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Si te trabas en alguna letra, vuelve a repasar esa lección en particular."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Piensa en una palabra para cada letra que te cueste más."
+    },
+    {
+      "type": "analogy",
+      "text": "Saberte todo el abecedario es como conocer todos los ingredientes de la despensa: ya tienes todo lo necesario para 'cocinar' cualquier palabra."
+    },
+    {
+      "type": "tip",
+      "text": "Nadie recuerda todo el abecedario perfecto la primera vez. Lo importante no es la velocidad, sino seguir practicando poco a poco."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántas vocales tiene el español?",
+      "options": [
+        "5",
+        "3",
+        "7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál es la primera letra del abecedario?",
+      "options": [
+        "A",
+        "B",
+        "Z"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál es la última letra del abecedario?",
+      "options": [
+        "Z",
+        "Y",
+        "A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál letra no se pronuncia?",
+      "options": [
+        "H",
+        "L",
+        "R"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál letra tiene una rayita especial arriba?",
+      "options": [
+        "Ñ",
+        "N",
+        "M"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la primera vocal del abecedario",
+      "answer": "A"
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la última vocal del abecedario",
+      "answer": "U"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas es una combinación de dos letras?",
+      "options": [
+        "CH",
+        "F",
+        "S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántas letras tiene aproximadamente el abecedario en español?",
+      "options": [
+        "27",
+        "10",
+        "50"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tipo de letra es la M: vocal o consonante?",
+      "options": [
+        "Consonante",
+        "Vocal"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

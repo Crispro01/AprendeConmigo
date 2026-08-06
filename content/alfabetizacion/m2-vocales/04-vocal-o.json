@@ -1,0 +1,123 @@
+{
+  "id": "vocal-o",
+  "moduleId": "m2-vocales",
+  "title": "La O",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La cuarta vocal es la O. La escuchamos en palabras como OJO o SOL, y se reconoce fácil porque los labios forman un círculo."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Redondea los labios, como si fueras a soplar suavemente, y di: 'O'."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca la O en la palabra SOL: S-O-L."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Compara la O con la U diciendo las dos: O - U. Son parecidas, pero no iguales."
+    },
+    {
+      "type": "analogy",
+      "text": "La O es como un anillo o una rueda: un círculo completo, la letra más redonda del abecedario."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m2-vocales/04-vocal-o.png",
+      "alt": "Letra O mayúscula u o minúscula con un oso"
+    },
+    {
+      "type": "tip",
+      "text": "Un truco: si al decir la vocal tus labios forman un círculo, seguramente es la O."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra SOL?",
+      "answer": "O"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "S_L",
+      "options": [
+        "A",
+        "O",
+        "E"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la O?",
+      "options": [
+        "O",
+        "A",
+        "E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra OJO?",
+      "answer": "O"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_JO",
+      "options": [
+        "U",
+        "O",
+        "A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la O?",
+      "options": [
+        "O",
+        "U",
+        "A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra POLLO?",
+      "answer": "O"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "P_LLO",
+      "options": [
+        "I",
+        "O",
+        "U"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la O?",
+      "options": [
+        "O",
+        "I",
+        "U"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra TOMATE?",
+      "answer": "O"
+    }
+  ]
+}

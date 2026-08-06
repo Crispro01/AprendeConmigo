@@ -1,0 +1,88 @@
+{
+  "id": "tramites-gobierno",
+  "moduleId": "m8-tramites",
+  "title": "Trámites de gobierno en línea",
+  "order": 5,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Cada vez más trámites, como certificados o citas oficiales, se pueden hacer desde el celular o computadora, ahorrando tiempo y evitando filas largas."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m8-tramites/05-tramites-gobierno.png",
+      "alt": "Portal de trámites gubernamentales e identidad digital"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Busca siempre la página oficial de la institución del gobierno con la que quieres hacer el trámite."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Ten a la mano tu número de cédula y tus datos personales antes de empezar."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Verifica que la página sea realmente la oficial antes de ingresar cualquier información."
+    },
+    {
+      "type": "analogy",
+      "text": "Un trámite en línea es como llenar un formulario en una oficina pública, pero hecho desde tu casa y sin hacer fila."
+    },
+    {
+      "type": "tip",
+      "text": "Si tienes dudas sobre cuál es la página oficial, puedes preguntar en la institución de forma presencial o telefónica antes de hacerlo en línea."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos verificar antes de ingresar nuestros datos en una página de gobierno?",
+      "options": [
+        "Que sea la página oficial",
+        "Que tenga muchos colores",
+        "Que sea gratis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ventaja tienen los trámites en línea?",
+      "options": [
+        "Ahorran tiempo y evitan filas",
+        "No tienen ventajas",
+        "Son más lentos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos tener a la mano para un trámite en línea?",
+      "options": [
+        "Nuestro número de cédula y datos",
+        "Solo el celular",
+        "Nada en particular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos verificar antes de ingresar nuestros datos?",
+      "options": [
+        "Que sea la página oficial",
+        "Que tenga muchos colores",
+        "Que sea gratis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué tipo de página debemos buscar para un trámite de gobierno? (una palabra)",
+      "answer": "OFICIAL"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "cargar-bateria",
+  "moduleId": "m1-mi-celular",
+  "title": "Cargar la batería correctamente",
+  "order": 6,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Mantener el celular cargado es importante para poder usarlo cuando lo necesites, sobre todo en una emergencia."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Conecta primero el cable al celular, en la parte de abajo generalmente."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Luego conecta el otro extremo del cable al cargador, y el cargador a la corriente."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Vas a ver en la pantalla un símbolo de rayo o un número que empieza a subir, indicando que está cargando."
+    },
+    {
+      "type": "analogy",
+      "text": "Cargar la batería es como llenar un tanque de agua: mientras más vacío está, más tiempo toma llenarlo de nuevo."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/06-cargar-bateria.png",
+      "alt": "Cable de carga conectado al celular"
+    },
+    {
+      "type": "tip",
+      "text": "Es mejor cargar el celular con calma, antes de que se quede completamente sin batería, en vez de esperar a que se apague solo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué señal indica que el celular se está cargando?",
+      "options": [
+        "Un símbolo de rayo o un número que sube",
+        "La pantalla se apaga sola",
+        "El celular suena fuerte"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué conectamos primero al cargar el celular?",
+      "options": [
+        "El cable al celular",
+        "El cable a la corriente",
+        "Nada, se carga solo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué símbolo indica que el celular se está cargando?",
+      "options": [
+        "Un rayo",
+        "Una estrella",
+        "Un corazón"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuándo es mejor cargar el celular?",
+      "options": [
+        "Antes de que se quede sin batería",
+        "Solo cuando se apague",
+        "Nunca hace falta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué usamos para darle batería al celular? (una palabra)",
+      "answer": "CARGADOR"
+    }
+  ]
+}

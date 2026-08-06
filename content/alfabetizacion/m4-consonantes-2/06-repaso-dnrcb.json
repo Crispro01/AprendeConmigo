@@ -1,0 +1,139 @@
+{
+  "id": "repaso-dnrcb",
+  "moduleId": "m4-consonantes-2",
+  "title": "Repaso: D, N, R, C, B",
+  "order": 6,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ya conoces cinco letras más: D, N, R, C, B. Junto con las anteriores, ya tienes la mayoría de las consonantes más usadas del español."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Repite el sonido de cada letra por separado: D... N... R... C... B..."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Combina cada una con la vocal A: DA - NA - RA (suave) - CA - BA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Piensa en una palabra para cada una: DEDO, NUBE, CARO, CASA, BOTA."
+    },
+    {
+      "type": "analogy",
+      "text": "Repasar D, N, R, C, B es como revisar las llaves de tu llavero: cada una abre una puerta distinta, y ya las reconoces por su forma."
+    },
+    {
+      "type": "tip",
+      "text": "Vas muy bien. Cada letra que aprendes te acerca un poco más a poder leer cualquier palabra que necesites."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra DEDO?",
+      "answer": "D"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_UBE",
+      "options": [
+        "R",
+        "N",
+        "C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la R?",
+      "options": [
+        "R",
+        "N",
+        "C"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CASA?",
+      "answer": "C"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_OTA",
+      "options": [
+        "D",
+        "B",
+        "N"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la D?",
+      "options": [
+        "D",
+        "N",
+        "R"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra NUBE?",
+      "answer": "N"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "CA_O",
+      "options": [
+        "B",
+        "R",
+        "D"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la C?",
+      "options": [
+        "C",
+        "B",
+        "D"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada letra con una palabra que la contiene",
+      "pairs": [
+        {
+          "left": "D",
+          "right": "DEDO"
+        },
+        {
+          "left": "N",
+          "right": "NUBE"
+        },
+        {
+          "left": "R",
+          "right": "CARO"
+        },
+        {
+          "left": "C",
+          "right": "CASA"
+        },
+        {
+          "left": "B",
+          "right": "BOTA"
+        }
+      ]
+    }
+  ]
+}

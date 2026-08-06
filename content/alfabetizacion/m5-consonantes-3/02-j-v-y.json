@@ -1,0 +1,128 @@
+{
+  "id": "j-v-y",
+  "moduleId": "m5-consonantes-3",
+  "title": "J, V y Y",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora vemos otras tres letras: J, V y Y. Cada una aparece mucho en palabras de todos los días."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "La J suena fuerte, como si viniera desde la garganta, como en JUGO o CAJA."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "La V suena casi igual que la B, con los labios juntos suavemente, como en VACA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "La Y puede sonar como en YO (fuerte) o, cuando está sola como palabra, como la I (por ejemplo, en 'tú Y yo')."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Practica: JUGO, VACA, YO."
+    },
+    {
+      "type": "analogy",
+      "text": "La J suena fuerte, como cuando alguien tose desde el fondo de la garganta."
+    },
+    {
+      "type": "tip",
+      "text": "Recuerda que la V y la B suenan casi igual al hablar; no te preocupes por distinguirlas de oído, con la lectura las irás reconociendo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra JUGO?",
+      "answer": "J"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_ACA",
+      "options": [
+        "Y",
+        "V",
+        "B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la J?",
+      "options": [
+        "J",
+        "Y",
+        "G"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra VACA?",
+      "answer": "V"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_UGO",
+      "options": [
+        "V",
+        "J",
+        "Y"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la V?",
+      "options": [
+        "V",
+        "J",
+        "Y"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CAJA?",
+      "answer": "J"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "NUE_E",
+      "options": [
+        "F",
+        "V",
+        "J"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la J?",
+      "options": [
+        "J",
+        "H",
+        "V"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál letra suena en la palabra JUGO?",
+      "options": [
+        "J",
+        "G",
+        "H"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

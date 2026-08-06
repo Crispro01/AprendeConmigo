@@ -1,0 +1,105 @@
+{
+  "id": "iconos-comunes",
+  "moduleId": "m1-mi-celular",
+  "title": "Reconocer los íconos comunes",
+  "order": 9,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Los íconos son los dibujitos pequeños que ves en la pantalla de tu celular. Cada uno representa una función o aplicación distinta, y reconocerlos te ayuda a moverte con más confianza."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "📞 con forma de teléfono: sirve para hacer y recibir llamadas."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "💬 con forma de globo de conversación: sirve para enviar mensajes."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "📷 con forma de cámara: sirve para tomar fotos."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "⚙️ con forma de engranaje: sirve para ajustar la configuración del celular."
+    },
+    {
+      "type": "analogy",
+      "text": "Los íconos del celular son como los letreros de las tiendas en un centro comercial: un dibujo pequeño te dice qué vas a encontrar adentro."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/09-iconos-comunes.png",
+      "alt": "Íconos comunes: llamadas, mensajes, cámara y configuración"
+    },
+    {
+      "type": "tip",
+      "text": "No necesitas memorizar todos los íconos de una vez. Con el uso diario, los vas a ir reconociendo naturalmente."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada ícono con su función",
+      "pairs": [
+        {
+          "left": "📞",
+          "right": "Llamar"
+        },
+        {
+          "left": "💬",
+          "right": "Enviar mensajes"
+        },
+        {
+          "left": "📷",
+          "right": "Tomar fotos"
+        },
+        {
+          "left": "⚙️",
+          "right": "Configuración"
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono representa la función de llamar?",
+      "options": [
+        "Un teléfono",
+        "Una cámara",
+        "Un engranaje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono representa la configuración del celular?",
+      "options": [
+        "Un engranaje",
+        "Un teléfono",
+        "Un globo de mensaje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono usamos para enviar mensajes?",
+      "options": [
+        "Un globo de conversación",
+        "Una cámara",
+        "Un engranaje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué ícono usamos para tomar fotos? (una palabra)",
+      "answer": "CAMARA"
+    }
+  ]
+}

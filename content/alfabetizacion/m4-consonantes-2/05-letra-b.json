@@ -1,0 +1,133 @@
+{
+  "id": "letra-b",
+  "moduleId": "m4-consonantes-2",
+  "title": "La B",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La B suena parecido a la P, pero esta sí usa la voz, con un sonido más suave. La encontramos en palabras como BOTA o ABUELA."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Junta los labios suavemente, sin apretar demasiado."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Deja salir el sonido con la voz, más suave que la P: BA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Combina la B con las vocales: BA - BE - BI - BO - BU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Busca la B en la palabra BOTA."
+    },
+    {
+      "type": "analogy",
+      "text": "La B es como la P pero más suave, con la voz encendida: parecido al 'bu' bajito que se usa para asustar de broma."
+    },
+    {
+      "type": "image",
+      "src": "B b",
+      "alt": "La letra B mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "En español, la B y la V suenan casi igual. No te preocupes por diferenciarlas al hablar, la diferencia importa más al escribir."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_OTA",
+      "options": [
+        "D",
+        "B",
+        "N"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la B?",
+      "options": [
+        "B",
+        "D",
+        "N"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra BOTA?",
+      "answer": "B"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "A_UELA",
+      "options": [
+        "C",
+        "B",
+        "D"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la B?",
+      "options": [
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra ABUELA?",
+      "answer": "B"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_EBÉ",
+      "options": [
+        "R",
+        "B",
+        "C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la B?",
+      "options": [
+        "B",
+        "R",
+        "C"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra BEBÉ?",
+      "answer": "B"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "LO_O",
+      "options": [
+        "N",
+        "B",
+        "R"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

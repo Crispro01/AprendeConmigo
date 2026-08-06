@@ -1,0 +1,88 @@
+{
+  "id": "grupo-familiar",
+  "moduleId": "m4-whatsapp",
+  "title": "Crear o usar un grupo familiar",
+  "order": 7,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Un grupo en WhatsApp permite que varias personas de tu familia hablen juntas en una sola conversación, como una reunión virtual constante."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Generalmente, alguien de la familia crea el grupo y va agregando a los demás miembros."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Una vez que estás en el grupo, todo lo que cualquier persona escriba lo van a poder ver todos los demás miembros."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Tú también puedes escribir, enviar fotos o audios al grupo, igual que en una conversación normal."
+    },
+    {
+      "type": "analogy",
+      "text": "Un grupo de WhatsApp es como una reunión familiar que nunca termina: todos pueden hablar y todos escuchan lo que se dice."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m4-whatsapp/07-grupo-familiar.png",
+      "alt": "Chat de grupo titulado Familia con varios avatares"
+    },
+    {
+      "type": "tip",
+      "text": "Ten en cuenta que lo que compartas en un grupo lo ven todas las personas que están en él, así que piensa antes de enviar información privada."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Quiénes ven los mensajes que escribes en un grupo familiar?",
+      "options": [
+        "Todos los miembros del grupo",
+        "Solo tú",
+        "Nadie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Quién puede ver los mensajes de un grupo?",
+      "options": [
+        "Todos los miembros del grupo",
+        "Solo quien lo creó",
+        "Nadie más que tú"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Quién agrega generalmente a los miembros de un grupo?",
+      "options": [
+        "Alguien de la familia que lo crea",
+        "Un desconocido",
+        "Nadie, se agregan solos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos tener en cuenta al compartir algo en un grupo?",
+      "options": [
+        "Que todos los miembros lo van a ver",
+        "No importa, nadie lo ve",
+        "Es privado como un mensaje directo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Un grupo de WhatsApp permite hablar con una o con varias personas?",
+      "answer": "VARIAS"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "sumar",
+  "moduleId": "m10-numeros",
+  "title": "Sumar cantidades pequeñas",
+  "order": 4,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Sumar significa juntar dos o más cantidades para saber cuánto hay en total. Lo usamos constantemente, por ejemplo al hacer compras."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Ejemplo simple: 2 + 3 = 5. Si tienes 2 manzanas y te dan 3 más, tienes 5 en total."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Practica contando con los dedos si te ayuda: primero levanta 2 dedos, luego 3 más, y cuenta todos juntos."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Ahora intenta: 4 + 1 = ?"
+    },
+    {
+      "type": "analogy",
+      "text": "Sumar es como juntar dos platos de comida en uno solo: al final tienes más cantidad que antes."
+    },
+    {
+      "type": "tip",
+      "text": "No hay nada de malo en usar los dedos, frijoles, monedas o cualquier objeto para ayudarte a sumar. Muchas personas lo hacen toda su vida."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 1 + 1?",
+      "answer": "2"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 2 + 2?",
+      "answer": "4"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 3 + 2?",
+      "answer": "5"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 4 + 1?",
+      "answer": "5"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 2 + 5?",
+      "answer": "7"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 3 + 3?",
+      "answer": "6"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 4 + 4?",
+      "answer": "8"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 5 + 3?",
+      "answer": "8"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 6 + 2?",
+      "answer": "8"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 4 + 5?",
+      "answer": "9"
+    }
+  ]
+}

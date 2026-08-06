@@ -1,0 +1,88 @@
+{
+  "id": "videollamada-grupal",
+  "moduleId": "m5-videollamadas",
+  "title": "Videollamada grupal con la familia",
+  "order": 4,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "WhatsApp también permite hacer videollamadas con varias personas al mismo tiempo, ideal para reuniones familiares especiales."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m5-videollamadas/04-videollamada-grupal.png",
+      "alt": "Videollamada grupal con varias ventanas en pantalla"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Durante una videollamada, busca una opción que diga 'Agregar participante'."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Elige a las personas de tu familia que quieres sumar a la llamada."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Todos van a poder verse y escucharse entre sí al mismo tiempo."
+    },
+    {
+      "type": "analogy",
+      "text": "Una videollamada grupal es como una reunión familiar donde todos se ven al mismo tiempo, aunque cada uno esté en su propia casa."
+    },
+    {
+      "type": "tip",
+      "text": "Las videollamadas grupales son perfectas para fechas especiales como cumpleaños o fiestas familiares, cuando no todos pueden estar en el mismo lugar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Se puede hacer una videollamada con más de 2 personas?",
+      "options": [
+        "Sí",
+        "No",
+        "Solo por teléfono normal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué opción usamos para sumar a más personas a la llamada?",
+      "options": [
+        "'Agregar participante'",
+        "'Borrar contacto'",
+        "'Configuración'"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué ocasiones son ideales las videollamadas grupales?",
+      "options": [
+        "Reuniones familiares especiales",
+        "Solo para trabajo",
+        "No sirven para nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Se puede ver a varias personas al mismo tiempo en una videollamada grupal?",
+      "options": [
+        "Sí",
+        "No, solo a una persona",
+        "Solo se escucha, no se ve"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Con cuántas personas como mínimo se necesita para que sea 'grupal'? (número)",
+      "answer": "3"
+    }
+  ]
+}

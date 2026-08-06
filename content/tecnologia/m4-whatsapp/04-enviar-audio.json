@@ -1,0 +1,93 @@
+{
+  "id": "enviar-audio",
+  "moduleId": "m4-whatsapp",
+  "title": "Enviar un audio (nota de voz)",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Si escribir te resulta difícil o cansado, puedes enviar un mensaje hablado, llamado nota de voz."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Busca el ícono de un micrófono 🎙️, generalmente donde estaría el botón de enviar si no hubiera texto escrito."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Mantén el dedo presionado sobre el ícono, sin soltarlo."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Mientras mantienes presionado, habla tu mensaje con normalidad."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Suelta el dedo cuando termines de hablar, y el audio se va a enviar solo."
+    },
+    {
+      "type": "analogy",
+      "text": "Un audio de WhatsApp es como dejar un recado grabado en una contestadora: hablas tú mismo, en vez de escribir."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m4-whatsapp/04-enviar-audio.png",
+      "alt": "Botón de micrófono presionado para enviar nota de voz"
+    },
+    {
+      "type": "tip",
+      "text": "Si te equivocas mientras grabas, desliza el dedo hacia la izquierda antes de soltar, y el audio se cancela sin enviarse."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer para grabar un audio?",
+      "options": [
+        "Mantener presionado el micrófono y hablar",
+        "Tocar una sola vez el micrófono",
+        "Apagar el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer para grabar un audio?",
+      "options": [
+        "Mantener presionado el micrófono",
+        "Tocarlo una vez y soltar",
+        "Apagar el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué hacemos si nos equivocamos mientras grabamos?",
+      "options": [
+        "Deslizar el dedo hacia la izquierda para cancelar",
+        "Nada, ya se envió",
+        "Romper el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve enviar un audio en vez de escribir?",
+      "options": [
+        "Es más fácil si escribir cuesta trabajo",
+        "No sirve para nada",
+        "Es obligatorio usarlo siempre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué ícono mantenemos presionado para grabar audio? (una palabra)",
+      "answer": "MICROFONO"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "usar-navegador",
+  "moduleId": "m6-internet",
+  "title": "Usar el navegador",
+  "order": 2,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "El navegador es la aplicación que usamos para entrar a páginas de internet, buscar información o ver noticias."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m6-internet/02-usar-navegador.png",
+      "alt": "Interfaz de un navegador web con barra de direcciones"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Busca el ícono del navegador; en muchos celulares es un círculo de varios colores, llamado Chrome."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Tócalo para abrirlo."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Toca la barra que está arriba de la pantalla, donde puedes escribir lo que buscas."
+    },
+    {
+      "type": "analogy",
+      "text": "El navegador es como la puerta de entrada a esa carretera: desde ahí puedes ir a cualquier página que quieras visitar."
+    },
+    {
+      "type": "tip",
+      "text": "No necesitas escribir direcciones complicadas: puedes simplemente escribir lo que quieres encontrar, como si le preguntaras a una persona."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde escribimos lo que queremos buscar?",
+      "options": [
+        "En la barra de arriba del navegador",
+        "En la cámara",
+        "En el teléfono"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo se llama un navegador común?",
+      "options": [
+        "Chrome",
+        "WhatsApp",
+        "Contactos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué usamos el navegador?",
+      "options": [
+        "Para entrar a páginas de internet",
+        "Para hacer llamadas",
+        "Para tomar fotos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde escribimos lo que queremos buscar?",
+      "options": [
+        "En la barra de arriba",
+        "En la cámara",
+        "En el teclado del teléfono"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cómo se llama la aplicación que usamos para navegar en internet? (una palabra)",
+      "answer": "NAVEGADOR"
+    }
+  ]
+}

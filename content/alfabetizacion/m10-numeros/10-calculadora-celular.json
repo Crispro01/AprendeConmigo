@@ -1,0 +1,93 @@
+{
+  "id": "calculadora-celular",
+  "moduleId": "m10-numeros",
+  "title": "Usar la calculadora del celular",
+  "order": 10,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "El celular tiene una calculadora que puede ayudarte a comprobar tus cuentas rápidamente, sin tener que hacerlas todas de memoria."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Busca el ícono de la calculadora en tu celular; suele ser un cuadrito con números."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Tócalo para abrirla."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Toca los números y el signo + para sumar, o el signo - para restar."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Toca el signo = para ver el resultado final."
+    },
+    {
+      "type": "analogy",
+      "text": "La calculadora del celular es como una ayudante silenciosa: hace las cuentas por ti, tú solo le dices qué números usar."
+    },
+    {
+      "type": "tip",
+      "text": "Usar la calculadora no significa que no sepas matemáticas: es una herramienta que hasta las personas más expertas usan todos los días."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué símbolo tocamos para ver el resultado en la calculadora?",
+      "options": [
+        "=",
+        "+",
+        "%"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué símbolo tocamos para sumar en la calculadora?",
+      "options": [
+        "+",
+        "-",
+        "="
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué símbolo tocamos para restar en la calculadora?",
+      "options": [
+        "-",
+        "+",
+        "%"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde solemos encontrar el ícono de la calculadora?",
+      "options": [
+        "En la pantalla del celular",
+        "Solo en la computadora",
+        "No existe en el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve la calculadora del celular?",
+      "options": [
+        "Para comprobar cuentas rápido",
+        "Para tomar fotos",
+        "Para hacer llamadas"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

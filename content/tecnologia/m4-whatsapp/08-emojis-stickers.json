@@ -1,0 +1,106 @@
+{
+  "id": "emojis-stickers",
+  "moduleId": "m4-whatsapp",
+  "title": "Emojis y stickers básicos",
+  "order": 8,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Los emojis son pequeños dibujos que ayudan a expresar emociones o ideas de forma rápida, sin necesidad de escribir mucho."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "😀 representa alegría o una sonrisa."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "❤️ representa cariño o amor."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "😢 representa tristeza."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Para usarlos, toca el ícono de una carita sonriente, generalmente al lado del cuadro de texto."
+    },
+    {
+      "type": "analogy",
+      "text": "Un emoji es como una mueca o un gesto de la cara, pero dibujado: dice sin palabras cómo te sientes."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m4-whatsapp/08-emojis-stickers.png",
+      "alt": "Teclado de emojis y stickers en aplicación de mensajes"
+    },
+    {
+      "type": "tip",
+      "text": "No es obligatorio usar emojis, pero muchas personas los encuentran una forma linda y rápida de expresar cómo se sienten."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada emoji con su significado",
+      "pairs": [
+        {
+          "left": "😀",
+          "right": "Alegría"
+        },
+        {
+          "left": "❤️",
+          "right": "Cariño"
+        },
+        {
+          "left": "😢",
+          "right": "Tristeza"
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué representa el emoji 😀?",
+      "options": [
+        "Alegría",
+        "Tristeza",
+        "Enojo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué representa el emoji ❤️?",
+      "options": [
+        "Cariño",
+        "Miedo",
+        "Sorpresa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde tocamos para buscar emojis?",
+      "options": [
+        "El ícono de carita sonriente",
+        "El ícono de cámara",
+        "El ícono de llamada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué emoji representa tristeza?",
+      "options": [
+        "😢",
+        "😀",
+        "❤️"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

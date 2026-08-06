@@ -1,0 +1,58 @@
+[
+  {
+    "id": "m1-mi-celular",
+    "title": "Conozco mi celular",
+    "description": "Las partes y botones básicos de tu celular.",
+    "icon": "📱",
+    "order": 1
+  },
+  {
+    "id": "m2-llamadas",
+    "title": "Llamadas y contactos",
+    "description": "Hacer y contestar llamadas, guardar contactos.",
+    "icon": "☎️",
+    "order": 2
+  },
+  {
+    "id": "m3-camara",
+    "title": "Cámara y fotos",
+    "description": "Tomar fotos, videos y compartirlos.",
+    "icon": "📷",
+    "order": 3
+  },
+  {
+    "id": "m4-whatsapp",
+    "title": "WhatsApp desde cero",
+    "description": "Mensajes, audios, fotos y grupos familiares.",
+    "icon": "💬",
+    "order": 4
+  },
+  {
+    "id": "m5-videollamadas",
+    "title": "Videollamadas",
+    "description": "Ver y hablar con tu familia en tiempo real.",
+    "icon": "🎥",
+    "order": 5
+  },
+  {
+    "id": "m6-internet",
+    "title": "Internet y buscar información",
+    "description": "Usar el navegador, buscar en Google y YouTube.",
+    "icon": "🌐",
+    "order": 6
+  },
+  {
+    "id": "m7-seguridad",
+    "title": "Seguridad en internet",
+    "description": "Contraseñas, estafas y cuidado de tus datos.",
+    "icon": "🔒",
+    "order": 7
+  },
+  {
+    "id": "m8-tramites",
+    "title": "Trámites y servicios en línea",
+    "description": "Banca, salud, gobierno y pagos digitales.",
+    "icon": "🏦",
+    "order": 8
+  }
+]

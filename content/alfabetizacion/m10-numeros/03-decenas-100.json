@@ -1,0 +1,78 @@
+{
+  "id": "decenas-100",
+  "moduleId": "m10-numeros",
+  "title": "Decenas hasta 100",
+  "order": 3,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora vamos a aprender a contar de 10 en 10, lo que se llama 'decenas', hasta llegar a 100."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Cuenta de 10 en 10: 10, 20, 30, 40, 50."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Sigue: 60, 70, 80, 90, 100."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Fíjate que cada decena termina en cero."
+    },
+    {
+      "type": "analogy",
+      "text": "Contar de 10 en 10 es como contar billetes de la misma denominación: en vez de contar uno por uno, avanzas más rápido de a montones."
+    },
+    {
+      "type": "tip",
+      "text": "Contar de 10 en 10 es muy útil, por ejemplo, para contar dinero en billetes o monedas de forma más rápida."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estos números es una decena?",
+      "options": [
+        "30",
+        "33",
+        "31"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué decena va después del 40?",
+      "answer": "50"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué decena va antes del 100?",
+      "answer": "90"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estos NO es una decena?",
+      "options": [
+        "45",
+        "50",
+        "70"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántas decenas hay del 10 al 100?",
+      "options": [
+        "10",
+        "5",
+        "20"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

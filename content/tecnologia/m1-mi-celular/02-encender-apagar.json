@@ -1,0 +1,88 @@
+{
+  "id": "encender-apagar",
+  "moduleId": "m1-mi-celular",
+  "title": "Encender y apagar",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Encender y apagar el celular es lo primero que necesitas saber, y es más simple de lo que parece."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Busca el botón lateral, generalmente el más largo de los que tiene el celular a un costado."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Para encenderlo, mantén ese botón presionado por unos segundos, sin soltarlo."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Para apagarlo, vuelve a mantenerlo presionado; puede aparecer una opción en pantalla que diga 'Apagar', y ahí debes tocarla."
+    },
+    {
+      "type": "analogy",
+      "text": "Encender el celular es como encender la luz de tu casa: mantienes el interruptor un momento y todo se ilumina."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/02-encender-apagar.png",
+      "alt": "Botón de encendido en el lateral del celular"
+    },
+    {
+      "type": "tip",
+      "text": "Si el celular no responde a nada, mantén el botón presionado varios segundos más de lo normal. A veces necesita un poco más de tiempo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer para encender el celular?",
+      "options": [
+        "Mantener presionado el botón lateral",
+        "Tocar la pantalla una vez",
+        "Sacudir el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué botón mantenemos presionado para encender el celular?",
+      "options": [
+        "El botón lateral",
+        "El de volumen",
+        "No hay que presionar nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer si el celular no responde?",
+      "options": [
+        "Mantener el botón presionado más tiempo",
+        "Golpear el celular",
+        "Tirarlo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuánto tiempo aproximadamente hay que mantener presionado el botón para encender?",
+      "options": [
+        "Unos segundos",
+        "Una hora",
+        "Un día entero"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué botón usamos para encender y apagar? (lateral o de volumen)",
+      "answer": "LATERAL"
+    }
+  ]
+}

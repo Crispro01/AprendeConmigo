@@ -1,0 +1,88 @@
+{
+  "id": "apps-salud",
+  "moduleId": "m8-tramites",
+  "title": "Apps de salud y citas médicas",
+  "order": 4,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Algunas aplicaciones te permiten agendar citas médicas directamente desde el celular, sin necesidad de llamar por teléfono ni esperar en línea."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m8-tramites/04-apps-salud.png",
+      "alt": "Aplicación de salud con cruz médica y calendario de citas"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Busca la aplicación de tu centro de salud, hospital o seguro médico."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Dentro de la app, busca la opción para agendar o pedir una cita."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Elige el día y la hora que más te convengan, entre las opciones disponibles."
+    },
+    {
+      "type": "analogy",
+      "text": "Agendar una cita médica desde el celular es como llamar a la recepción del centro de salud, pero sin esperar en la línea telefónica."
+    },
+    {
+      "type": "tip",
+      "text": "Si te cuesta usar la aplicación al principio, muchos centros de salud también ofrecen ayuda telefónica o presencial para guiarte."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirven las apps de salud?",
+      "options": [
+        "Para agendar citas médicas",
+        "Para tomar fotos",
+        "Para hacer videollamadas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirven las apps de salud?",
+      "options": [
+        "Para agendar citas médicas",
+        "Para tomar fotos",
+        "Para hacer videollamadas solamente"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué evitamos al agendar una cita por celular?",
+      "options": [
+        "Llamar y esperar en la línea",
+        "Tener una cita",
+        "Usar el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué elegimos al agendar una cita?",
+      "options": [
+        "El día y la hora disponible",
+        "Solo el día",
+        "Nada, se asigna solo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué buscamos en la app para pedir una cita? (una palabra)",
+      "answer": "CITA"
+    }
+  ]
+}

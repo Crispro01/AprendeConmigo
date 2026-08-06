@@ -1,0 +1,88 @@
+{
+  "id": "completar-palabra",
+  "moduleId": "m9-escritura",
+  "title": "Completar la palabra que falta",
+  "order": 4,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "A veces, al leer o escribir, nos falta una letra en una palabra. Aprender a completarla es un buen ejercicio para fijar lo aprendido."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Lee la palabra incompleta con calma."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Piensa qué sonido falta para que la palabra tenga sentido."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Elige o escribe la letra que corresponde."
+    },
+    {
+      "type": "analogy",
+      "text": "Completar una palabra es como poner la última pieza de un rompecabezas: sabes que algo falta, y buscas la pieza exacta que encaja."
+    },
+    {
+      "type": "tip",
+      "text": "Si tienes dudas, di la palabra completa en voz alta probando distintas letras hasta que suene bien."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "C_SA (falta una letra)",
+      "options": [
+        "A",
+        "E",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "S_L (falta una vocal)",
+      "options": [
+        "O",
+        "A",
+        "E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "M_SA (falta una vocal)",
+      "options": [
+        "E",
+        "A",
+        "I"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "L_NA (falta una vocal)",
+      "options": [
+        "U",
+        "A",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "P_N (falta una vocal)",
+      "options": [
+        "A",
+        "E",
+        "O"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

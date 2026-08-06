@@ -1,0 +1,83 @@
+{
+  "id": "que-es-internet",
+  "moduleId": "m6-internet",
+  "title": "Qué es internet",
+  "order": 1,
+  "estimatedMinutes": 5,
+  "content": [
+    {
+      "type": "text",
+      "text": "Internet es una gran red que conecta celulares y computadoras de todo el mundo entre sí, permitiendo buscar información, hablar con otras personas y mucho más."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m6-internet/01-que-es-internet.png",
+      "alt": "Ilustración del mundo conectado a través de internet"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Para usar internet en el celular, necesitas estar conectado a una red wifi, o tener datos móviles activados en tu plan."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Cuando tienes conexión, generalmente vas a ver un símbolo especial en la parte de arriba de la pantalla del celular."
+    },
+    {
+      "type": "analogy",
+      "text": "Internet es como una gran carretera invisible que conecta tu celular con el mundo entero, sin necesidad de salir de casa."
+    },
+    {
+      "type": "tip",
+      "text": "Sin internet, muchas aplicaciones como WhatsApp o Google no van a funcionar. Es la primera cosa a revisar si algo no carga."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué necesitamos para usar internet?",
+      "options": [
+        "Wifi o datos móviles",
+        "Solo la batería cargada",
+        "Nada más"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué conecta internet?",
+      "options": [
+        "Celulares y computadoras del mundo",
+        "Solo celulares del mismo país",
+        "Nada en particular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué necesitamos para usar internet en el celular?",
+      "options": [
+        "Wifi o datos móviles",
+        "Solo batería",
+        "Un cable especial siempre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué pasa si no tenemos internet?",
+      "options": [
+        "Muchas aplicaciones no funcionan",
+        "No pasa nada",
+        "El celular se apaga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué palabra nombra una de las dos formas de conectarse a internet?",
+      "answer": "WIFI"
+    }
+  ]
+}

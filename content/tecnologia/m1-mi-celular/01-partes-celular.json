@@ -1,0 +1,105 @@
+{
+  "id": "partes-celular",
+  "moduleId": "m1-mi-celular",
+  "title": "Partes del celular",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Vamos a conocer las partes principales de tu celular, para que te sientas más seguro cada vez que lo uses."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "La PANTALLA es la parte más grande, donde ves todo: fotos, mensajes, aplicaciones."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Los BOTONES, generalmente a los lados, sirven para encender, apagar y subir o bajar el volumen."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "La CÁMARA es un pequeño círculo de vidrio, en la parte de atrás o arriba de la pantalla, que sirve para tomar fotos."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "El CARGADOR es el cable que conectas para darle batería."
+    },
+    {
+      "type": "analogy",
+      "text": "El celular es como una casa pequeña: tiene una puerta principal (la pantalla), timbres (los botones) y una ventana para ver hacia afuera (la cámara)."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/01-partes-celular.png",
+      "alt": "Partes principales de un celular"
+    },
+    {
+      "type": "tip",
+      "text": "No necesitas saber todo de una vez. Vamos a ir conociendo cada parte, una lección a la vez."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada parte del celular con lo que hace",
+      "pairs": [
+        {
+          "left": "Pantalla",
+          "right": "Para ver todo lo que hacemos"
+        },
+        {
+          "left": "Botones laterales",
+          "right": "Encender y subir o bajar el volumen"
+        },
+        {
+          "left": "Cámara",
+          "right": "Tomar fotos"
+        },
+        {
+          "left": "Cargador",
+          "right": "Darle batería al celular"
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál parte del celular sirve para tomar fotos?",
+      "options": [
+        "La cámara",
+        "La pantalla",
+        "El cargador"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué parte del celular usamos para ver mensajes y fotos?",
+      "options": [
+        "La pantalla",
+        "El cargador",
+        "Los botones"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve el cargador?",
+      "options": [
+        "Para darle batería al celular",
+        "Para tomar fotos",
+        "Para hacer llamadas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué parte del celular usamos para ver todo lo que hacemos? (una palabra)",
+      "answer": "PANTALLA"
+    }
+  ]
+}

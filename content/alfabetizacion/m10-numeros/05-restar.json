@@ -1,0 +1,88 @@
+{
+  "id": "restar",
+  "moduleId": "m10-numeros",
+  "title": "Restar cantidades pequeñas",
+  "order": 5,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Restar es lo contrario de sumar: significa quitar una cantidad de otra para saber cuánto queda."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Ejemplo simple: 5 - 2 = 3. Si tienes 5 panes y comes 2, te quedan 3."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Practica con objetos reales: pon 5 cosas sobre la mesa, quita 2, y cuenta cuántas quedan."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Ahora intenta: 4 - 1 = ?"
+    },
+    {
+      "type": "analogy",
+      "text": "Restar es como cuando compartes tu comida y te queda menos en el plato: sabes cuánto tenías, y cuánto diste."
+    },
+    {
+      "type": "tip",
+      "text": "Restar es una habilidad que usamos todo el tiempo sin darnos cuenta, por ejemplo cuando nos preguntamos cuánto dinero nos queda después de comprar algo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 2 - 1?",
+      "answer": "1"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 4 - 2?",
+      "answer": "2"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 5 - 3?",
+      "answer": "2"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 6 - 4?",
+      "answer": "2"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 7 - 2?",
+      "answer": "5"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 8 - 3?",
+      "answer": "5"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 9 - 5?",
+      "answer": "4"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 10 - 4?",
+      "answer": "6"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 6 - 6?",
+      "answer": "0"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuánto es 9 - 1?",
+      "answer": "8"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "silabas-m",
+  "moduleId": "m6-silabas",
+  "title": "Sílabas con M",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Una sílaba es un golpe de voz, un sonido que decimos de una sola vez. Unir una consonante con una vocal es la forma más simple de crear una sílaba. Empezamos combinando la M."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Di despacio: MA."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Ahora: ME."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Sigue con: MI - MO - MU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Repite las cinco sílabas seguidas, sin apurarte: MA - ME - MI - MO - MU."
+    },
+    {
+      "type": "analogy",
+      "text": "Una sílaba es como un bloque de construcción: sola no dice mucho, pero unida a otras arma algo más grande, como una palabra."
+    },
+    {
+      "type": "tip",
+      "text": "Las sílabas son como los ladrillos de las palabras: una vez que las dominas, puedes construir casi cualquier palabra uniéndolas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir MESA? ME + ___",
+      "options": [
+        "SA",
+        "SO",
+        "SI"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir MANO? MA + ___",
+      "options": [
+        "NO",
+        "NA",
+        "ME"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Di y escribe la sílaba: M + A = ?",
+      "answer": "MA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas es una sílaba con M?",
+      "options": [
+        "MA",
+        "PA",
+        "SA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la sílaba MI",
+      "answer": "MI"
+    }
+  ]
+}

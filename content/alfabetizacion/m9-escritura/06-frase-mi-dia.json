@@ -1,0 +1,68 @@
+{
+  "id": "frase-mi-dia",
+  "moduleId": "m9-escritura",
+  "title": "Escribir una frase sobre mi día",
+  "order": 6,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Vamos a escribir una frase corta y sencilla sobre algo que hiciste hoy o ayer."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Piensa en una sola cosa que hiciste, por ejemplo: cocinar, caminar o visitar a alguien."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Ejemplo: 'HOY COCINÉ ARROZ.'"
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Intenta escribir tu propia frase corta, aunque sea con ayuda."
+    },
+    {
+      "type": "analogy",
+      "text": "Escribir una frase sobre tu día es como contarle a alguien qué hiciste, pero dejándolo por escrito para que quede guardado."
+    },
+    {
+      "type": "tip",
+      "text": "No te preocupes por la ortografía perfecta. Lo más importante en esta etapa es animarte a escribir tus propias ideas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "Copia esta frase: MI DIA FUE BUENO",
+      "answer": "MI DIA FUE BUENO"
+    },
+    {
+      "type": "type-word",
+      "question": "Copia esta frase: HOY COCINÉ ARROZ",
+      "answer": "HOY COCINE ARROZ"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Es necesario escribir perfecto para practicar una frase?",
+      "options": [
+        "No, lo importante es intentarlo",
+        "Sí, si no es perfecto no vale",
+        "Es imposible practicar sin ser perfecto"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe una frase corta: HOY ESTOY BIEN",
+      "answer": "HOY ESTOY BIEN"
+    },
+    {
+      "type": "type-word",
+      "question": "Copia: MI DÍA FUE TRANQUILO",
+      "answer": "MI DIA FUE TRANQUILO"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "monedas",
+  "moduleId": "m10-numeros",
+  "title": "Conocer las monedas",
+  "order": 6,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "En Ecuador usamos el dólar como moneda. Conocer bien las monedas te ayuda a manejar tu dinero con más seguridad."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Existen monedas de 1, 5, 10 y 25 centavos."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Fíjate en el tamaño y el número escrito en cada moneda para reconocerla."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "100 centavos forman 1 dólar completo."
+    },
+    {
+      "type": "analogy",
+      "text": "Las monedas son como piezas pequeñas de un rompecabezas de dinero: solas valen poco, pero juntas pueden llegar a formar un dólar completo."
+    },
+    {
+      "type": "tip",
+      "text": "Cuando te den cambio en una tienda, tómate el tiempo de contarlo tú mismo, sin apuro. Es tu derecho verificar que esté correcto."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántos centavos tiene una moneda de 25 centavos?",
+      "options": [
+        "25",
+        "10",
+        "50"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántos centavos forman un dólar completo?",
+      "options": [
+        "100",
+        "50",
+        "25"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuántos centavos tiene una moneda de 10 centavos?",
+      "answer": "10"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál moneda vale menos?",
+      "options": [
+        "1 centavo",
+        "10 centavos",
+        "25 centavos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer al recibir cambio en una tienda?",
+      "options": [
+        "Contarlo con calma",
+        "Guardarlo sin mirar",
+        "Devolverlo siempre"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

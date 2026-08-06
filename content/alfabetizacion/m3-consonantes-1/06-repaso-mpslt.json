@@ -1,0 +1,139 @@
+{
+  "id": "repaso-mpslt",
+  "moduleId": "m3-consonantes-1",
+  "title": "Repaso: M, P, S, L, T",
+  "order": 6,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "¡Muy bien! Ya conoces 5 consonantes nuevas: M, P, S, L, T. Combinadas con las vocales, ya puedes formar tus primeras sílabas y palabras."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Repite el sonido de cada letra por separado: M... P... S... L... T..."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Ahora combina cada una con la vocal A: MA - PA - SA - LA - TA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Piensa en una palabra que empiece con cada letra: MESA, PAN, SOL, LUNA, TAZA."
+    },
+    {
+      "type": "analogy",
+      "text": "Repasar estas 5 letras es como repasar los ingredientes básicos de una receta: una vez que los conoces bien, puedes empezar a combinarlos."
+    },
+    {
+      "type": "tip",
+      "text": "Este es un buen momento para hacer una pausa si lo necesitas. Aprender 5 letras nuevas es un logro real, celébralo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MESA?",
+      "answer": "M"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_AN",
+      "options": [
+        "S",
+        "P",
+        "L"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la S?",
+      "options": [
+        "S",
+        "P",
+        "L"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra LUNA?",
+      "answer": "L"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_AZA",
+      "options": [
+        "M",
+        "T",
+        "P"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la M?",
+      "options": [
+        "M",
+        "P",
+        "S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra PAN?",
+      "answer": "P"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_OL",
+      "options": [
+        "T",
+        "S",
+        "M"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la L?",
+      "options": [
+        "L",
+        "T",
+        "M"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada letra con una palabra que la contiene",
+      "pairs": [
+        {
+          "left": "M",
+          "right": "MESA"
+        },
+        {
+          "left": "P",
+          "right": "PAN"
+        },
+        {
+          "left": "S",
+          "right": "SOL"
+        },
+        {
+          "left": "L",
+          "right": "LUNA"
+        },
+        {
+          "left": "T",
+          "right": "TAZA"
+        }
+      ]
+    }
+  ]
+}

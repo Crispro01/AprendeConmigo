@@ -1,0 +1,78 @@
+{
+  "id": "mi-nombre-palabra",
+  "moduleId": "m7-palabras",
+  "title": "Mi nombre",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ya conoces letras y sílabas. Ahora vamos a poner ese conocimiento a trabajar en algo muy tuyo: tu propio nombre."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Mira tu nombre escrito y sepáralo en sílabas, una por una."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Di cada sílaba en voz alta y luego únelas para decir el nombre completo."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Cuenta cuántas letras y cuántas sílabas tiene tu nombre."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Practica escribirlo, aunque sea despacio y con esfuerzo, todos los días un poquito."
+    },
+    {
+      "type": "analogy",
+      "text": "Escribir tu nombre es como firmar un cuadro que pintaste: es tuyo, único, y con práctica sale cada vez con más seguridad."
+    },
+    {
+      "type": "tip",
+      "text": "No hay prisa. Escribir bien el propio nombre es una meta que se logra con práctica constante, no de un día para otro."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "Practica: escribe la palabra MAMÁ",
+      "answer": "MAMA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Por qué practicamos escribir nuestro nombre?",
+      "options": [
+        "Porque lo vamos a usar mucho en la vida diaria",
+        "Porque es obligatorio",
+        "Porque no sirve para nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Practica: escribe la palabra PAPÁ",
+      "answer": "PAPA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debes hacer si te cuesta escribir tu nombre completo al principio?",
+      "options": [
+        "Practicar poco a poco",
+        "Rendirte",
+        "Copiarlo una sola vez y ya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Cuenta cuántas letras tiene la palabra SOL y escribe el número",
+      "answer": "3"
+    }
+  ]
+}

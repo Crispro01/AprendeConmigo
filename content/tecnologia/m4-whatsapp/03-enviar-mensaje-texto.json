@@ -1,0 +1,93 @@
+{
+  "id": "enviar-mensaje-texto",
+  "moduleId": "m4-whatsapp",
+  "title": "Enviar un mensaje de texto",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Escribir y enviar un mensaje de texto es la función más básica y más usada de WhatsApp."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Dentro de la conversación, toca el cuadro de texto vacío, generalmente en la parte de abajo."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Va a aparecer el teclado; escribe tu mensaje con calma, letra por letra si lo necesitas."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Cuando termines, toca la flecha (o el ícono similar) para enviarlo."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Vas a ver tu mensaje aparecer en la conversación, con la hora en que lo enviaste."
+    },
+    {
+      "type": "analogy",
+      "text": "Escribir un mensaje es como escribir una carta corta: piensas lo que quieres decir, lo escribes, y lo envías."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m4-whatsapp/03-enviar-mensaje-texto.png",
+      "alt": "Pantalla de chat con teclado escribiendo mensaje de texto"
+    },
+    {
+      "type": "tip",
+      "text": "No hay límite de tiempo para escribir un mensaje. Tómate el tiempo que necesites, nadie te está esperando con prisa."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para enviar el mensaje escrito?",
+      "options": [
+        "La flecha de enviar",
+        "El ícono de la cámara",
+        "El botón rojo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde tocamos para empezar a escribir un mensaje?",
+      "options": [
+        "El cuadro de texto",
+        "El ícono de la cámara",
+        "El botón de llamar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para enviar el mensaje ya escrito?",
+      "options": [
+        "La flecha de enviar",
+        "El micrófono",
+        "Nada, se envía solo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Hay límite de tiempo para escribir un mensaje?",
+      "options": [
+        "No, puedes tomarte el tiempo que necesites",
+        "Sí, solo 10 segundos",
+        "Sí, un minuto exacto"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué usamos para escribir el mensaje? (una palabra)",
+      "answer": "TECLADO"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "juego-encuentra-vocal",
+  "moduleId": "m2-vocales",
+  "title": "Juego: encuentra la vocal",
+  "order": 7,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Vamos a jugar un poco con lo que ya aprendiste. Jugar es una de las mejores formas de practicar sin sentir que es difícil."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m2-vocales/07-juego-encuentra-vocal.png",
+      "alt": "Juego de búsqueda de vocales"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Piensa en el sonido completo de la palabra antes de responder."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Fíjate en qué parte de la palabra falta el sonido: al principio, en el medio o al final."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Elige la vocal que hace que la palabra suene completa y tenga sentido."
+    },
+    {
+      "type": "analogy",
+      "text": "Completar la vocal que falta es como poner la pieza que falta en un rompecabezas: una vez que la encuentras, toda la palabra tiene sentido."
+    },
+    {
+      "type": "tip",
+      "text": "Si no estás seguro, di la palabra completa en voz alta probando cada opción. El oído casi siempre reconoce cuál suena bien."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "S_L (falta una vocal)",
+      "options": [
+        "O",
+        "A",
+        "E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "C_SA (falta una vocal)",
+      "options": [
+        "A",
+        "E",
+        "I"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "L_CHE (falta una vocal)",
+      "options": [
+        "A",
+        "E",
+        "I"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_JO (falta una vocal)",
+      "options": [
+        "O",
+        "A",
+        "U"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "L_NA (falta una vocal)",
+      "options": [
+        "I",
+        "U",
+        "O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "M_SA (falta una vocal)",
+      "options": [
+        "O",
+        "E",
+        "A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "S_LLA (falta una vocal)",
+      "options": [
+        "I",
+        "A",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_VA (falta una vocal, la fruta morada)",
+      "options": [
+        "U",
+        "A",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "P_LLO (falta una vocal)",
+      "options": [
+        "A",
+        "O",
+        "E"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_SO (falta una vocal, el animal)",
+      "options": [
+        "O",
+        "A",
+        "U"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

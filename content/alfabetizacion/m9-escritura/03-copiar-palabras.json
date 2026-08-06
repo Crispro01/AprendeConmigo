@@ -1,0 +1,63 @@
+{
+  "id": "copiar-palabras",
+  "moduleId": "m9-escritura",
+  "title": "Copiar palabras cortas",
+  "order": 3,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Vamos a seguir practicando con palabras cortas y conocidas, copiándolas despacio."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Copia la palabra PAN, letra por letra."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Copia la palabra SOL."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Copia la palabra MAMÁ."
+    },
+    {
+      "type": "analogy",
+      "text": "Copiar una palabra es como calcar un dibujo: sigues la forma que ya existe hasta que tu mano aprende a hacerla sola."
+    },
+    {
+      "type": "tip",
+      "text": "Al copiar, di cada letra en voz alta mientras la escribes. Esto conecta lo que ves, lo que dices y lo que escribes."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "Copia la palabra: LUNA",
+      "answer": "LUNA"
+    },
+    {
+      "type": "type-word",
+      "question": "Copia la palabra: PAN",
+      "answer": "PAN"
+    },
+    {
+      "type": "type-word",
+      "question": "Copia la palabra: SOL",
+      "answer": "SOL"
+    },
+    {
+      "type": "type-word",
+      "question": "Copia la palabra: MAMÁ",
+      "answer": "MAMA"
+    },
+    {
+      "type": "type-word",
+      "question": "Copia la palabra: CASA",
+      "answer": "CASA"
+    }
+  ]
+}

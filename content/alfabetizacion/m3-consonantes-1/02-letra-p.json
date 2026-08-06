@@ -1,0 +1,133 @@
+{
+  "id": "letra-p",
+  "moduleId": "m3-consonantes-1",
+  "title": "La P",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La P suena parecido a la B, pero con un golpe de aire más fuerte y sin usar la voz. La escuchamos en palabras como PAPÁ o PAN."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Junta bien los labios, como con la M, pero esta vez suelta el aire de golpe: P."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Combina la P con las vocales: PA - PE - PI - PO - PU."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Pon tu mano frente a la boca al decir 'PA': deberías sentir un pequeño golpe de aire."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Busca la P en la palabra PAN."
+    },
+    {
+      "type": "analogy",
+      "text": "La P es como un pequeño estallido: los labios se juntan como una represa y el aire sale de golpe, como cuando destapas una gaseosa."
+    },
+    {
+      "type": "image",
+      "src": "P p",
+      "alt": "La letra P mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "Si tienes dudas entre la P y la B, recuerda: la P no usa la voz, solo el golpe de aire; la B sí vibra un poco en la garganta."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_AN",
+      "options": [
+        "S",
+        "P",
+        "L"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la P?",
+      "options": [
+        "P",
+        "S",
+        "L"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra PAN?",
+      "answer": "P"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_APÁ",
+      "options": [
+        "M",
+        "P",
+        "S"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la P?",
+      "options": [
+        "P",
+        "M",
+        "S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra PAPÁ?",
+      "answer": "P"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "SO_A",
+      "options": [
+        "T",
+        "P",
+        "M"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la P?",
+      "options": [
+        "P",
+        "T",
+        "M"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra SOPA?",
+      "answer": "P"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_ATO",
+      "options": [
+        "L",
+        "P",
+        "T"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

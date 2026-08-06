@@ -1,0 +1,83 @@
+{
+  "id": "silabas-l",
+  "moduleId": "m6-silabas",
+  "title": "Sílabas con L",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Seguimos con la L, combinándola con las cinco vocales."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Di despacio: LA."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Sigue con: LE - LI - LO - LU."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Repite las cinco seguidas: LA - LE - LI - LO - LU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Piensa en una palabra que tenga LU, como LUNA."
+    },
+    {
+      "type": "analogy",
+      "text": "Las sílabas con L son como escalones: cada una te acerca un poco más a poder leer palabras completas."
+    },
+    {
+      "type": "tip",
+      "text": "Practica en voz alta, aunque estés solo. Escucharte a ti mismo ayuda mucho a fijar el sonido."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir LUNA? LU + ___",
+      "options": [
+        "NA",
+        "NO",
+        "NE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir PELOTA? PE + ___ + TA",
+      "options": [
+        "LO",
+        "LA",
+        "LE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la sílaba LA",
+      "answer": "LA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas es una sílaba con L?",
+      "options": [
+        "LE",
+        "ME",
+        "PE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Di y escribe la sílaba: L + O = ?",
+      "answer": "LO"
+    }
+  ]
+}

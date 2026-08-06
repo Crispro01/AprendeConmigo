@@ -1,0 +1,88 @@
+{
+  "id": "dias-semana",
+  "moduleId": "m7-palabras",
+  "title": "Los días de la semana",
+  "order": 6,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Los días de la semana nos ayudan a organizar citas, medicinas, y actividades importantes."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "LUNES es el primer día de la semana de trabajo."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "MARTES, MIÉRCOLES y JUEVES vienen después."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "VIERNES es el último día antes del fin de semana."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "SÁBADO y DOMINGO son los días de descanso."
+    },
+    {
+      "type": "analogy",
+      "text": "Los días de la semana son como los escalones de una escalera que se repite: subes siete escalones y vuelves a empezar."
+    },
+    {
+      "type": "tip",
+      "text": "Practica diciendo qué día es hoy y qué día fue ayer. Es un buen ejercicio para la vida diaria."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál es el primer día de la semana?",
+      "options": [
+        "LUNES",
+        "DOMINGO",
+        "VIERNES"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué día viene después del lunes?",
+      "options": [
+        "MARTES",
+        "MIÉRCOLES",
+        "DOMINGO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuáles son los días de descanso al final de la semana?",
+      "options": [
+        "SÁBADO y DOMINGO",
+        "LUNES y MARTES",
+        "MIÉRCOLES y JUEVES"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe el nombre del día que sigue después del domingo",
+      "answer": "LUNES"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántos días tiene la semana?",
+      "options": [
+        "7",
+        "5",
+        "10"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "borrar-foto",
+  "moduleId": "m3-camara",
+  "title": "Borrar una foto",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "A veces tomamos una foto que no nos gusta o que ya no necesitamos, y podemos borrarla para liberar espacio."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la foto que quieres borrar, tocándola para verla grande."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca el ícono de un basurero 🗑️, generalmente abajo o arriba de la pantalla."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Tócalo, y es posible que te pregunte si estás seguro; confirma si realmente quieres borrarla."
+    },
+    {
+      "type": "analogy",
+      "text": "Borrar una foto es como romper una fotografía impresa: una vez hecho, es difícil recuperarla, así que hay que estar seguro."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m3-camara/03-borrar-foto.png",
+      "alt": "Vista de foto con ícono de papelera para eliminar"
+    },
+    {
+      "type": "tip",
+      "text": "Una vez borrada, la foto puede ser difícil o imposible de recuperar, así que revisa bien antes de confirmar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono usamos para borrar una foto?",
+      "options": [
+        "El de basura 🗑️",
+        "El de corazón ❤️",
+        "El de estrella ⭐"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono representa borrar una foto?",
+      "options": [
+        "Un basurero",
+        "Un corazón",
+        "Una estrella"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué pasa después de borrar una foto?",
+      "options": [
+        "Es difícil recuperarla",
+        "Se puede recuperar fácilmente siempre",
+        "No pasa nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer antes de borrar una foto?",
+      "options": [
+        "Revisar bien que sí queremos borrarla",
+        "Borrar sin mirar",
+        "Nada especial"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué ícono tocamos para borrar algo? (una palabra)",
+      "answer": "BASURERO"
+    }
+  ]
+}

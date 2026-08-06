@@ -1,0 +1,72 @@
+[
+  {
+    "id": "m1-preparacion",
+    "title": "Antes de leer",
+    "description": "Nos preparamos para aprender a leer y escribir.",
+    "icon": "🖊️",
+    "order": 1
+  },
+  {
+    "id": "m2-vocales",
+    "title": "Las vocales",
+    "description": "Aprende a reconocer y pronunciar las 5 vocales.",
+    "icon": "🔤",
+    "order": 2
+  },
+  {
+    "id": "m3-consonantes-1",
+    "title": "Primeras consonantes",
+    "description": "Las letras M, P, S, L y T.",
+    "icon": "✏️",
+    "order": 3
+  },
+  {
+    "id": "m4-consonantes-2",
+    "title": "Más consonantes",
+    "description": "Las letras D, N, R, C y B.",
+    "icon": "📝",
+    "order": 4
+  },
+  {
+    "id": "m5-consonantes-3",
+    "title": "Sonidos especiales",
+    "description": "F, G, H, J, V, Y, Z, Ñ, CH, LL y RR.",
+    "icon": "🔡",
+    "order": 5
+  },
+  {
+    "id": "m6-silabas",
+    "title": "Formo sílabas",
+    "description": "Unimos letras y vocales para formar sílabas.",
+    "icon": "🧩",
+    "order": 6
+  },
+  {
+    "id": "m7-palabras",
+    "title": "Mis primeras palabras",
+    "description": "Palabras de todos los días: familia, casa, comida y más.",
+    "icon": "🗣️",
+    "order": 7
+  },
+  {
+    "id": "m8-lectura",
+    "title": "Leo frases y textos cortos",
+    "description": "Practicamos leer frases, letreros y mensajes.",
+    "icon": "📰",
+    "order": 8
+  },
+  {
+    "id": "m9-escritura",
+    "title": "Escribo",
+    "description": "Practicamos escribir palabras, frases y mensajes.",
+    "icon": "✍️",
+    "order": 9
+  },
+  {
+    "id": "m10-numeros",
+    "title": "Números y dinero",
+    "description": "Números, monedas, billetes y cuentas del día a día.",
+    "icon": "🔢",
+    "order": 10
+  }
+]

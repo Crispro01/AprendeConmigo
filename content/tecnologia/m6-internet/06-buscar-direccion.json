@@ -1,0 +1,88 @@
+{
+  "id": "buscar-direccion",
+  "moduleId": "m6-internet",
+  "title": "Buscar una dirección o mapa",
+  "order": 6,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Para llegar a un lugar que no conoces bien, el celular puede mostrarte el camino usando un mapa."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m6-internet/06-buscar-direccion.png",
+      "alt": "Mapa GPS con pin de ubicación y ruta trazada"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre Google Maps, identificada con un ícono que tiene forma de mapa con un pin de ubicación."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Toca la barra de búsqueda y escribe el nombre o la dirección del lugar al que quieres ir."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Toca el botón que dice 'Cómo llegar' para ver la ruta paso a paso."
+    },
+    {
+      "type": "analogy",
+      "text": "Un mapa en el celular es como pedirle indicaciones a alguien que conoce bien la ciudad, pero disponible a cualquier hora."
+    },
+    {
+      "type": "tip",
+      "text": "Puedes pedirle a alguien de confianza que te ayude la primera vez que uses el mapa, hasta que te sientas cómodo usándolo solo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué aplicación nos ayuda a encontrar direcciones?",
+      "options": [
+        "Google Maps",
+        "WhatsApp",
+        "La Cámara"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo se llama la aplicación de mapas mencionada?",
+      "options": [
+        "Google Maps",
+        "WhatsApp",
+        "YouTube"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué escribimos para buscar un lugar?",
+      "options": [
+        "El nombre o la dirección",
+        "Solo un número",
+        "Nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué botón tocamos para ver la ruta?",
+      "options": [
+        "'Cómo llegar'",
+        "'Buscar'",
+        "'Configuración'"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué símbolo representa la ubicación en el mapa? (una palabra)",
+      "answer": "PIN"
+    }
+  ]
+}

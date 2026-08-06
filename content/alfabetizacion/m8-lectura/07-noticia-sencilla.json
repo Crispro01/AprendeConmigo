@@ -1,0 +1,83 @@
+{
+  "id": "noticia-sencilla",
+  "moduleId": "m8-lectura",
+  "title": "Leer una noticia sencilla",
+  "order": 7,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Vamos a practicar leyendo un tipo de texto que verás seguido: una noticia corta y sencilla, como las del clima."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Lee despacio: 'Hoy hace mucho sol en toda la ciudad.'"
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Piensa: ¿de qué habla esta noticia?"
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Vuelve a leerla y trata de contarla con tus propias palabras."
+    },
+    {
+      "type": "analogy",
+      "text": "Una noticia corta es como escuchar el resumen del clima en la radio: te da la información importante sin rodeos."
+    },
+    {
+      "type": "tip",
+      "text": "Contar lo que leíste con tus propias palabras es una gran forma de comprobar que entendiste bien el texto."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "Según la noticia, ¿cómo está el clima hoy?",
+      "options": [
+        "Con mucho sol",
+        "Lloviendo",
+        "Con mucho frío"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿De qué tipo de noticia hablamos en el ejemplo?",
+      "options": [
+        "Del clima",
+        "De deportes",
+        "De música"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve leer una noticia corta?",
+      "options": [
+        "Para enterarte de algo importante rápido",
+        "No sirve de nada",
+        "Solo para entretenerse"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Si la noticia dice 'hace mucho sol', ¿qué palabra describe el clima?",
+      "answer": "SOL"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué es más fácil de leer al principio: una noticia corta o un libro completo?",
+      "options": [
+        "Una noticia corta",
+        "Un libro completo",
+        "Son iguales"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "hacer-videollamada",
+  "moduleId": "m5-videollamadas",
+  "title": "Hacer una videollamada por WhatsApp",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Vamos a aprender a iniciar una videollamada por WhatsApp, paso a paso."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m5-videollamadas/02-hacer-videollamada.png",
+      "alt": "Ícono de cámara de video para iniciar videollamada"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la conversación con la persona a la que quieres llamar por video."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca, en la parte de arriba de la pantalla, un ícono con forma de cámara de video."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Tócalo para iniciar la llamada."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Espera con paciencia a que la otra persona conteste; puede tardar unos segundos."
+    },
+    {
+      "type": "analogy",
+      "text": "Hacer una videollamada es como invitar a alguien a tu sala por un momento: tocas para llamar, y esperas que te 'abran'."
+    },
+    {
+      "type": "tip",
+      "text": "Si la otra persona no contesta enseguida, no te preocupes: puede que esté ocupada. Intenta de nuevo más tarde."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono tocamos para iniciar una videollamada?",
+      "options": [
+        "El de la cámara de video",
+        "El del micrófono",
+        "El de configuración"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde buscamos el ícono para iniciar una videollamada?",
+      "options": [
+        "En la parte de arriba de la conversación",
+        "En Configuración",
+        "En la Galería"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué hacemos después de tocar el ícono de videollamada?",
+      "options": [
+        "Esperar a que la otra persona conteste",
+        "Colgar de inmediato",
+        "Apagar el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué hacemos si la persona no contesta enseguida?",
+      "options": [
+        "Esperar o intentar más tarde",
+        "Llamar sin parar",
+        "Bloquearla"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué aplicación usamos en los ejemplos para hacer videollamadas? (una palabra)",
+      "answer": "WHATSAPP"
+    }
+  ]
+}

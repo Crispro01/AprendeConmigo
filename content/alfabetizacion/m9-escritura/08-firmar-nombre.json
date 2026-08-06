@@ -1,0 +1,78 @@
+{
+  "id": "firmar-nombre",
+  "moduleId": "m9-escritura",
+  "title": "Firmar mi nombre",
+  "order": 8,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Tu firma es una forma especial y personal de escribir tu nombre, que usamos en documentos importantes como para cobrar, votar o hacer trámites."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Practica escribir tu nombre completo de la misma forma varias veces seguidas."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Fíjate qué parte te sale más natural, y trata de repetirla siempre igual."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Con el tiempo, tu firma se volverá más fluida y segura, sin que tengas que pensar tanto en cada letra."
+    },
+    {
+      "type": "analogy",
+      "text": "Tu firma es como tu huella digital: se parece a tu nombre, pero es una marca única que te representa a ti."
+    },
+    {
+      "type": "tip",
+      "text": "Practica tu firma en un papel aparte antes de usarla en un documento real. No hay ninguna prisa para que quede 'perfecta', solo que sea siempre reconocible."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "Practica escribiendo la palabra: FIRMA",
+      "answer": "FIRMA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué usamos la firma?",
+      "options": [
+        "Para documentos importantes",
+        "Para nada especial",
+        "Solo para dibujar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo debe ser tu firma cada vez que la haces?",
+      "options": [
+        "Siempre parecida",
+        "Diferente cada vez",
+        "No importa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Practica escribiendo la palabra: DOCUMENTO",
+      "answer": "DOCUMENTO"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde es mejor practicar tu firma antes de usarla en un documento real?",
+      "options": [
+        "En un papel aparte",
+        "Directo en el documento importante",
+        "No hace falta practicar"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

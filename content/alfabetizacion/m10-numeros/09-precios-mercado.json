@@ -1,0 +1,83 @@
+{
+  "id": "precios-mercado",
+  "moduleId": "m10-numeros",
+  "title": "Leer precios en el mercado",
+  "order": 9,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Aprender a leer precios te da más seguridad e independencia al momento de comprar."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Los precios se escriben con el signo $ y dos números después de un punto, por ejemplo $1.50."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "El primer número, antes del punto, son los dólares completos."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "El segundo número, después del punto, son los centavos."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Por ejemplo, 'un dólar con cincuenta centavos' se escribe así: $1.50."
+    },
+    {
+      "type": "analogy",
+      "text": "Leer un precio es como leer la hora en un reloj: dos partes juntas (dólares y centavos) que forman un solo dato."
+    },
+    {
+      "type": "tip",
+      "text": "Practica leyendo precios reales la próxima vez que vayas al mercado o a una tienda."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo se lee $2.25?",
+      "options": [
+        "Dos dólares con veinticinco centavos",
+        "Veinte dólares",
+        "Dos dólares con dos centavos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuántos centavos tiene $0.50?",
+      "answer": "50"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo se lee $3.00?",
+      "options": [
+        "Tres dólares",
+        "Tres centavos",
+        "Treinta dólares"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "En un precio como $1.50, ¿qué representa el número después del punto?",
+      "options": [
+        "Los centavos",
+        "Los dólares completos",
+        "Nada importante"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cómo se llama la parte del precio que va antes del punto? (dólares o centavos)",
+      "answer": "DOLARES"
+    }
+  ]
+}

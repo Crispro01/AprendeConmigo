@@ -1,0 +1,83 @@
+{
+  "id": "contestar-videollamada",
+  "moduleId": "m5-videollamadas",
+  "title": "Contestar una videollamada",
+  "order": 3,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Cuando alguien te hace una videollamada, el celular suena parecido a una llamada normal, pero mostrará que es de video."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m5-videollamadas/03-contestar-videollamada.png",
+      "alt": "Pantalla de videollamada entrante con botón verde"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Vas a ver en la pantalla el nombre de quien te está llamando."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca el botón verde de video para contestar."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Tócalo, y en unos segundos vas a poder ver y escuchar a la otra persona."
+    },
+    {
+      "type": "analogy",
+      "text": "Contestar una videollamada es como abrir la puerta y encontrarte cara a cara con esa persona, aunque esté en otra ciudad."
+    },
+    {
+      "type": "tip",
+      "text": "Si no te sientes cómodo mostrando tu imagen en ese momento, también puedes contestar solo con audio, sin activar la cámara."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿De qué color es el botón para contestar una videollamada?",
+      "answer": "verde"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué vemos en pantalla cuando nos hacen una videollamada?",
+      "options": [
+        "El nombre de quien llama",
+        "Nada",
+        "Solo un sonido"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Es obligatorio activar la cámara para contestar?",
+      "options": [
+        "No, se puede contestar solo con audio",
+        "Sí, siempre hay que mostrar la cara",
+        "No se puede contestar sin cámara"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué botón tocamos para contestar una videollamada?",
+      "options": [
+        "El botón verde",
+        "El botón rojo",
+        "Ninguno"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué vemos y escuchamos al contestar una videollamada, además de la voz? (una palabra)",
+      "answer": "IMAGEN"
+    }
+  ]
+}

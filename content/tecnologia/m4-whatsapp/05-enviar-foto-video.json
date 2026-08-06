@@ -1,0 +1,93 @@
+{
+  "id": "enviar-foto-video",
+  "moduleId": "m4-whatsapp",
+  "title": "Enviar foto o video",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Enviar fotos o videos por WhatsApp es una forma cercana de compartir momentos con tu familia, aunque estén lejos."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Dentro de la conversación, toca el ícono de clip 📎."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Elige la opción Galería para ver tus fotos y videos guardados."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Selecciona la foto o video que quieres enviar, tocándolo."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Toca el botón de enviar para completar el envío."
+    },
+    {
+      "type": "analogy",
+      "text": "Enviar una foto o video por WhatsApp es como entregar en mano una fotografía, pero a través del celular y sin moverte de casa."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m4-whatsapp/05-enviar-foto-video.png",
+      "alt": "Íconos de cámara y clip para adjuntar fotos o videos"
+    },
+    {
+      "type": "tip",
+      "text": "Puedes enviar varias fotos a la vez, seleccionando más de una antes de tocar enviar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde buscamos la foto que queremos enviar?",
+      "options": [
+        "En la Galería",
+        "En los Contactos",
+        "En el Calendario"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono tocamos para enviar una foto o video?",
+      "options": [
+        "El clip",
+        "El teléfono",
+        "La configuración"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde elegimos la foto o video que queremos enviar?",
+      "options": [
+        "En la Galería",
+        "En Contactos",
+        "En Ajustes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Podemos enviar varias fotos a la vez?",
+      "options": [
+        "Sí, seleccionando más de una",
+        "No, solo una por vez",
+        "Solo videos, no fotos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué tocamos al final para completar el envío? (una palabra)",
+      "answer": "ENVIAR"
+    }
+  ]
+}

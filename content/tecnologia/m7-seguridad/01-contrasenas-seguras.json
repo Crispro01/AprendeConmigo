@@ -1,0 +1,83 @@
+{
+  "id": "contrasenas-seguras",
+  "moduleId": "m7-seguridad",
+  "title": "Contraseñas seguras",
+  "order": 1,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Una contraseña es como la llave de una casa, pero para tus cuentas digitales. Tener una contraseña segura protege tu información de personas que quieran hacerte daño."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m7-seguridad/01-contrasenas-seguras.png",
+      "alt": "Candado de seguridad protegiendo una contraseña"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Usa una combinación de letras y números, en vez de solo un tipo."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Evita usar tu fecha de nacimiento o secuencias fáciles como '1234', que son las primeras que alguien probaría."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Nunca compartas tu contraseña con nadie, ni siquiera por teléfono o mensaje, aunque parezca una persona de confianza."
+    },
+    {
+      "type": "analogy",
+      "text": "Una contraseña es como la llave de tu casa: mientras más rara y difícil de copiar, más segura está tu puerta."
+    },
+    {
+      "type": "tip",
+      "text": "Anota tus contraseñas en un cuaderno o papel guardado en un lugar seguro y privado de tu casa, nunca a la vista de cualquiera."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Debemos compartir nuestra contraseña con alguien que nos llama por teléfono? (Sí o No)",
+      "answer": "no"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debe tener una contraseña segura?",
+      "options": [
+        "Una mezcla de letras y números",
+        "Solo tu fecha de nacimiento",
+        "Siempre '1234'"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde es mejor anotar tus contraseñas?",
+      "options": [
+        "En un lugar seguro y privado",
+        "En un papel a la vista de todos",
+        "En ningún lado, hay que memorizarlas todas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Con quién debemos compartir nuestra contraseña?",
+      "options": [
+        "Con nadie",
+        "Con cualquiera que la pida",
+        "Con toda la familia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué NO debe usar una contraseña para ser difícil de adivinar? (una palabra)",
+      "answer": "FECHA"
+    }
+  ]
+}

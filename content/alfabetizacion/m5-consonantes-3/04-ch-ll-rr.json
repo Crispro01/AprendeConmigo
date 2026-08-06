@@ -1,0 +1,132 @@
+{
+  "id": "ch-ll-rr",
+  "moduleId": "m5-consonantes-3",
+  "title": "CH, LL y RR",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Estas tres combinaciones de letras se escriben con dos letras juntas, pero se escuchan como un solo sonido."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "CH suena como en CHOCOLATE o MUCHACHO."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "LL suena como en LLAVE o LLUVIA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "RR suena fuerte, con la lengua vibrando varias veces, como en PERRO (diferente a la R suave de PERO)."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Practica diciendo las tres palabras: CHOCOLATE, LLAVE, PERRO."
+    },
+    {
+      "type": "analogy",
+      "text": "CH, LL y RR son como parejas de baile: dos letras que solas suenan de una forma, pero juntas crean un paso nuevo."
+    },
+    {
+      "type": "tip",
+      "text": "Comparar PERO (R suave) con PERRO (RR fuerte) es un buen ejercicio: son palabras distintas que solo cambian por ese sonido."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo suena la combinación CH en CHOCOLATE?",
+      "options": [
+        "Como en CHOCOLATE",
+        "Como una C sola",
+        "Como una H sola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra tiene el sonido LL?",
+      "options": [
+        "LLAVE",
+        "LOBO",
+        "LUNA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo suena la R en la palabra PERRO?",
+      "options": [
+        "Fuerte, como RR",
+        "Suave, como en CARO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Con qué combinación de letras empieza la palabra CHOCOLATE?",
+      "answer": "CH"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Con qué combinación de letras empieza la palabra LLAVE?",
+      "answer": "LL"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra tiene sonido RR fuerte?",
+      "options": [
+        "PERRO",
+        "PERO",
+        "CARO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "MU_ACHO (falta CH)",
+      "options": [
+        "CH",
+        "LL",
+        "RR"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_UVIA (falta LL)",
+      "options": [
+        "LL",
+        "CH",
+        "RR"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra tiene el sonido CH?",
+      "options": [
+        "NOCHE",
+        "NORTE",
+        "NUBE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas combina dos letras en un solo sonido?",
+      "options": [
+        "RR",
+        "M",
+        "S"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "buscar-youtube",
+  "moduleId": "m6-internet",
+  "title": "Buscar un video en YouTube",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "YouTube es una aplicación donde puedes ver videos sobre casi cualquier tema: recetas, música, tutoriales, noticias, y mucho más."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m6-internet/04-buscar-youtube.png",
+      "alt": "Aplicación de reproducción de video"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación YouTube, identificada con un ícono rojo con un triángulo blanco en el centro."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Toca la lupa 🔍 para buscar."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Escribe lo que quieres ver, por ejemplo el nombre de una canción o un tema."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Toca el video que te interese para reproducirlo."
+    },
+    {
+      "type": "analogy",
+      "text": "YouTube es como un canal de televisión gigante, donde tú eliges qué programa ver y a qué hora."
+    },
+    {
+      "type": "tip",
+      "text": "Muchos videos de YouTube explican cosas paso a paso, con imágenes, lo cual puede ser útil para seguir aprendiendo por tu cuenta."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿De qué color es el ícono de YouTube?",
+      "answer": "rojo"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué podemos ver en YouTube?",
+      "options": [
+        "Videos sobre casi cualquier tema",
+        "Solo noticias",
+        "Solo música clásica"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para buscar un video?",
+      "options": [
+        "La lupa",
+        "La cámara",
+        "El botón de apagar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué hacemos para reproducir un video?",
+      "options": [
+        "Tocarlo",
+        "Borrarlo",
+        "Nada, se reproduce solo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿De qué color es el ícono de YouTube?",
+      "answer": "ROJO"
+    }
+  ]
+}

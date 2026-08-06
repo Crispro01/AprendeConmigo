@@ -1,0 +1,88 @@
+{
+  "id": "no-compartir-codigos",
+  "moduleId": "m7-seguridad",
+  "title": "No compartir códigos ni claves",
+  "order": 3,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Algunas aplicaciones, como WhatsApp o el banco, envían un código especial por mensaje de texto para confirmar que eres tú quien las está usando."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m7-seguridad/03-no-compartir-codigos.png",
+      "alt": "Escudo de seguridad protegiendo código de verificación SMS"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Ese código es solo tuyo, y sirve exactamente para eso: confirmar tu identidad."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Nunca se lo des a nadie que te lo pida, ni siquiera a alguien que dice trabajar en el banco o en WhatsApp."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Ninguna empresa seria te va a pedir ese código por teléfono o mensaje."
+    },
+    {
+      "type": "analogy",
+      "text": "Un código de verificación es como la clave secreta de una caja fuerte: es solo tuya, y nadie de confianza real te la pediría por teléfono."
+    },
+    {
+      "type": "tip",
+      "text": "Si alguien te pide con urgencia un código que recibiste, es casi seguro una señal de alerta. Cuelga o no respondas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿A quién le debemos dar nuestro código de verificación?",
+      "options": [
+        "A nadie, es solo nuestro",
+        "A quien lo pida por teléfono",
+        "A cualquier familiar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve un código de verificación?",
+      "options": [
+        "Para confirmar que eres tú quien usa la cuenta",
+        "Para compartir con amigos",
+        "Para nada importante"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Quién debería pedirte ese código por teléfono?",
+      "options": [
+        "Nadie de confianza real",
+        "Cualquier empresa seria",
+        "Tu banco siempre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer si alguien insiste en pedir el código?",
+      "options": [
+        "No dárselo",
+        "Dárselo para que no insista más",
+        "Dárselo solo si suena amable"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿A quién pertenece tu código de verificación?",
+      "answer": "TI"
+    }
+  ]
+}

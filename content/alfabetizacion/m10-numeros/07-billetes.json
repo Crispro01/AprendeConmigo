@@ -1,0 +1,83 @@
+{
+  "id": "billetes",
+  "moduleId": "m10-numeros",
+  "title": "Conocer los billetes",
+  "order": 7,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora vamos a conocer los billetes de dólar, que se usan para cantidades más grandes de dinero."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Existen billetes de 1, 5, 10 y 20 dólares, entre otros."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Cada billete tiene un número grande que indica su valor, además de imágenes distintas."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Practica reconociendo el número en cada billete antes de fijarte en el dibujo."
+    },
+    {
+      "type": "analogy",
+      "text": "Los billetes son como las monedas, pero de mayor valor en un solo papel: representan cantidades más grandes."
+    },
+    {
+      "type": "tip",
+      "text": "Si tienes dudas sobre un billete, puedes pedirle a alguien de confianza que te ayude a confirmarlo, sobre todo al principio."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál billete vale más?",
+      "options": [
+        "20 dólares",
+        "5 dólares",
+        "1 dólar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál billete vale menos?",
+      "options": [
+        "1 dólar",
+        "5 dólares",
+        "10 dólares"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cuántos dólares vale el billete más pequeño?",
+      "answer": "1"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Si tienes un billete de 10 y uno de 5, ¿cuál vale más?",
+      "options": [
+        "El de 10",
+        "El de 5",
+        "Valen igual"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirven los billetes de mayor valor?",
+      "options": [
+        "Para cantidades más grandes de dinero",
+        "Para nada especial",
+        "Solo para decorar"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

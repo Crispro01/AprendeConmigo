@@ -1,0 +1,78 @@
+{
+  "id": "numeros-11-20",
+  "moduleId": "m10-numeros",
+  "title": "Números del 11 al 20",
+  "order": 2,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora seguimos contando, del 11 al 20. Estos números se usan mucho para hablar de edades, horas y cantidades."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Sigue contando: 11, 12, 13, 14, 15."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Continúa: 16, 17, 18, 19, 20."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Practica contando desde el 1 hasta el 20 completo, sin saltarte ninguno."
+    },
+    {
+      "type": "analogy",
+      "text": "Pasar del 10 al 20 es como pasar de una mano a las dos manos y unos dedos más: sigues el mismo patrón, solo que un poco más largo."
+    },
+    {
+      "type": "tip",
+      "text": "Si te trabas en algún número, no pasa nada: vuelve a empezar desde donde te sientas seguro."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál número es el 15?",
+      "options": [
+        "Quince",
+        "Doce",
+        "Veinte"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cómo se escribe el número 12 en palabras?",
+      "answer": "DOCE"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cómo se escribe el número 18 en palabras?",
+      "answer": "DIECIOCHO"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál número es el 20?",
+      "options": [
+        "Veinte",
+        "Doce",
+        "Diez"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué número va justo después del 19?",
+      "options": [
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

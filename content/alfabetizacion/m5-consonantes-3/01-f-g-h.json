@@ -1,0 +1,133 @@
+{
+  "id": "f-g-h",
+  "moduleId": "m5-consonantes-3",
+  "title": "F, G y H",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Hoy vemos tres letras seguidas: F, G y H. Cada una tiene su propia forma de sonar, así que vamos una por una, sin apuro."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "La F se parece a soplar suavemente con los dientes apoyados en el labio de abajo: como en FOCA."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "La G, con las vocales A, O, U, suena fuerte, como en GATO; pero con E, I suena como la J, como en GENTE."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "La H es especial: en español no suena, es muda. Se escribe pero no se pronuncia, como en HOLA."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Practica diciendo las tres palabras en voz alta: FOCA, GATO, HOLA."
+    },
+    {
+      "type": "analogy",
+      "text": "La H es como un fantasma: está ahí, se ve, pero no hace ruido."
+    },
+    {
+      "type": "image",
+      "src": "F G H",
+      "alt": "Las letras F, G y H"
+    },
+    {
+      "type": "tip",
+      "text": "No te frustres si la H te resulta rara: es la única letra del español que no tiene sonido propio, y hasta a los niños les cuesta acostumbrarse."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra FOCA?",
+      "answer": "F"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_ATO",
+      "options": [
+        "H",
+        "G",
+        "M"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la F?",
+      "options": [
+        "F",
+        "H",
+        "M"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra GATO?",
+      "answer": "G"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_OCA",
+      "options": [
+        "G",
+        "F",
+        "H"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la G?",
+      "options": [
+        "G",
+        "F",
+        "H"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CAFÉ?",
+      "answer": "F"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "AMI_O",
+      "options": [
+        "S",
+        "G",
+        "F"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la F?",
+      "options": [
+        "F",
+        "S",
+        "G"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué letra NO se pronuncia?",
+      "options": [
+        "H",
+        "F",
+        "G"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

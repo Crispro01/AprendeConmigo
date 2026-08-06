@@ -1,0 +1,78 @@
+{
+  "id": "numeros-1-10",
+  "moduleId": "m10-numeros",
+  "title": "Números del 1 al 10",
+  "order": 1,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Los números del 1 al 10 son la base de todas las cuentas que hacemos en el día a día, desde contar objetos hasta manejar dinero."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Cuenta despacio: 1, 2, 3, 4, 5."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Sigue: 6, 7, 8, 9, 10."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Ahora intenta contar objetos reales que tengas cerca, como platos o monedas."
+    },
+    {
+      "type": "analogy",
+      "text": "Los números del 1 al 10 son como los dedos de tus manos: los llevas contigo siempre, y ya los usas aunque no te des cuenta."
+    },
+    {
+      "type": "tip",
+      "text": "Contar cosas reales, no solo decir los números en el aire, ayuda mucho a que se queden en la memoria."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué número va después del 7?",
+      "options": [
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué número va después del 3?",
+      "answer": "4"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué número va antes del 9?",
+      "answer": "8"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál es el primer número que contamos?",
+      "options": [
+        "1",
+        "0",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál número es mayor: 6 o 9?",
+      "options": [
+        "9",
+        "6",
+        "Son iguales"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

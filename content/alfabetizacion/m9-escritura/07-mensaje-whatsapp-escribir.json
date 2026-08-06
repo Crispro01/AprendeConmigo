@@ -1,0 +1,68 @@
+{
+  "id": "mensaje-whatsapp-escribir",
+  "moduleId": "m9-escritura",
+  "title": "Escribir un mensaje de WhatsApp",
+  "order": 7,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Practicar escribir mensajes cortos te va a servir muchísimo para comunicarte con tu familia por celular."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Escribe un saludo simple: 'Hola, ¿cómo estás?'"
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Practica escribir tu nombre al final del mensaje, como firma."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Intenta escribir una pregunta corta a alguien de tu familia."
+    },
+    {
+      "type": "analogy",
+      "text": "Escribir un mensaje corto es como dejar una nota pegada en el refrigerador: unas pocas palabras que le llegan a otra persona."
+    },
+    {
+      "type": "tip",
+      "text": "Empieza practicando en papel antes de escribirlo en el celular. Así puedes tomarte el tiempo que necesites sin sentir presión."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "Escribe: HOLA COMO ESTAS",
+      "answer": "HOLA COMO ESTAS"
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe: BUENOS DIAS",
+      "answer": "BUENOS DIAS"
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe: TE QUIERO",
+      "answer": "TE QUIERO"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tipo de mensajes son los más comunes en WhatsApp?",
+      "options": [
+        "Mensajes cortos",
+        "Cartas muy largas",
+        "Solo fotos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe: NOS VEMOS PRONTO",
+      "answer": "NOS VEMOS PRONTO"
+    }
+  ]
+}

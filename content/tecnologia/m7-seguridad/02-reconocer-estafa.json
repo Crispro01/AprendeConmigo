@@ -1,0 +1,88 @@
+{
+  "id": "reconocer-estafa",
+  "moduleId": "m7-seguridad",
+  "title": "Reconocer un mensaje falso o estafa",
+  "order": 2,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Lamentablemente, existen personas que envían mensajes falsos tratando de engañar para quitarnos dinero o información personal. Aprender a reconocerlos te protege."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m7-seguridad/02-reconocer-estafa.png",
+      "alt": "Símbolo de alerta roja sobre mensaje sospechoso"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Desconfía de mensajes que dicen que ganaste un premio, sobre todo si nunca participaste en ningún sorteo."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Desconfía de mensajes que piden dinero urgente, diciendo ser un familiar en problemas."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Desconfía de enlaces (links) desconocidos o que prometen algo demasiado bueno."
+    },
+    {
+      "type": "analogy",
+      "text": "Una estafa por mensaje es como un vendedor que toca la puerta prometiendo algo increíble y barato: la mayoría de las veces, es mejor desconfiar."
+    },
+    {
+      "type": "tip",
+      "text": "Una buena regla general: si algo suena demasiado bueno para ser verdad, probablemente sea una estafa. Ante la duda, pregunta a un familiar de confianza."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer si un mensaje dice que ganamos un premio sin participar?",
+      "options": [
+        "Desconfiar, probablemente es falso",
+        "Enviar nuestros datos rápido",
+        "Compartirlo con toda la familia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿De qué debemos desconfiar en un mensaje?",
+      "options": [
+        "De premios que no ganamos participando",
+        "De mensajes de la familia real",
+        "De fotos familiares"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer si un mensaje pide dinero urgente?",
+      "options": [
+        "Desconfiar y verificar primero",
+        "Enviar el dinero de inmediato",
+        "Ignorar sin pensar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué frase debe hacernos sospechar?",
+      "options": [
+        "'Algo demasiado bueno para ser verdad'",
+        "'Buenos días'",
+        "'Feliz cumpleaños'"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué debemos hacer ante un mensaje sospechoso? (una palabra)",
+      "answer": "DESCONFIAR"
+    }
+  ]
+}

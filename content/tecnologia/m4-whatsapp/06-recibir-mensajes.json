@@ -1,0 +1,88 @@
+{
+  "id": "recibir-mensajes",
+  "moduleId": "m4-whatsapp",
+  "title": "Recibir y escuchar mensajes",
+  "order": 6,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Así como puedes enviar mensajes, también vas a recibirlos. Vamos a aprender qué hacer cuando eso pasa."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Cuando llega un mensaje nuevo, el celular generalmente suena o vibra, y aparece una notificación en la pantalla."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Toca esa notificación, o abre WhatsApp directamente, para leer el mensaje completo."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Si el mensaje es un audio, vas a ver un botón de play ▶️; tócalo para escucharlo."
+    },
+    {
+      "type": "analogy",
+      "text": "Recibir un mensaje es como escuchar que alguien toca a tu puerta: una señal te avisa, y tú decides cuándo abrir a ver qué es."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m4-whatsapp/06-recibir-mensajes.png",
+      "alt": "Globo de mensaje recibido con marcas de verificación"
+    },
+    {
+      "type": "tip",
+      "text": "Puedes escuchar un audio las veces que necesites, tocando de nuevo el botón de play."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para escuchar un audio recibido?",
+      "options": [
+        "El botón de play ▶️",
+        "El ícono de basura",
+        "El botón de llamar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué pasa cuando llega un mensaje nuevo?",
+      "options": [
+        "El celular suena o vibra y avisa",
+        "No pasa nada visible",
+        "Se borra automáticamente"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para escuchar un audio recibido?",
+      "options": [
+        "El botón de play",
+        "El botón de basura",
+        "El botón de llamar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Podemos escuchar un audio más de una vez?",
+      "options": [
+        "Sí, las veces que queramos",
+        "No, solo una vez",
+        "Solo si pagamos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué aparece en la pantalla cuando llega un mensaje? (una palabra)",
+      "answer": "NOTIFICACION"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "izquierda-derecha",
+  "moduleId": "m1-preparacion",
+  "title": "Izquierda y derecha, arriba y abajo",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Antes de leer y escribir, ayuda mucho tener claro hacia dónde se mueve nuestra vista y nuestra mano sobre el papel. En español, seguimos siempre la misma dirección."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m1-preparacion/02-izquierda-derecha.png",
+      "alt": "Hoja de cuaderno con flecha de dirección de izquierda a derecha"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Levanta tu mano derecha bien alto. Ahora bájala."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Levanta tu mano izquierda. Ahora bájala también."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "En español leemos y escribimos de izquierda a derecha: empezamos por un lado y avanzamos hacia el otro, sin saltar."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Cuando vayas a escribir en una hoja, siempre empieza arriba, en la esquina izquierda, y ve avanzando hacia la derecha."
+    },
+    {
+      "type": "analogy",
+      "text": "Leer de izquierda a derecha es como leer los números de las casas en una calle: siempre empiezas por un extremo y avanzas en la misma dirección hasta el final."
+    },
+    {
+      "type": "tip",
+      "text": "Si alguna vez te confundes entre izquierda y derecha, no te preocupes: con la práctica se vuelve automático, como cuando aprendiste a caminar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿En qué dirección leemos en español?",
+      "options": [
+        "De izquierda a derecha",
+        "De derecha a izquierda",
+        "De abajo hacia arriba"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Cuando escribimos en una hoja, ¿por dónde empezamos?",
+      "options": [
+        "Arriba a la izquierda",
+        "Abajo a la derecha",
+        "En el centro"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué mano es la que normalmente escribe la mayoría de las personas?",
+      "options": [
+        "La derecha",
+        "La izquierda",
+        "Ninguna"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Levanta tu mano derecha. ¿Qué mano levantaste? (derecha o izquierda)",
+      "answer": "derecha"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿En qué dirección avanzamos al leer una frase en español?",
+      "options": [
+        "De izquierda a derecha",
+        "De arriba hacia abajo",
+        "De derecha a izquierda"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

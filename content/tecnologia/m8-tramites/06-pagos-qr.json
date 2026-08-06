@@ -1,0 +1,93 @@
+{
+  "id": "pagos-qr",
+  "moduleId": "m8-tramites",
+  "title": "Pagos digitales y códigos QR",
+  "order": 6,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Un código QR es un cuadrito con un dibujo especial que la cámara del celular puede leer para hacer un pago de forma rápida y sin efectivo."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m8-tramites/06-pagos-qr.png",
+      "alt": "Escaneo de código QR con la cámara del celular para pagar"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación de pago o de tu banco."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca la opción para escanear código QR, generalmente con un ícono de cuadrito."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Apunta la cámara de tu celular hacia el código QR que te muestren."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Antes de confirmar, revisa con cuidado el monto que vas a pagar."
+    },
+    {
+      "type": "analogy",
+      "text": "Un código QR es como una etiqueta con el precio, pero que el celular puede 'leer' con la cámara para pagar al instante."
+    },
+    {
+      "type": "tip",
+      "text": "Nunca confirmes un pago sin revisar el monto exacto primero. Tómate el tiempo que necesites, nadie debería apurarte."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos revisar antes de confirmar un pago con código QR?",
+      "options": [
+        "El monto a pagar",
+        "El color del código",
+        "La hora exacta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué es un código QR?",
+      "options": [
+        "Un cuadro que el celular puede leer para pagar",
+        "Un tipo de contraseña",
+        "Un número de cuenta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué usamos para leer el código QR?",
+      "options": [
+        "La cámara del celular",
+        "El micrófono",
+        "El altavoz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos revisar antes de confirmar el pago?",
+      "options": [
+        "El monto a pagar",
+        "El color del código",
+        "La hora exacta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué parte del celular apuntamos hacia el código QR? (una palabra)",
+      "answer": "CAMARA"
+    }
+  ]
+}

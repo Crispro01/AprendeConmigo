@@ -1,0 +1,83 @@
+{
+  "id": "numeros-que-conozco",
+  "moduleId": "m1-preparacion",
+  "title": "Repaso de números que ya conozco",
+  "order": 4,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Aunque sientas que no sabes números, seguro ya usas varios todos los días sin darte cuenta: en la hora, en el precio del pan, en el número de tu casa. Vamos a repasarlos con calma."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m1-preparacion/04-numeros-que-conozco.png",
+      "alt": "Números 1, 2, 3, 4 y 5 escritos a mano en cuaderno"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Cuenta en voz alta, despacio, del 1 al 10, usando los dedos de tu mano si te ayuda."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca un número en tu casa: puede estar en un reloj, en el control remoto, en un envase de comida o en la puerta."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Cuando lo encuentres, di en voz alta qué número es."
+    },
+    {
+      "type": "analogy",
+      "text": "Los números son como las caras de tu familia: aunque no sepas explicar por qué los reconoces, ya los conoces de tanto verlos."
+    },
+    {
+      "type": "tip",
+      "text": "No te preocupes si te equivocas o te olvidas de alguno: los números se aprenden repitiendo, poco a poco, no de una sola vez."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué número va después del 5?",
+      "options": [
+        "6",
+        "4",
+        "9"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde podemos encontrar números en la casa sin darnos cuenta?",
+      "options": [
+        "En un reloj o control remoto",
+        "Nunca los usamos en casa",
+        "Solo en la escuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué número va después del 3?",
+      "answer": "4"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué número va antes del 10?",
+      "answer": "9"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál es la mejor forma de aprender los números?",
+      "options": [
+        "Contando cosas reales",
+        "Memorizando sin practicar",
+        "Evitando equivocarse"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

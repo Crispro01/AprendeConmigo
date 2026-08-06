@@ -1,0 +1,88 @@
+{
+  "id": "lista-mercado",
+  "moduleId": "m8-lectura",
+  "title": "Leer una lista del mercado",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Leer una lista de compras es algo que vas a usar seguido, y es una excelente forma de practicar lectura en la vida real."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Lee cada palabra de la lista despacio: PAN."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Sigue con: LECHE."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Sigue con: HUEVOS, ARROZ, ACEITE."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Intenta hacer tu propia lista corta la próxima vez que vayas a comprar."
+    },
+    {
+      "type": "analogy",
+      "text": "Una lista de compras es como un mapa para el mercado: te dice exactamente qué buscar, para no ir de un lado a otro sin rumbo."
+    },
+    {
+      "type": "tip",
+      "text": "Puedes empezar escribiendo listas de solo 2 o 3 productos, e ir aumentando poco a poco."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "Si la lista dice HUEVOS, ¿qué debemos comprar?",
+      "options": [
+        "Huevos",
+        "Pan",
+        "Aceite"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Si la lista dice ARROZ, ¿qué debemos comprar?",
+      "options": [
+        "Arroz",
+        "Pan",
+        "Leche"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve hacer una lista antes de ir a comprar?",
+      "options": [
+        "Para no olvidar qué comprar",
+        "Para gastar más",
+        "No sirve de nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe una palabra de comida que pondrías en tu lista",
+      "answer": "PAN"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas palabras podría estar en una lista de mercado?",
+      "options": [
+        "ACEITE",
+        "SILLA",
+        "LUNES"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

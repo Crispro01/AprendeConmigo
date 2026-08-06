@@ -1,0 +1,93 @@
+{
+  "id": "volumen",
+  "moduleId": "m1-mi-celular",
+  "title": "Subir y bajar el volumen",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Controlar el volumen te permite escuchar bien las llamadas y los mensajes, o bajarlo cuando estés en un lugar tranquilo."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Busca los botones de volumen, generalmente en un lado del celular, cerca del botón de encender."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Presiona hacia arriba para subir el volumen."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Presiona hacia abajo para bajarlo."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Verás en la pantalla una barra que sube o baja, confirmando el cambio."
+    },
+    {
+      "type": "analogy",
+      "text": "El volumen del celular es como la perilla de un radio viejo: la subes cuando quieres escuchar mejor, la bajas cuando molesta."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/05-volumen.png",
+      "alt": "Botones de volumen en el lateral del celular"
+    },
+    {
+      "type": "tip",
+      "text": "Si el celular no suena y ya revisaste el volumen, fíjate también que no esté en modo silencio (a veces hay un pequeño interruptor aparte para eso)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde están normalmente los botones de volumen?",
+      "options": [
+        "En un lado del celular",
+        "Detrás de la cámara",
+        "No existen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde están normalmente los botones de volumen?",
+      "options": [
+        "A un lado del celular",
+        "Detrás de la cámara",
+        "Adentro de la pantalla"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos revisar si el celular no suena y el volumen está alto?",
+      "options": [
+        "Que no esté en modo silencio",
+        "Que esté cargado",
+        "Que tenga wifi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué pasa cuando presionamos el volumen hacia abajo varias veces?",
+      "options": [
+        "El sonido baja hasta silenciarse",
+        "El celular se apaga",
+        "La pantalla se bloquea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué botones usamos para subir o bajar el sonido? (una palabra)",
+      "answer": "VOLUMEN"
+    }
+  ]
+}

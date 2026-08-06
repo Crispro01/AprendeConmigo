@@ -1,0 +1,128 @@
+{
+  "id": "letra-r",
+  "moduleId": "m4-consonantes-2",
+  "title": "La R suave",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Hoy aprendemos la R suave, la que se usa en el medio de palabras como PERO o CARO. Es distinta a la R fuerte, que veremos más adelante."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Toca el paladar con la punta de la lengua una sola vez, de forma rápida y suave."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Di: PE-RO, sintiendo ese pequeño toque en el medio."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Practica con otra palabra: CARO."
+    },
+    {
+      "type": "analogy",
+      "text": "La R suave es como un pequeño rebote de la lengua contra el paladar, parecido al 'tris' rápido de una gota de agua cayendo."
+    },
+    {
+      "type": "image",
+      "src": "R r",
+      "alt": "La letra R mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "No te preocupes si al principio te cuesta, la R es una de las letras más difíciles del español, incluso para quienes ya saben leer bien."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la R?",
+      "options": [
+        "R",
+        "N",
+        "C"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CARO?",
+      "answer": "R"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "CA_O",
+      "options": [
+        "D",
+        "R",
+        "N"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la R?",
+      "options": [
+        "R",
+        "D",
+        "N"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra PERO?",
+      "answer": "R"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "PE_O",
+      "options": [
+        "B",
+        "R",
+        "D"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la R?",
+      "options": [
+        "R",
+        "B",
+        "D"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra ARENA?",
+      "answer": "R"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "A_ENA",
+      "options": [
+        "C",
+        "R",
+        "B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la R?",
+      "options": [
+        "R",
+        "C",
+        "B"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

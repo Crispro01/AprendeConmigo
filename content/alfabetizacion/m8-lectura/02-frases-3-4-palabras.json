@@ -1,0 +1,83 @@
+{
+  "id": "frases-3-4-palabras",
+  "moduleId": "m8-lectura",
+  "title": "Frases de 3 a 4 palabras",
+  "order": 2,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora damos un paso más: leer frases un poco más largas, con 3 o 4 palabras."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Lee despacio, palabra por palabra: MI MAMÁ COCINA ARROZ."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Vuelve a leerla completa, un poco más rápido, tratando de entender la idea completa."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Ahora lee: EL SOL ESTÁ CALIENTE."
+    },
+    {
+      "type": "analogy",
+      "text": "Leer una frase más larga es como armar una oración al hablar: vas uniendo palabras hasta completar una idea."
+    },
+    {
+      "type": "tip",
+      "text": "Si una frase te resulta larga, léela dos veces: la primera para entender cada palabra, la segunda para entender la idea completa."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "En la frase 'EL SOL ESTÁ CALIENTE', ¿de qué habla?",
+      "options": [
+        "Del sol",
+        "De la luna",
+        "Del agua"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "En 'MI MAMÁ COCINA ARROZ', ¿qué cocina mamá?",
+      "options": [
+        "Arroz",
+        "Pan",
+        "Leche"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántas palabras tiene 'MI MAMÁ COCINA ARROZ'?",
+      "options": [
+        "4",
+        "2",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Completa: EL SOL ESTÁ ___ (caliente)",
+      "answer": "CALIENTE"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿De qué habla la frase 'MI MAMÁ COCINA ARROZ'?",
+      "options": [
+        "De mamá cocinando",
+        "Del clima",
+        "De un letrero"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

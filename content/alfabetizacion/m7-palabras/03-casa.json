@@ -1,0 +1,93 @@
+{
+  "id": "casa",
+  "moduleId": "m7-palabras",
+  "title": "Palabras de la casa",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora aprendemos palabras de las cosas que usamos todos los días en nuestra casa."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "CASA es el lugar donde vivimos."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "MESA y SILLA son muebles donde comemos y nos sentamos."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "CAMA es donde dormimos."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "PUERTA es por donde entramos y salimos."
+    },
+    {
+      "type": "analogy",
+      "text": "Las palabras de la casa son como los muebles mismos: las usas todos los días sin pensarlo, por eso son de las más fáciles de recordar."
+    },
+    {
+      "type": "image",
+      "src": "🏠",
+      "alt": "Una casa"
+    },
+    {
+      "type": "tip",
+      "text": "Intenta señalar cada objeto en tu propia casa mientras dices su nombre en voz alta. Ver y decir a la vez ayuda mucho a memorizar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra nombra dónde dormimos?",
+      "options": [
+        "CAMA",
+        "MESA",
+        "PUERTA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra nombra donde nos sentamos a comer?",
+      "options": [
+        "MESA",
+        "CAMA",
+        "PUERTA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra nombra por dónde entramos a la casa?",
+      "options": [
+        "PUERTA",
+        "CAMA",
+        "SILLA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la palabra que nombra donde nos sentamos",
+      "answer": "SILLA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas palabras nombra un mueble de la casa?",
+      "options": [
+        "MESA",
+        "SOL",
+        "AGUA"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

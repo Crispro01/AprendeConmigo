@@ -1,0 +1,90 @@
+{
+  "id": "combino-silabas",
+  "moduleId": "m6-silabas",
+  "title": "Combino sílabas en palabras",
+  "order": 6,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora viene una parte muy satisfactoria: unir las sílabas que ya conoces para formar palabras completas, tal como se leen y se escriben de verdad."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "MA + MA = MAMÁ. Dilo despacio, uniendo las dos sílabas: MA-MÁ."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "PA + PA = PAPÁ."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "SA + PO = SAPO."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "LU + NA = LUNA."
+    },
+    {
+      "type": "analogy",
+      "text": "Unir sílabas para formar una palabra es como unir vagones de un tren: cada sílaba es un vagón, y juntos avanzan formando algo más largo y útil."
+    },
+    {
+      "type": "tip",
+      "text": "Formar tu primera palabra completa es un momento importante. No importa cuánto te haya tomado llegar hasta aquí, lo lograste."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une las sílabas para formar la palabra correcta",
+      "pairs": [
+        {
+          "left": "MA + MA",
+          "right": "MAMÁ"
+        },
+        {
+          "left": "PA + PA",
+          "right": "PAPÁ"
+        },
+        {
+          "left": "SA + PO",
+          "right": "SAPO"
+        },
+        {
+          "left": "LU + NA",
+          "right": "LUNA"
+        }
+      ]
+    },
+    {
+      "type": "type-word",
+      "question": "Une las sílabas: PA + TO = ?",
+      "answer": "PATO"
+    },
+    {
+      "type": "type-word",
+      "question": "Une las sílabas: MA + NO = ?",
+      "answer": "MANO"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué palabra forman las sílabas SO + PA?",
+      "options": [
+        "SOPA",
+        "PASO",
+        "POSA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Une las sílabas: TA + ZA = ?",
+      "answer": "TAZA"
+    }
+  ]
+}

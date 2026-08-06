@@ -1,0 +1,128 @@
+{
+  "id": "letra-l",
+  "moduleId": "m3-consonantes-1",
+  "title": "La L",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La L es una letra suave, que se produce tocando el paladar con la punta de la lengua. La escuchamos en palabras como LUNA o SOL."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Toca el paladar (la parte de arriba de la boca) con la punta de la lengua, justo detrás de los dientes de arriba."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Sin dejar de tocar, di: LA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Combina la L con las vocales: LA - LE - LI - LO - LU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Busca la L en la palabra LUNA."
+    },
+    {
+      "type": "analogy",
+      "text": "La L es como la lengua saltando: toca arriba y se suelta rápido, parecido al sonido que hacemos al saborear algo rico."
+    },
+    {
+      "type": "image",
+      "src": "L l",
+      "alt": "La letra L mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "Si te cuesta sentir dónde va la lengua, practica frente a un espejo: vas a ver claramente el movimiento."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra LUNA?",
+      "answer": "L"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_UNA",
+      "options": [
+        "M",
+        "L",
+        "P"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la L?",
+      "options": [
+        "L",
+        "M",
+        "P"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra SOL?",
+      "answer": "L"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "SO_",
+      "options": [
+        "T",
+        "L",
+        "M"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la L?",
+      "options": [
+        "L",
+        "T",
+        "M"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra LECHE?",
+      "answer": "L"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_ECHE",
+      "options": [
+        "S",
+        "L",
+        "T"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la L?",
+      "options": [
+        "L",
+        "S",
+        "T"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra PELOTA?",
+      "answer": "L"
+    }
+  ]
+}

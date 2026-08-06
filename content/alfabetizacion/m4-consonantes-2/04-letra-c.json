@@ -1,0 +1,123 @@
+{
+  "id": "letra-c",
+  "moduleId": "m4-consonantes-2",
+  "title": "La C",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La C tiene dos sonidos distintos según la vocal que la acompañe, y por eso conviene aprenderla con calma."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Con las vocales A, O, U, la C suena fuerte, como en CASA, COMER o CUNA."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Con las vocales E, I, la C suena como la S, como en CIELO o CINE."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Practica diciendo: CA - CO - CU (sonido fuerte) y CE - CI (sonido suave, como la S)."
+    },
+    {
+      "type": "analogy",
+      "text": "La C es camaleónica, cambia de sonido según su compañía, como una persona que habla distinto según con quién esté: fuerte con A, O, U; suave con E, I."
+    },
+    {
+      "type": "image",
+      "src": "C c",
+      "alt": "La letra C mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "Este cambio confunde a mucha gente al principio, es completamente normal. Con la práctica, tu oído lo va a reconocer solo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CASA?",
+      "answer": "C"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_ASA",
+      "options": [
+        "D",
+        "C",
+        "N"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la C?",
+      "options": [
+        "C",
+        "D",
+        "N"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra VACA?",
+      "answer": "C"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "VA_A",
+      "options": [
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la C?",
+      "options": [
+        "C",
+        "B",
+        "D"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CUNA?",
+      "answer": "C"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_UNA",
+      "options": [
+        "R",
+        "C",
+        "B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la C?",
+      "options": [
+        "C",
+        "R",
+        "B"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CAMA?",
+      "answer": "C"
+    }
+  ]
+}

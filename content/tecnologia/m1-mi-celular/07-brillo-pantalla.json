@@ -1,0 +1,88 @@
+{
+  "id": "brillo-pantalla",
+  "moduleId": "m1-mi-celular",
+  "title": "Ajustar el brillo de la pantalla",
+  "order": 7,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "El brillo de la pantalla es qué tan iluminada se ve. Ajustarlo bien cuida tanto tu vista como la batería del celular."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Desliza el dedo desde la parte de arriba de la pantalla hacia abajo, con cuidado."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Se va a abrir un panel con varios íconos."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Busca una barra larga con un ícono de sol, y desliza el dedo sobre ella hacia la derecha para subir el brillo, o hacia la izquierda para bajarlo."
+    },
+    {
+      "type": "analogy",
+      "text": "El brillo de la pantalla es como la intensidad de un foco: muy fuerte encandila, muy bajo no deja ver bien, hay que encontrar el punto justo."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/07-brillo-pantalla.png",
+      "alt": "Control para ajustar el brillo de la pantalla"
+    },
+    {
+      "type": "tip",
+      "text": "Un brillo muy alto cansa la vista y gasta más batería. Ajústalo a un nivel cómodo para ti, ni muy oscuro ni muy fuerte."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve bajar el brillo de la pantalla?",
+      "options": [
+        "Para cuidar la batería y los ojos",
+        "Para tomar mejores fotos",
+        "Para que suene más fuerte"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono representa el brillo de la pantalla?",
+      "options": [
+        "Un sol",
+        "Una luna",
+        "Una estrella"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué pasa si el brillo está muy alto por mucho tiempo?",
+      "options": [
+        "Cansa la vista y gasta batería",
+        "No pasa nada",
+        "Ahorra batería"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo abrimos el panel rápido para cambiar el brillo?",
+      "options": [
+        "Deslizando desde arriba de la pantalla",
+        "Apagando el celular",
+        "Sacando la batería"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué ajustamos con el ícono de sol en el panel rápido? (una palabra)",
+      "answer": "BRILLO"
+    }
+  ]
+}

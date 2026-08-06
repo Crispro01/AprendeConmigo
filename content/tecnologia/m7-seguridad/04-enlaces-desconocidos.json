@@ -1,0 +1,93 @@
+{
+  "id": "enlaces-desconocidos",
+  "moduleId": "m7-seguridad",
+  "title": "Cuidado con enlaces desconocidos",
+  "order": 4,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Un enlace, también llamado link, es una palabra o dirección en la que puedes tocar para abrir una página de internet. No todos los enlaces son seguros."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m7-seguridad/04-enlaces-desconocidos.png",
+      "alt": "Enlace web con señal de advertencia en rojo"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "No toques enlaces enviados por números o personas desconocidas."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "No toques enlaces que prometen premios, dinero fácil, o cosas gratis sospechosas."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Si dudas de un enlace, es mejor no tocarlo."
+    },
+    {
+      "type": "analogy",
+      "text": "Un enlace desconocido es como un sobre sin remitente que te piden abrir a ciegas: mejor no abrirlo si no sabes de dónde viene."
+    },
+    {
+      "type": "tip",
+      "text": "Preguntar antes de tocar nunca está de más. Es mejor perder unos segundos preguntando que arriesgarte a un problema."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué hacemos con un enlace de un número desconocido?",
+      "options": [
+        "No lo tocamos",
+        "Lo tocamos de inmediato",
+        "Lo reenviamos a todos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué es un enlace o link?",
+      "options": [
+        "Una dirección en la que se puede tocar para abrir una página",
+        "Un tipo de foto",
+        "Un número de teléfono"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer con un enlace de un número desconocido?",
+      "options": [
+        "No tocarlo",
+        "Tocarlo de inmediato",
+        "Reenviarlo a todos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿De qué tipo de enlaces debemos desconfiar más?",
+      "options": [
+        "Los que prometen premios o dinero fácil",
+        "Los que envía tu familia",
+        "Ninguno, todos son seguros"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer si dudamos de un enlace?",
+      "options": [
+        "No tocarlo",
+        "Tocarlo para ver qué es",
+        "Reenviarlo a un familiar primero"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

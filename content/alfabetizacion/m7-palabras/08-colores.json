@@ -1,0 +1,105 @@
+{
+  "id": "colores",
+  "moduleId": "m7-palabras",
+  "title": "Colores",
+  "order": 8,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Los colores son palabras que usamos constantemente para describir el mundo que nos rodea."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "ROJO, AZUL y AMARILLO son colores muy comunes."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "VERDE es el color de las plantas."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "BLANCO y NEGRO son opuestos entre sí."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Busca a tu alrededor un objeto de cada color mientras practicas la palabra."
+    },
+    {
+      "type": "analogy",
+      "text": "Los colores son como las etiquetas de las cosas que ya conoces: el cielo ya es azul en tu mente, solo falta aprender a leer y escribir esa palabra."
+    },
+    {
+      "type": "image",
+      "src": "🎨",
+      "alt": "Paleta de colores"
+    },
+    {
+      "type": "tip",
+      "text": "Aprender los colores es más fácil si los relacionas con cosas reales que ya conoces, como el cielo azul o el sol amarillo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada color con un objeto de ese color",
+      "pairs": [
+        {
+          "left": "ROJO",
+          "right": "🍅"
+        },
+        {
+          "left": "AZUL",
+          "right": "🔵"
+        },
+        {
+          "left": "AMARILLO",
+          "right": "🍋"
+        },
+        {
+          "left": "VERDE",
+          "right": "🌿"
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿De qué color es el cielo en un día despejado?",
+      "options": [
+        "AZUL",
+        "ROJO",
+        "NEGRO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿De qué color es el sol normalmente dibujado?",
+      "options": [
+        "AMARILLO",
+        "VERDE",
+        "NEGRO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe el color de las plantas",
+      "answer": "VERDE"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuáles son dos colores opuestos entre sí?",
+      "options": [
+        "BLANCO y NEGRO",
+        "ROJO y AZUL",
+        "VERDE y AMARILLO"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "etiqueta-medicina",
+  "moduleId": "m8-lectura",
+  "title": "Leer una etiqueta de medicina",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Leer bien una etiqueta de medicina es una de las lecciones más importantes para tu salud y seguridad."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Busca primero el NOMBRE del medicamento, generalmente escrito grande."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca la DOSIS: cuánto debes tomar cada vez."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Busca cada cuánto tiempo se debe tomar, por ejemplo 'cada 8 horas'."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Si algo no está claro, no adivines."
+    },
+    {
+      "type": "analogy",
+      "text": "Leer una etiqueta de medicina es como leer la receta de una comida: si te saltas un paso o una cantidad, el resultado puede salir mal."
+    },
+    {
+      "type": "tip",
+      "text": "Si tienes cualquier duda sobre una medicina, siempre es mejor preguntar en la farmacia o a tu doctor, antes que arriesgarte."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos revisar antes de tomar una medicina?",
+      "options": [
+        "El nombre y la dosis",
+        "Solo el color de la caja",
+        "Nada, se toma directo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer si tenemos dudas sobre una medicina?",
+      "options": [
+        "Preguntar en la farmacia",
+        "Adivinar la dosis",
+        "No tomarla nunca más"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué información nos dice cada cuánto tomar la medicina?",
+      "options": [
+        "La frecuencia (por ejemplo, cada 8 horas)",
+        "El color de la caja",
+        "El precio"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué debemos revisar además del nombre del medicamento? (una palabra)",
+      "answer": "DOSIS"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Por qué es importante leer bien una etiqueta de medicina?",
+      "options": [
+        "Por nuestra salud y seguridad",
+        "No es importante",
+        "Solo por curiosidad"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

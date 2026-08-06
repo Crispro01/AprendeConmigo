@@ -1,0 +1,88 @@
+{
+  "id": "hacer-llamada",
+  "moduleId": "m2-llamadas",
+  "title": "Hacer una llamada",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Hacer una llamada es una de las funciones más importantes del celular, y también una de las más simples una vez que la practicas."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación de Teléfono, identificada con el ícono de un auricular 📞."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca a la persona en tus contactos, o marca el número directamente con el teclado numérico."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Toca el botón verde, generalmente redondo, para iniciar la llamada."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Espera a que la otra persona conteste; vas a ver en pantalla que dice 'Llamando' o similar."
+    },
+    {
+      "type": "analogy",
+      "text": "Hacer una llamada por celular es como tocar la puerta de la casa de alguien: esperas a que te abran (contesten) para poder hablar."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m2-llamadas/01-hacer-llamada.png",
+      "alt": "Pantalla con teclado numérico para hacer llamadas"
+    },
+    {
+      "type": "tip",
+      "text": "Si te equivocas de número, no pasa nada: simplemente cuelga tocando el botón rojo y vuelve a intentarlo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿De qué color es el botón para hacer una llamada?",
+      "answer": "verde"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer antes de llamar a alguien?",
+      "options": [
+        "Buscar el contacto o marcar el número",
+        "Apagar el celular",
+        "Nada, se hace solo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué aplicación usamos para hacer llamadas normales?",
+      "options": [
+        "Teléfono",
+        "Cámara",
+        "Configuración"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué vemos en pantalla mientras esperamos que contesten?",
+      "options": [
+        "'Llamando' o similar",
+        "Una foto",
+        "Nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué botón tocamos para iniciar la llamada? (color)",
+      "answer": "VERDE"
+    }
+  ]
+}

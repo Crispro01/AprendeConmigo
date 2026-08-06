@@ -1,0 +1,128 @@
+{
+  "id": "vocal-i",
+  "moduleId": "m2-vocales",
+  "title": "La I",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La tercera vocal es la I. Suena en palabras como ISLA o SILLA, y es una de las más fáciles de reconocer por su sonido agudo."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Estira los labios como en una sonrisa pequeña y di: 'I'."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Es un sonido corto y agudo, distinto a la A y a la E."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Busca la I en la palabra SILLA: S-I-L-L-A."
+    },
+    {
+      "type": "analogy",
+      "text": "La I es como un lápiz parado: delgadita y derecha, fácil de reconocer entre las demás letras."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m2-vocales/03-vocal-i.png",
+      "alt": "Letra I mayúscula e i minúscula con un imán"
+    },
+    {
+      "type": "tip",
+      "text": "Si tienes dudas entre la E y la I, repite las dos despacio: E - I. Vas a sentir que los labios se estiran un poco más para la I."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la I?",
+      "options": [
+        "I",
+        "E",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra ISLA?",
+      "answer": "I"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_SLA",
+      "options": [
+        "A",
+        "I",
+        "E"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la I?",
+      "options": [
+        "I",
+        "A",
+        "E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra SILLA?",
+      "answer": "I"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "S_LLA",
+      "options": [
+        "U",
+        "I",
+        "A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la I?",
+      "options": [
+        "I",
+        "U",
+        "A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra LIBRO?",
+      "answer": "I"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "L_BRO",
+      "options": [
+        "O",
+        "I",
+        "U"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la I?",
+      "options": [
+        "I",
+        "O",
+        "U"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

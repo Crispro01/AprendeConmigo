@@ -1,0 +1,128 @@
+{
+  "id": "letra-m",
+  "moduleId": "m3-consonantes-1",
+  "title": "La M",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Después de las vocales, empezamos con las consonantes: letras que casi siempre se combinan con una vocal para sonar. La primera es la M, una de las más fáciles porque se siente al tacto."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Junta los labios, sin apretar, y deja salir un sonido continuo: mmm."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Ahora abre la boca justo después del sonido mmm y di: MA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Combina la M con las otras vocales: MA - ME - MI - MO - MU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Busca la M en una palabra que ya conoces bien: MAMÁ."
+    },
+    {
+      "type": "analogy",
+      "text": "La M suena como el ronroneo de un gato o el 'mmm' que hacemos cuando algo nos gusta: un sonido que sale con la boca cerrada."
+    },
+    {
+      "type": "image",
+      "src": "M m",
+      "alt": "La letra M mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "La M es una de las primeras letras que casi todos aprenden a reconocer, porque se nota mucho en los labios. Tómalo con calma."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MESA?",
+      "answer": "M"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_ESA",
+      "options": [
+        "S",
+        "M",
+        "L"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la M?",
+      "options": [
+        "M",
+        "S",
+        "L"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MAMÁ?",
+      "answer": "M"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_AMÁ",
+      "options": [
+        "P",
+        "M",
+        "S"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la M?",
+      "options": [
+        "M",
+        "P",
+        "S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CAMA?",
+      "answer": "M"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "CA_A",
+      "options": [
+        "T",
+        "M",
+        "P"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la M?",
+      "options": [
+        "M",
+        "T",
+        "P"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MANO?",
+      "answer": "M"
+    }
+  ]
+}

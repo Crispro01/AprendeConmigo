@@ -1,0 +1,88 @@
+{
+  "id": "preguntas-texto",
+  "moduleId": "m8-lectura",
+  "title": "Preguntas sobre un texto",
+  "order": 8,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora vamos a leer un texto un poco más largo y responder preguntas sobre él, tal como harías al leer una carta o un mensaje importante."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Lee con calma: 'Ana tiene un perro. El perro se llama Toby y es de color café.'"
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Piensa: ¿de quién es el perro?"
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Piensa: ¿cómo se llama el perro?"
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Piensa: ¿de qué color es?"
+    },
+    {
+      "type": "analogy",
+      "text": "Responder preguntas sobre un texto es como recordar los detalles de una visita: quién estuvo, qué pasó, cómo era todo."
+    },
+    {
+      "type": "tip",
+      "text": "Si no recuerdas una respuesta, no pasa nada: vuelve a leer el texto las veces que necesites. Leer varias veces no es hacer trampa, es una buena estrategia."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo se llama el perro de Ana?",
+      "options": [
+        "Toby",
+        "Ana",
+        "Café"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "En el texto, ¿qué animal tiene Ana?",
+      "options": [
+        "Un perro",
+        "Un gato",
+        "Un pájaro"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿De qué color es el perro de Ana?",
+      "options": [
+        "Café",
+        "Negro",
+        "Blanco"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe el nombre del perro de Ana",
+      "answer": "TOBY"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debes hacer si no recuerdas una respuesta?",
+      "options": [
+        "Volver a leer el texto",
+        "Inventar la respuesta",
+        "Dejarlo en blanco siempre"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

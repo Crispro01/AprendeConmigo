@@ -1,0 +1,68 @@
+{
+  "id": "vuelto",
+  "moduleId": "m10-numeros",
+  "title": "Calcular el vuelto",
+  "order": 8,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Cuando pagamos con más dinero del que cuesta algo, nos deben devolver la diferencia: eso se llama vuelto o cambio."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Ejemplo: un pan cuesta 1 dólar, y tú pagas con un billete de 5 dólares."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Para saber el vuelto, restamos: 5 - 1 = 4."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Te deben devolver 4 dólares."
+    },
+    {
+      "type": "analogy",
+      "text": "El vuelto es como cuando prestas más de lo que alguien necesita y te devuelven lo que sobró: la diferencia entre lo que diste y lo que costaba."
+    },
+    {
+      "type": "tip",
+      "text": "Siempre cuenta tu vuelto antes de guardarlo. Nadie debería sentirse mal por revisar su propio dinero con calma."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "Si algo cuesta 3 dólares y pagas con 5, ¿cuánto te dan de vuelto?",
+      "answer": "2"
+    },
+    {
+      "type": "type-word",
+      "question": "Si algo cuesta 2 dólares y pagas con 5, ¿cuánto te dan de vuelto?",
+      "answer": "3"
+    },
+    {
+      "type": "type-word",
+      "question": "Si algo cuesta 4 dólares y pagas con 10, ¿cuánto te dan de vuelto?",
+      "answer": "6"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué es el vuelto?",
+      "options": [
+        "La diferencia entre lo que pagaste y lo que costaba",
+        "El precio total",
+        "El impuesto"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Si algo cuesta 1 dólar y pagas con 5, ¿cuánto te dan de vuelto?",
+      "answer": "4"
+    }
+  ]
+}

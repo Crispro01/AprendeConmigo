@@ -1,0 +1,92 @@
+{
+  "id": "contestar-llamada",
+  "moduleId": "m2-llamadas",
+  "title": "Contestar una llamada",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Cuando alguien te llama, el celular suena y vibra para avisarte. Vamos a aprender a contestar con confianza."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Vas a ver en la pantalla el nombre (si está guardado) o el número de quien te llama."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Para contestar, desliza el dedo sobre el botón verde, o simplemente tócalo, según tu celular."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Para rechazar la llamada, toca el botón rojo."
+    },
+    {
+      "type": "analogy",
+      "text": "Contestar una llamada es como abrir la puerta cuando alguien toca: puedes abrir (contestar) o no abrir (dejarlo sonar)."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m2-llamadas/02-contestar-llamada.png",
+      "alt": "Pantalla de llamada entrante con botón verde"
+    },
+    {
+      "type": "tip",
+      "text": "Si no reconoces el número y no esperabas una llamada, está bien no contestar. Puedes revisar después quién llamó."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada botón con lo que hace",
+      "pairs": [
+        {
+          "left": "Botón verde",
+          "right": "Contestar la llamada"
+        },
+        {
+          "left": "Botón rojo",
+          "right": "Rechazar o colgar la llamada"
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué vemos en pantalla cuando alguien nos llama?",
+      "options": [
+        "El nombre o número de quien llama",
+        "Solo un sonido",
+        "Nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué botón tocamos para contestar?",
+      "options": [
+        "El verde",
+        "El rojo",
+        "Ninguno"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Está bien no contestar un número desconocido?",
+      "options": [
+        "Sí, está bien",
+        "No, hay que contestar siempre",
+        "Es obligatorio contestar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué botón tocamos para rechazar una llamada? (color)",
+      "answer": "ROJO"
+    }
+  ]
+}

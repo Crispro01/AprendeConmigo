@@ -1,0 +1,88 @@
+{
+  "id": "grabar-video",
+  "moduleId": "m3-camara",
+  "title": "Grabar un video corto",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Además de fotos, la cámara del celular también puede grabar videos cortos, útiles para guardar momentos con sonido y movimiento."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la Cámara y busca una opción que diga 'Video', generalmente deslizando o tocando en la parte de abajo de la pantalla."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Toca el botón rojo, redondo, para empezar a grabar."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Vas a ver un contador de tiempo mientras grabas."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Toca el mismo botón otra vez para detener la grabación."
+    },
+    {
+      "type": "analogy",
+      "text": "Grabar un video es como tomar muchas fotos seguidas, una tras otra, con sonido incluido."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m3-camara/04-grabar-video.png",
+      "alt": "Cámara en modo video con botón rojo de grabación"
+    },
+    {
+      "type": "tip",
+      "text": "Los videos ocupan más espacio en el celular que las fotos, así que revisa de vez en cuando cuáles puedes borrar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿De qué color suele ser el botón para grabar un video?",
+      "answer": "rojo"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué opción buscamos en la Cámara para grabar video?",
+      "options": [
+        "'Video'",
+        "'Foto'",
+        "'Configuración'"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para detener la grabación?",
+      "options": [
+        "El mismo botón rojo",
+        "El botón de apagar",
+        "No se puede detener"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué vemos en pantalla mientras grabamos?",
+      "options": [
+        "Un contador de tiempo",
+        "Nada",
+        "Solo un color negro"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿De qué color es el botón para grabar video?",
+      "answer": "ROJO"
+    }
+  ]
+}

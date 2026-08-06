@@ -1,0 +1,88 @@
+{
+  "id": "meses-anio",
+  "moduleId": "m7-palabras",
+  "title": "Los meses del año",
+  "order": 7,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Los meses del año son útiles para recordar fechas importantes, como cumpleaños o citas médicas."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "ENERO, FEBRERO y MARZO son los primeros tres meses."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "ABRIL, MAYO y JUNIO forman el segundo grupo."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "JULIO, AGOSTO y SEPTIEMBRE siguen después."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "OCTUBRE, NOVIEMBRE y DICIEMBRE cierran el año."
+    },
+    {
+      "type": "analogy",
+      "text": "Los meses del año son como las páginas de un calendario en la pared: doce hojas que se van pasando, una por una, durante todo el año."
+    },
+    {
+      "type": "tip",
+      "text": "Intenta decir en qué mes estamos ahora y en qué mes naciste. Son dos formas simples de practicar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál mes es el primero del año?",
+      "options": [
+        "ENERO",
+        "DICIEMBRE",
+        "MARZO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál es el último mes del año?",
+      "options": [
+        "DICIEMBRE",
+        "ENERO",
+        "JUNIO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántos meses tiene el año?",
+      "options": [
+        "12",
+        "10",
+        "24"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe el mes que viene después de enero",
+      "answer": "FEBRERO"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿En qué mes se celebra la navidad?",
+      "options": [
+        "DICIEMBRE",
+        "JULIO",
+        "MARZO"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

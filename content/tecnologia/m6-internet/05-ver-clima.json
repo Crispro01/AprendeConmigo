@@ -1,0 +1,88 @@
+{
+  "id": "ver-clima",
+  "moduleId": "m6-internet",
+  "title": "Ver el clima",
+  "order": 5,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Consultar el clima antes de salir de casa puede ayudarte a planear mejor tu día, por ejemplo si necesitas llevar paraguas."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m6-internet/05-ver-clima.png",
+      "alt": "Aplicación del clima mostrando sol, nube y temperatura"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre Google o el navegador."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Escribe 'clima' seguido del nombre de tu ciudad, por ejemplo 'clima Quito'."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Vas a ver la temperatura actual y si se espera lluvia o sol."
+    },
+    {
+      "type": "analogy",
+      "text": "Consultar el clima en el celular es como asomarte por la ventana antes de salir, pero viendo el clima de todo el día de una sola vez."
+    },
+    {
+      "type": "tip",
+      "text": "Revisar el clima por la mañana puede ser un buen hábito diario para organizarte mejor."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué información nos da el clima?",
+      "options": [
+        "Si hace sol, frío o lluvia",
+        "El precio del pan",
+        "El número de un contacto"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué escribimos en el buscador para ver el clima?",
+      "options": [
+        "'Clima' y el nombre de tu ciudad",
+        "Solo tu nombre",
+        "Nada, se ve solo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué información nos da el clima?",
+      "options": [
+        "Si hace sol, frío o lluvia",
+        "El precio del pan",
+        "Un número de teléfono"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve revisar el clima antes de salir?",
+      "options": [
+        "Para saber cómo vestirte o si llevar paraguas",
+        "No sirve de nada",
+        "Solo por curiosidad"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué debemos escribir junto con la palabra 'clima' para buscar el de hoy? (una palabra)",
+      "answer": "CIUDAD"
+    }
+  ]
+}

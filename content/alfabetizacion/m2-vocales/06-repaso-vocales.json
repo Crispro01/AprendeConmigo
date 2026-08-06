@@ -1,0 +1,144 @@
+{
+  "id": "repaso-vocales",
+  "moduleId": "m2-vocales",
+  "title": "Repaso: las 5 vocales juntas",
+  "order": 6,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ya conoces las 5 vocales: A, E, I, O, U. Este repaso te va a ayudar a fijarlas bien en la memoria antes de seguir avanzando."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m2-vocales/06-repaso-vocales.png",
+      "alt": "Las cinco vocales A E I O U juntas"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Di en voz alta, despacio y clara, cada vocal: A - E - I - O - U."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Para cada vocal, piensa en una palabra que la tenga al principio: A de AGUA, E de ESCUELA, I de ISLA, O de OJO, U de UVA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Escribe (o dibuja, si aún no escribes con soltura) las 5 vocales en una hoja, una por una, tomándote tu tiempo."
+    },
+    {
+      "type": "analogy",
+      "text": "Las 5 vocales son como los 5 dedos de tu mano: las usas todo el tiempo, sin ellas es difícil agarrar (leer) cualquier palabra."
+    },
+    {
+      "type": "tip",
+      "text": "Repetir varias veces en distintos momentos del día ayuda más que repetir muchas veces seguidas. No hay apuro."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra AGUA?",
+      "answer": "A"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "L_CHE",
+      "options": [
+        "I",
+        "E",
+        "O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la I?",
+      "options": [
+        "I",
+        "E",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra SOL?",
+      "answer": "O"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "L_NA",
+      "options": [
+        "A",
+        "U",
+        "E"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la A?",
+      "options": [
+        "A",
+        "E",
+        "I"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra LECHE?",
+      "answer": "E"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_SLA",
+      "options": [
+        "U",
+        "I",
+        "A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la O?",
+      "options": [
+        "O",
+        "U",
+        "A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada vocal con una palabra que empieza con ella",
+      "pairs": [
+        {
+          "left": "A",
+          "right": "AGUA"
+        },
+        {
+          "left": "E",
+          "right": "ESCUELA"
+        },
+        {
+          "left": "I",
+          "right": "ISLA"
+        },
+        {
+          "left": "O",
+          "right": "OJO"
+        },
+        {
+          "left": "U",
+          "right": "UVA"
+        }
+      ]
+    }
+  ]
+}

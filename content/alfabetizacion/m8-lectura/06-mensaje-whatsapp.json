@@ -1,0 +1,83 @@
+{
+  "id": "mensaje-whatsapp",
+  "moduleId": "m8-lectura",
+  "title": "Leer un mensaje de WhatsApp",
+  "order": 6,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Hoy en día, muchos mensajes que recibimos de la familia llegan por WhatsApp. Aprender a leerlos te ayuda a mantenerte en contacto sin depender de otra persona."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Lee este ejemplo despacio: 'Hola mamá, ¿cómo estás?'"
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Ahora lee: 'Te veo mañana a las 3.'"
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Fíjate que estos mensajes son frases cortas, parecidas a las que ya practicaste."
+    },
+    {
+      "type": "analogy",
+      "text": "Leer un mensaje de WhatsApp es como recibir una cartita corta: alguien pensó en ti y te escribió unas palabras."
+    },
+    {
+      "type": "tip",
+      "text": "No te preocupes si al principio necesitas leer un mensaje varias veces para entenderlo completo. Es totalmente normal."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "En el mensaje 'Te veo mañana a las 3', ¿a qué hora es la cita?",
+      "options": [
+        "A las 3",
+        "A las 5",
+        "Mañana en la mañana"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "En el mensaje 'Hola mamá, ¿cómo estás?', ¿a quién se dirige?",
+      "options": [
+        "A mamá",
+        "A un amigo",
+        "A un doctor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Los mensajes de WhatsApp suelen ser frases largas o cortas?",
+      "options": [
+        "Cortas",
+        "Muy largas",
+        "Nunca tienen palabras"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Completa: 'Te veo mañana a las ___' (un número)",
+      "answer": "3"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Por qué es útil leer bien los mensajes de WhatsApp?",
+      "options": [
+        "Para mantenerte en contacto con tu familia",
+        "No es útil",
+        "Solo sirve para jugar"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

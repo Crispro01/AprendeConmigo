@@ -1,0 +1,88 @@
+{
+  "id": "proteger-datos",
+  "moduleId": "m7-seguridad",
+  "title": "Proteger mis datos personales",
+  "order": 6,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Tus datos personales, como tu nombre completo, dirección, número de cédula o información bancaria, son muy valiosos y deben protegerse."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m7-seguridad/06-proteger-datos.png",
+      "alt": "Celular protegido con escudo verde y marca de verificación"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Compártelos solo con personas o instituciones en las que confías realmente."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Evita publicarlos en redes sociales o en grupos de WhatsApp abiertos a muchas personas."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Cuando tengas dudas sobre si compartir algo o no, es mejor preguntar primero a un familiar de confianza."
+    },
+    {
+      "type": "analogy",
+      "text": "Tus datos personales son como las joyas de la familia: no se los muestras ni se los das a cualquiera que los pida."
+    },
+    {
+      "type": "tip",
+      "text": "Cuidar tus datos personales es una forma de cuidarte a ti mismo. Nunca está de más ser precavido."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde es más seguro compartir nuestros datos personales?",
+      "options": [
+        "Solo con personas o instituciones de confianza",
+        "En cualquier grupo de WhatsApp",
+        "Con cualquier desconocido que llame"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuáles son ejemplos de datos personales?",
+      "options": [
+        "Nombre completo y número de cédula",
+        "El clima de hoy",
+        "El color favorito de un desconocido"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde es mejor evitar publicar tus datos?",
+      "options": [
+        "En redes sociales o grupos abiertos",
+        "En documentos oficiales",
+        "En tu casa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Con quién debemos compartir datos importantes?",
+      "options": [
+        "Solo con personas o instituciones de confianza",
+        "Con cualquiera que los pida",
+        "Con toda la ciudad"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué debemos hacer antes de compartir datos importantes si tenemos dudas? (una palabra)",
+      "answer": "PREGUNTAR"
+    }
+  ]
+}

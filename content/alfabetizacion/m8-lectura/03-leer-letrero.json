@@ -1,0 +1,88 @@
+{
+  "id": "leer-letrero",
+  "moduleId": "m8-lectura",
+  "title": "Leer un letrero",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "En la calle y en los edificios vemos letreros todo el tiempo. Aprender a leerlos rápido puede ayudarte en situaciones importantes, incluso de emergencia."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "SALIDA: indica por dónde se sale de un lugar."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "FARMACIA: es donde venden medicinas."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "HOSPITAL: es donde atienden emergencias médicas."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "ENTRADA: indica por dónde se entra a un lugar."
+    },
+    {
+      "type": "analogy",
+      "text": "Los letreros son como señales de tránsito para las personas: te avisan qué hacer o adónde ir, sin necesidad de preguntarle a nadie."
+    },
+    {
+      "type": "tip",
+      "text": "Practica leyendo letreros reales cuando salgas a la calle. Es una de las formas más útiles de aplicar lo que aprendes."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué letrero buscarías si necesitas medicina?",
+      "options": [
+        "FARMACIA",
+        "SALIDA",
+        "ENTRADA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué letrero indica por dónde salir de un lugar?",
+      "options": [
+        "SALIDA",
+        "ENTRADA",
+        "FARMACIA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde atienden emergencias médicas?",
+      "options": [
+        "HOSPITAL",
+        "FARMACIA",
+        "SALIDA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la palabra del letrero que indica 'por aquí se entra'",
+      "answer": "ENTRADA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Por qué es importante saber leer letreros?",
+      "options": [
+        "Nos ayuda a estar seguros",
+        "No sirve de nada",
+        "Solo es decorativo"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

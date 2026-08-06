@@ -1,0 +1,88 @@
+{
+  "id": "buscar-google",
+  "moduleId": "m6-internet",
+  "title": "Buscar en Google",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Google es una herramienta que nos ayuda a encontrar información sobre casi cualquier tema, con solo escribir una pregunta o unas palabras."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m6-internet/03-buscar-google.png",
+      "alt": "Página de buscador con barra de búsqueda"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre Google o el navegador."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Toca la barra de búsqueda y escribe tu pregunta, por ejemplo: 'clima en Quito hoy'."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Toca la lupa 🔍 o el botón de buscar en el teclado."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Vas a ver una lista de resultados; toca el primero para ver más información."
+    },
+    {
+      "type": "analogy",
+      "text": "Buscar en Google es como preguntarle a una persona que lo sabe todo: le haces una pregunta, y te da respuestas al instante."
+    },
+    {
+      "type": "tip",
+      "text": "Puedes escribir preguntas completas y naturales, como si hablaras con una persona: Google entiende ese tipo de preguntas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Con qué objeto se representa la función de buscar? (una ___)",
+      "answer": "lupa"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué podemos escribir en Google?",
+      "options": [
+        "Preguntas completas",
+        "Solo una palabra exacta",
+        "Nada, hay que saber la dirección exacta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para buscar?",
+      "options": [
+        "La lupa",
+        "La cámara",
+        "El micrófono siempre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué obtenemos después de buscar algo en Google?",
+      "options": [
+        "Una lista de resultados",
+        "Nada",
+        "Solo un número"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué símbolo representa la función de buscar? (una palabra)",
+      "answer": "LUPA"
+    }
+  ]
+}

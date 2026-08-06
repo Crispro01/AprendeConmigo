@@ -1,0 +1,68 @@
+{
+  "id": "escribir-vocales",
+  "moduleId": "m9-escritura",
+  "title": "Escribir las vocales",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora que ya reconoces las vocales al leerlas, vamos a practicar escribirlas con la mano, despacio y sin apuro."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Escribe la A varias veces en una hoja, bien grande al principio."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Practica también la E y la I."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Termina con la O y la U."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Compara tus letras: no tienen que ser perfectas, solo reconocibles."
+    },
+    {
+      "type": "analogy",
+      "text": "Practicar a escribir las vocales es como practicar los primeros trazos al aprender a dibujar: al principio la mano tiembla, después se vuelve firme."
+    },
+    {
+      "type": "tip",
+      "text": "Escribir grande al principio ayuda mucho al control de la mano. Con el tiempo, podrás escribir más pequeño si quieres."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué vocal suena en la palabra AGUA?",
+      "answer": "A"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué vocal escuchas al principio de ESCUELA?",
+      "answer": "E"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué vocal escuchas al principio de ISLA?",
+      "answer": "I"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué vocal escuchas al principio de OJO?",
+      "answer": "O"
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué vocal escuchas al principio de UVA?",
+      "answer": "U"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "mi-nombre",
+  "moduleId": "m1-preparacion",
+  "title": "Reconozco mi nombre completo",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Tu nombre es probablemente la palabra que más vas a necesitar leer y escribir en tu vida diaria: en documentos, en el celular, en el banco, para firmar. Por eso empezamos por algo tuyo."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m1-preparacion/03-mi-nombre.png",
+      "alt": "Mano escribiendo un nombre sobre el renglón de un cuaderno"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Pide a alguien de confianza que escriba tu nombre completo en una hoja, con letra bien grande y clara."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Mira cada letra despacio, una por una, de izquierda a derecha."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Trata de repetir el sonido de cada letra en voz alta, aunque no sepas todavía cómo se llama cada una."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Practica reconociendo tu nombre escrito entre otras palabras: pide que lo mezclen con otras y trata de encontrarlo."
+    },
+    {
+      "type": "analogy",
+      "text": "Tu nombre escrito es como tu cara: siempre es el mismo, y mientras más lo ves, más fácil lo reconoces sin pensarlo."
+    },
+    {
+      "type": "tip",
+      "text": "Vas a usar tu nombre muchísimas veces a partir de ahora. No hace falta que te lo aprendas todo en un día: cada vez que lo practiques, te costará un poco menos."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "Practica: escribe la palabra MAMÁ",
+      "answer": "MAMA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Por qué es importante reconocer tu nombre escrito?",
+      "options": [
+        "Lo vas a usar en documentos y trámites",
+        "No sirve para nada",
+        "Solo para la escuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debes hacer primero para practicar tu nombre?",
+      "options": [
+        "Pedir que te lo escriban grande",
+        "Adivinarlo",
+        "Copiarlo de otra persona"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Practica escribir la palabra PAPÁ",
+      "answer": "PAPA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué es más fácil de reconocer con la práctica?",
+      "options": [
+        "Tu propio nombre",
+        "El nombre de un desconocido",
+        "Un número al azar"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

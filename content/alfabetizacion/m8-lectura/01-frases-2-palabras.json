@@ -1,0 +1,83 @@
+{
+  "id": "frases-2-palabras",
+  "moduleId": "m8-lectura",
+  "title": "Frases de 2 palabras",
+  "order": 1,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ya sabes leer palabras sueltas. El siguiente paso es juntar dos palabras para formar una frase muy simple, que ya tiene sentido completo."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Lee despacio: MAMÁ COME."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Fíjate que la primera palabra dice quién hace la acción, y la segunda dice qué hace."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Ahora lee: PAPÁ DUERME."
+    },
+    {
+      "type": "analogy",
+      "text": "Una frase corta es como una llamada rápida: pocas palabras, pero el mensaje ya se entiende completo."
+    },
+    {
+      "type": "tip",
+      "text": "No te preocupes si al principio tienes que leer letra por letra. Con el tiempo vas a empezar a reconocer palabras completas de un solo vistazo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Quién come en la frase MAMÁ COME?",
+      "options": [
+        "MAMÁ",
+        "PAPÁ",
+        "El niño"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "En la frase 'PAPÁ DUERME', ¿qué está haciendo papá?",
+      "options": [
+        "Duerme",
+        "Come",
+        "Camina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuántas palabras tiene la frase 'MAMÁ COME'?",
+      "options": [
+        "2",
+        "3",
+        "1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Completa: MAMÁ ___ (ella come)",
+      "answer": "COME"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas es una frase de 2 palabras?",
+      "options": [
+        "PAPÁ DUERME",
+        "EL SOL ESTÁ CALIENTE",
+        "MI MAMÁ COCINA ARROZ"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

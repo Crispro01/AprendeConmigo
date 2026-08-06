@@ -1,0 +1,93 @@
+{
+  "id": "guardar-contacto",
+  "moduleId": "m2-llamadas",
+  "title": "Guardar un contacto nuevo",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Guardar los números de las personas importantes en tu vida te ahorra tener que recordarlos o buscarlos cada vez."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación de Contactos o Teléfono."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca un botón con el signo + o que diga 'Agregar contacto', generalmente fácil de ver."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Escribe el nombre completo de la persona, de forma que la reconozcas fácilmente después."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Escribe su número de celular con cuidado, verificando cada dígito, y guarda."
+    },
+    {
+      "type": "analogy",
+      "text": "Guardar un contacto es como anotar un número de teléfono en una libreta de direcciones: una vez guardado, no tienes que memorizarlo."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m2-llamadas/03-guardar-contacto.png",
+      "alt": "Ícono para agregar un nuevo contacto"
+    },
+    {
+      "type": "tip",
+      "text": "Guarda primero a las personas más importantes: familiares cercanos, tu doctor, y algún vecino de confianza."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué información necesitamos para guardar un contacto?",
+      "options": [
+        "Nombre y número",
+        "Solo el número",
+        "Solo la foto"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué símbolo buscamos para agregar un contacto nuevo?",
+      "options": [
+        "El signo +",
+        "El signo -",
+        "Una X"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos escribir primero al guardar un contacto?",
+      "options": [
+        "El nombre de la persona",
+        "Su dirección",
+        "Su cédula"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Por qué es útil guardar contactos?",
+      "options": [
+        "Para no tener que memorizar los números",
+        "No es útil",
+        "Solo para adorno"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué aplicación usamos para guardar contactos? (una palabra)",
+      "answer": "CONTACTOS"
+    }
+  ]
+}

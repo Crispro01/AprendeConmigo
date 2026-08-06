@@ -1,0 +1,105 @@
+{
+  "id": "cuerpo",
+  "moduleId": "m7-palabras",
+  "title": "Palabras del cuerpo",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Vamos a aprender palabras de las partes de nuestro cuerpo, algo que usamos para explicar cómo nos sentimos o qué nos duele."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "OJO nos sirve para ver."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "MANO nos sirve para tocar y agarrar cosas."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "PIE nos sirve para caminar."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "BOCA nos sirve para hablar y comer, y OREJA para oír."
+    },
+    {
+      "type": "analogy",
+      "text": "Las palabras del cuerpo son como una lista de tus propias herramientas: cada parte tiene su función, igual que cada palabra tiene su significado."
+    },
+    {
+      "type": "image",
+      "src": "🤚",
+      "alt": "Una mano"
+    },
+    {
+      "type": "tip",
+      "text": "Estas palabras son muy útiles si alguna vez necesitas explicarle a un doctor qué te duele."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada parte del cuerpo con su función",
+      "pairs": [
+        {
+          "left": "OJO",
+          "right": "Sirve para ver"
+        },
+        {
+          "left": "OREJA",
+          "right": "Sirve para oír"
+        },
+        {
+          "left": "BOCA",
+          "right": "Sirve para hablar y comer"
+        },
+        {
+          "left": "PIE",
+          "right": "Sirve para caminar"
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra nombra la parte del cuerpo con la que vemos?",
+      "options": [
+        "OJO",
+        "PIE",
+        "BOCA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra nombra la parte con la que caminamos?",
+      "options": [
+        "PIE",
+        "MANO",
+        "OREJA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la palabra que nombra con qué oímos",
+      "answer": "OREJA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas palabras nombra una parte del cuerpo?",
+      "options": [
+        "MANO",
+        "MESA",
+        "SOL"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

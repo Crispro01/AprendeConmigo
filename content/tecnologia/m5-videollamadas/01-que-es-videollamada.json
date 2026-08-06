@@ -1,0 +1,83 @@
+{
+  "id": "que-es-videollamada",
+  "moduleId": "m5-videollamadas",
+  "title": "Qué es una videollamada",
+  "order": 1,
+  "estimatedMinutes": 5,
+  "content": [
+    {
+      "type": "text",
+      "text": "Una videollamada es como una llamada normal, pero además de escuchar a la otra persona, también la puedes ver en tiempo real, sin importar la distancia."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m5-videollamadas/01-que-es-videollamada.png",
+      "alt": "Videollamada en celular entre dos personas"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Es especialmente valiosa para ver a familiares que viven lejos, en otra ciudad o incluso otro país."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Para hacer una videollamada necesitas conexión a internet, igual que con los mensajes."
+    },
+    {
+      "type": "analogy",
+      "text": "Una videollamada es como una visita a la casa de alguien, pero a través de la pantalla: te ven, te escuchan, aunque estén lejos."
+    },
+    {
+      "type": "tip",
+      "text": "Muchas personas dicen que las videollamadas se sienten casi como estar en el mismo lugar que la otra persona. Vale la pena aprender a usarlas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué podemos hacer en una videollamada que no podemos en una llamada normal?",
+      "options": [
+        "Ver a la otra persona",
+        "Escuchar su voz",
+        "Enviar un mensaje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué necesitamos para hacer una videollamada?",
+      "options": [
+        "Conexión a internet",
+        "Solo batería cargada",
+        "Nada especial"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué es especialmente útil una videollamada?",
+      "options": [
+        "Para ver a familiares que viven lejos",
+        "Solo para negocios",
+        "No sirve de mucho"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué diferencia a una videollamada de una llamada normal?",
+      "options": [
+        "Que además de oír, te ven",
+        "Que es más barata",
+        "No hay diferencia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué necesitamos, además de internet, para hacer una videollamada? (una palabra)",
+      "answer": "CAMARA"
+    }
+  ]
+}

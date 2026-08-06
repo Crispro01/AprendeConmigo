@@ -1,0 +1,93 @@
+{
+  "id": "tomar-foto",
+  "moduleId": "m3-camara",
+  "title": "Tomar una foto",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Tomar fotos con el celular es una forma sencilla de guardar recuerdos importantes, como reuniones familiares."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación Cámara, identificada con el ícono de una cámara fotográfica 📷."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Apunta el celular hacia lo que quieres fotografiar, sosteniéndolo con las dos manos si te da más seguridad."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Vas a ver en la pantalla lo mismo que va a salir en la foto."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Toca el círculo grande, generalmente abajo en el centro de la pantalla, para tomar la foto."
+    },
+    {
+      "type": "analogy",
+      "text": "Tomar una foto con el celular es como tomar una foto con una cámara de las de antes, pero sin gastar rollo: puedes repetirla las veces que quieras."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m3-camara/01-tomar-foto.png",
+      "alt": "Pantalla de cámara con botón circular para tomar foto"
+    },
+    {
+      "type": "tip",
+      "text": "Si la foto no te queda bien, no hay problema: puedes tomar otra las veces que quieras, sin gastar nada."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué tocamos para tomar la foto?",
+      "options": [
+        "El círculo grande",
+        "La pantalla completa",
+        "El botón de apagar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué aplicación abrimos para tomar fotos?",
+      "options": [
+        "Cámara",
+        "WhatsApp",
+        "Configuración"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo debemos sostener el celular para tomar una foto más firme?",
+      "options": [
+        "Con las dos manos",
+        "Con un dedo",
+        "Tirándolo al aire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué pasa si una foto no queda bien?",
+      "options": [
+        "Podemos tomar otra sin problema",
+        "Se pierde la oportunidad para siempre",
+        "Hay que pagar de nuevo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué parte del celular usamos para tomar fotos? (una palabra)",
+      "answer": "CAMARA"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "vocal-u",
+  "moduleId": "m2-vocales",
+  "title": "La U",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La última vocal es la U. La encontramos en palabras como UVA o LUNA. Con esta, ya conocerás las 5 vocales completas."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Junta un poco más los labios que con la O, como si fueras a dar un beso, y di: 'U'."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca la U en la palabra LUNA: L-U-N-A."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Di las cinco vocales seguidas, despacio: A - E - I - O - U."
+    },
+    {
+      "type": "analogy",
+      "text": "La U es como una taza: abierta arriba, cerrada abajo, lista para 'contener' el sonido."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m2-vocales/05-vocal-u.png",
+      "alt": "Letra U mayúscula y u minúscula con uvas"
+    },
+    {
+      "type": "tip",
+      "text": "¡Felicidades! Con la U ya conoces las 5 vocales. Son la base de todas las palabras que vas a aprender a leer."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "L_NA",
+      "options": [
+        "A",
+        "U",
+        "E"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la U?",
+      "options": [
+        "U",
+        "A",
+        "E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra LUNA?",
+      "answer": "U"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_VA",
+      "options": [
+        "O",
+        "U",
+        "A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la U?",
+      "options": [
+        "U",
+        "O",
+        "A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra UVA?",
+      "answer": "U"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "M_SICA",
+      "options": [
+        "I",
+        "U",
+        "O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la U?",
+      "options": [
+        "U",
+        "I",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MUSICA?",
+      "answer": "U"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "C_NA",
+      "options": [
+        "E",
+        "U",
+        "I"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

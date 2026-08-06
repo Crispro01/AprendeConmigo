@@ -1,0 +1,83 @@
+{
+  "id": "silabas-p",
+  "moduleId": "m6-silabas",
+  "title": "Sílabas con P",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Seguimos combinando la P con las vocales, igual que hicimos con la M."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Di despacio: PA."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Sigue con: PE - PI - PO - PU."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Repite las cinco seguidas: PA - PE - PI - PO - PU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Piensa en una palabra que empiece con PA, como PAN."
+    },
+    {
+      "type": "analogy",
+      "text": "Combinar la P con las vocales es como probar un mismo condimento con distintas comidas: la base es igual, pero el resultado cambia un poco cada vez."
+    },
+    {
+      "type": "tip",
+      "text": "Si una sílaba te cuesta, repítela sola varias veces antes de seguir con las demás."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir PATO? PA + ___",
+      "options": [
+        "TO",
+        "TA",
+        "TE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir SOPA? SO + ___",
+      "options": [
+        "PA",
+        "PO",
+        "PE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la sílaba PE",
+      "answer": "PE"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas es una sílaba con P?",
+      "options": [
+        "PO",
+        "MO",
+        "SO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Di y escribe la sílaba: P + U = ?",
+      "answer": "PU"
+    }
+  ]
+}

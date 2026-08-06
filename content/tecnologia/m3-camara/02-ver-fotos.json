@@ -1,0 +1,88 @@
+{
+  "id": "ver-fotos",
+  "moduleId": "m3-camara",
+  "title": "Ver mis fotos guardadas",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Después de tomar fotos, es importante saber dónde encontrarlas para poder verlas cuando quieras."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación Galería o Fotos, identificada generalmente con íconos de colores."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Vas a ver todas tus fotos organizadas, normalmente las más recientes primero."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Toca cualquier foto para verla más grande, ocupando toda la pantalla."
+    },
+    {
+      "type": "analogy",
+      "text": "La galería de fotos es como un álbum familiar, pero guardado dentro del celular en vez de en papel."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m3-camara/02-ver-fotos.png",
+      "alt": "Galería de fotos con cuadrícula de imágenes"
+    },
+    {
+      "type": "tip",
+      "text": "Puedes deslizar el dedo hacia los lados mientras ves una foto grande, para pasar a la siguiente o a la anterior."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde se guardan las fotos que tomamos?",
+      "options": [
+        "En la Galería o Fotos",
+        "En los Contactos",
+        "En el Calendario"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo se llama la aplicación donde vemos nuestras fotos?",
+      "options": [
+        "Galería o Fotos",
+        "Cámara",
+        "Configuración"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo se ordenan normalmente las fotos en la galería?",
+      "options": [
+        "Las más recientes primero",
+        "Al azar",
+        "Alfabéticamente"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué hacemos para ver una foto más grande?",
+      "options": [
+        "Tocarla",
+        "Borrarla",
+        "Nada, ya se ve grande"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cómo se llama la app donde se guardan las fotos? (una palabra)",
+      "answer": "GALERIA"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "familia",
+  "moduleId": "m7-palabras",
+  "title": "Nombres de mi familia",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Vamos a aprender palabras para nombrar a las personas más cercanas de nuestra vida: la familia."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "MAMÁ y PAPÁ son las palabras más cortas y comunes."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "HIJO e HIJA nombran a los hijos, según sean hombre o mujer."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "ABUELO y ABUELA nombran a los papás de mamá o papá."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Piensa en tu propia familia mientras lees cada palabra: puede ayudarte a recordarlas mejor."
+    },
+    {
+      "type": "analogy",
+      "text": "Las palabras de la familia son como un árbol: cada nombre (mamá, papá, abuela) es una rama distinta, pero todas nacen del mismo tronco."
+    },
+    {
+      "type": "image",
+      "src": "👪",
+      "alt": "Una familia"
+    },
+    {
+      "type": "tip",
+      "text": "Relacionar las palabras nuevas con personas reales de tu vida hace que sea mucho más fácil recordarlas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une cada palabra con su significado",
+      "pairs": [
+        {
+          "left": "MAMÁ",
+          "right": "Madre"
+        },
+        {
+          "left": "PAPÁ",
+          "right": "Padre"
+        },
+        {
+          "left": "HIJO",
+          "right": "Hijo varón"
+        },
+        {
+          "left": "ABUELA",
+          "right": "Madre de mamá o papá"
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra nombra a la madre?",
+      "options": [
+        "MAMÁ",
+        "PAPÁ",
+        "HIJO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál palabra nombra al padre?",
+      "options": [
+        "PAPÁ",
+        "MAMÁ",
+        "ABUELA"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la palabra que nombra a la madre de tu mamá o papá",
+      "answer": "ABUELA"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas palabras nombra a un hijo varón?",
+      "options": [
+        "HIJO",
+        "HIJA",
+        "MAMÁ"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

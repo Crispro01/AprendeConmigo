@@ -1,0 +1,93 @@
+{
+  "id": "pagar-servicio",
+  "moduleId": "m8-tramites",
+  "title": "Pagar un servicio básico en línea",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Muchos servicios básicos, como luz, agua o teléfono, se pueden pagar directamente desde el celular, sin salir de casa."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m8-tramites/03-pagar-servicio.png",
+      "alt": "Pago de servicios públicos en la pantalla del celular"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Entra a la aplicación de tu banco o del servicio que quieres pagar."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca una opción que diga 'Pagar servicios' o algo similar."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Ingresa el número de cuenta o de contrato del servicio, y confirma el monto a pagar."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Guarda o revisa el comprobante de pago que aparece al final."
+    },
+    {
+      "type": "analogy",
+      "text": "Pagar un servicio desde el celular es como pagar en la ventanilla de la empresa, pero sin moverte de tu sillón."
+    },
+    {
+      "type": "tip",
+      "text": "Guardar el comprobante de pago te sirve como prueba, por si alguna vez necesitas reclamar algo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos guardar después de pagar un servicio en línea?",
+      "options": [
+        "El comprobante de pago",
+        "Nada",
+        "La contraseña en un papel público"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué servicios podemos pagar desde el celular?",
+      "options": [
+        "Luz, agua o teléfono",
+        "Solo comida",
+        "Nada, hay que ir en persona"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos ingresar para pagar un servicio?",
+      "options": [
+        "El número de cuenta o contrato",
+        "Solo tu nombre",
+        "Nada más que el monto"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos guardar después de pagar?",
+      "options": [
+        "El comprobante de pago",
+        "Nada",
+        "La contraseña en papel público"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué debemos guardar después de pagar un servicio? (una palabra)",
+      "answer": "COMPROBANTE"
+    }
+  ]
+}

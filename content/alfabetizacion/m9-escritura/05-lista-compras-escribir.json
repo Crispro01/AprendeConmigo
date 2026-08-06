@@ -1,0 +1,68 @@
+{
+  "id": "lista-compras-escribir",
+  "moduleId": "m9-escritura",
+  "title": "Escribir una lista de compras",
+  "order": 5,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora practicamos escribir una lista corta, como la que harías antes de ir al mercado."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Escribe la palabra PAN."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Escribe la palabra LECHE."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Intenta escribir una tercera palabra de comida por tu cuenta."
+    },
+    {
+      "type": "analogy",
+      "text": "Escribir tu propia lista de compras es como escribir una nota para no olvidar algo importante: útil de verdad, no solo un ejercicio."
+    },
+    {
+      "type": "tip",
+      "text": "Puedes usar esta lista de verdad la próxima vez que vayas a comprar. Practicar con algo útil hace que el aprendizaje valga doble."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "Escribe: HUEVOS",
+      "answer": "HUEVOS"
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe: ARROZ",
+      "answer": "ARROZ"
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe: ACEITE",
+      "answer": "ACEITE"
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe: SAL",
+      "answer": "SAL"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Para qué sirve escribir tu propia lista de compras?",
+      "options": [
+        "Para no olvidar qué comprar",
+        "Para nada",
+        "Solo para practicar sin usarla"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "algo-sospechoso",
+  "moduleId": "m7-seguridad",
+  "title": "Qué hacer si algo es sospechoso",
+  "order": 5,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "Si en algún momento recibes un mensaje o llamada que te genera desconfianza, es importante saber qué hacer."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m7-seguridad/05-algo-sospechoso.png",
+      "alt": "Pantalla de celular con triángulo de advertencia"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Lo primero: no respondas ni compartas ninguna información personal."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Pregunta a un familiar de confianza antes de tomar cualquier decisión."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Si el número insiste o te incomoda, puedes bloquearlo desde la aplicación de Teléfono o WhatsApp."
+    },
+    {
+      "type": "analogy",
+      "text": "Sentir desconfianza ante un mensaje raro es como sentir que algo no anda bien en la calle: es una alarma interna que vale la pena escuchar."
+    },
+    {
+      "type": "tip",
+      "text": "Confiar en tu instinto es válido: si algo te da mala espina, casi siempre tienes razón en desconfiar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué es lo primero que debemos hacer ante un mensaje sospechoso?",
+      "options": [
+        "No responder ni compartir información",
+        "Responder con todos nuestros datos",
+        "Reenviarlo a desconocidos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué es lo primero que debemos hacer ante algo sospechoso?",
+      "options": [
+        "No responder ni compartir información",
+        "Responder con todos nuestros datos",
+        "Reenviarlo a todos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿A quién podemos preguntar antes de actuar?",
+      "options": [
+        "A un familiar de confianza",
+        "A un desconocido",
+        "A nadie, hay que decidir solo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué podemos hacer con un número que nos incomoda?",
+      "options": [
+        "Bloquearlo",
+        "Seguir respondiendo siempre",
+        "Nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué sentimos cuando algo no anda bien, y vale la pena escuchar? (una palabra)",
+      "answer": "DESCONFIANZA"
+    }
+  ]
+}

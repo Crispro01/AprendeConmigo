@@ -1,0 +1,83 @@
+{
+  "id": "silabas-s",
+  "moduleId": "m6-silabas",
+  "title": "Sílabas con S",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Ahora le toca a la S. Vas a notar que ya te resulta un poco más fácil que las primeras veces."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Di despacio: SA."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Sigue con: SE - SI - SO - SU."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Repite las cinco seguidas: SA - SE - SI - SO - SU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Piensa en una palabra que tenga SA, como SAPO."
+    },
+    {
+      "type": "analogy",
+      "text": "Practicar sílabas es como aprender a caminar antes de correr: primero un paso, después otro, hasta que armas el recorrido completo."
+    },
+    {
+      "type": "tip",
+      "text": "Cada letra nueva que combinas se vuelve más rápida de reconocer, porque tu cerebro ya reconoce el patrón."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir SAPO? SA + ___",
+      "options": [
+        "PO",
+        "PA",
+        "PI"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "¿Qué sílaba falta para decir ROSA? RO + ___",
+      "options": [
+        "SA",
+        "SO",
+        "SE"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Escribe la sílaba SE",
+      "answer": "SE"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas es una sílaba con S?",
+      "options": [
+        "SU",
+        "LU",
+        "TU"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "Di y escribe la sílaba: S + I = ?",
+      "answer": "SI"
+    }
+  ]
+}

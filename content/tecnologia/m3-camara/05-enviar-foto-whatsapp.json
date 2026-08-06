@@ -1,0 +1,93 @@
+{
+  "id": "enviar-foto-whatsapp",
+  "moduleId": "m3-camara",
+  "title": "Enviar una foto por WhatsApp",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Compartir una foto con un familiar por WhatsApp es una de las formas más lindas de mantenerse en contacto."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre WhatsApp y entra a la conversación con la persona."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Toca el ícono de un clip 📎 o de una cámara, generalmente cerca de donde escribes el mensaje."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Elige la opción Galería, y busca la foto que quieres enviar."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Tócala para seleccionarla, y luego toca el botón de enviar."
+    },
+    {
+      "type": "analogy",
+      "text": "Enviar una foto por WhatsApp es como mandar una fotografía por correo, pero llega en segundos en vez de días."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m3-camara/05-enviar-foto-whatsapp.png",
+      "alt": "Previsualización de foto con botón verde para enviar en WhatsApp"
+    },
+    {
+      "type": "tip",
+      "text": "Antes de enviar, puedes escribir un mensaje corto junto con la foto, para explicar de qué se trata."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ícono tocamos en WhatsApp para enviar una foto?",
+      "options": [
+        "El clip 📎 o la cámara",
+        "El de llamada",
+        "El de configuración"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde buscamos la foto que queremos enviar?",
+      "options": [
+        "En la Galería",
+        "En Contactos",
+        "En Configuración"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué podemos escribir junto con la foto antes de enviarla?",
+      "options": [
+        "Un mensaje corto",
+        "Nada, no se puede",
+        "Solo números"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué necesitamos para enviar una foto por WhatsApp?",
+      "options": [
+        "Conexión a internet",
+        "Solo batería",
+        "Nada especial"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué ícono tocamos para adjuntar una foto? (una palabra)",
+      "answer": "CLIP"
+    }
+  ]
+}

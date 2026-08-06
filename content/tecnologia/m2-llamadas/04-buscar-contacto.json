@@ -1,0 +1,93 @@
+{
+  "id": "buscar-contacto",
+  "moduleId": "m2-llamadas",
+  "title": "Buscar un contacto guardado",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Con el tiempo vas a tener varios contactos guardados, así que aprender a buscarlos rápido te ahorra tiempo."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación de Contactos."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca una barra de búsqueda, generalmente arriba, con una lupa 🔍."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Escribe las primeras letras del nombre de la persona que buscas."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Toca su nombre cuando aparezca, para ver sus datos o llamarla directamente."
+    },
+    {
+      "type": "analogy",
+      "text": "Buscar un contacto guardado es como buscar un nombre en una agenda telefónica: vas directo a la letra que necesitas."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m2-llamadas/04-buscar-contacto.png",
+      "alt": "Ícono de lupa para buscar contactos"
+    },
+    {
+      "type": "tip",
+      "text": "No hace falta escribir el nombre completo: con las primeras letras suele ser suficiente para encontrar a la persona."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo encontramos un contacto más rápido?",
+      "options": [
+        "Escribiendo su nombre en la búsqueda",
+        "Apagando el celular",
+        "Reiniciando la app"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué símbolo representa la barra de búsqueda?",
+      "options": [
+        "Una lupa",
+        "Un corazón",
+        "Una estrella"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué escribimos para encontrar un contacto rápido?",
+      "options": [
+        "Las primeras letras del nombre",
+        "El número completo de memoria",
+        "Nada, hay que buscar uno por uno"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué podemos hacer al tocar el nombre de un contacto?",
+      "options": [
+        "Ver sus datos o llamarlo",
+        "Borrarlo automáticamente",
+        "Nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué usamos para escribir el nombre que buscamos? (una palabra)",
+      "answer": "TECLADO"
+    }
+  ]
+}

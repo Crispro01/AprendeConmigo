@@ -1,0 +1,98 @@
+{
+  "id": "conectar-wifi",
+  "moduleId": "m1-mi-celular",
+  "title": "Conectarme al wifi de casa",
+  "order": 8,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Conectarte al wifi de tu casa te permite usar internet sin gastar los datos de tu plan de celular, lo cual ahorra dinero."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Entra a Configuración, la aplicación con forma de engranaje (una especie de rueda dentada)."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Busca la opción que dice WiFi y tócala para activarla."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Va a aparecer una lista de redes cercanas; busca el nombre de la tuya y tócalo."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Escribe la contraseña de tu wifi con cuidado, letra por letra, y confirma."
+    },
+    {
+      "type": "analogy",
+      "text": "Conectarte al wifi es como sintonizar una radio: tienes que buscar la señal correcta y, muchas veces, saber la clave para entrar."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/08-conectar-wifi.png",
+      "alt": "Ícono de Wi-Fi en el menú del celular"
+    },
+    {
+      "type": "tip",
+      "text": "Guarda la contraseña de tu wifi escrita en un lugar seguro de tu casa, así no dependes de recordarla de memoria."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué necesitamos para conectarnos al wifi de casa?",
+      "options": [
+        "El nombre de la red y la contraseña",
+        "Solo el nombre de la red",
+        "Nada, se conecta solo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde encontramos la opción de wifi?",
+      "options": [
+        "En Configuración",
+        "En la Cámara",
+        "En WhatsApp"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué necesitamos además del nombre de la red?",
+      "options": [
+        "La contraseña",
+        "Otra red",
+        "Nada más"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué ventaja tiene usar wifi en vez de datos móviles?",
+      "options": [
+        "No gastamos el plan de datos",
+        "Es más lento",
+        "No tiene ventajas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué debemos hacer con la contraseña del wifi para no olvidarla?",
+      "options": [
+        "Guardarla en un lugar seguro",
+        "No anotarla nunca",
+        "Compartirla con cualquiera"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

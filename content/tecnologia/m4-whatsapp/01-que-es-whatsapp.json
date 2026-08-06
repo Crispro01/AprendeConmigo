@@ -1,0 +1,88 @@
+{
+  "id": "que-es-whatsapp",
+  "moduleId": "m4-whatsapp",
+  "title": "Qué es WhatsApp",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "WhatsApp es una de las aplicaciones más usadas en el mundo para comunicarse con la familia y amigos, y es gratis de usar."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Permite enviar mensajes de texto, fotos, videos, audios, y hacer llamadas y videollamadas, todo usando internet."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Se identifica fácilmente por su ícono: un círculo verde con un teléfono blanco dentro."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Para poder usarla, necesitas tener conexión a internet, ya sea por wifi o por datos móviles."
+    },
+    {
+      "type": "analogy",
+      "text": "WhatsApp es como el correo y el teléfono juntos, pero gratis y más rápido: puedes escribir, hablar o llamar desde la misma aplicación."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m4-whatsapp/01-que-es-whatsapp.png",
+      "alt": "Ícono verde de aplicación de mensajería"
+    },
+    {
+      "type": "tip",
+      "text": "No te preocupes si al principio te parece que tiene muchas funciones. Vamos a aprenderlas una por una, sin apuro."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué necesitamos para usar WhatsApp?",
+      "options": [
+        "Conexión a internet",
+        "Solo el celular apagado",
+        "Un billete de banco"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué podemos enviar por WhatsApp además de mensajes de texto?",
+      "options": [
+        "Fotos, audios y videos",
+        "Solo texto",
+        "Nada más que texto"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cómo se identifica el ícono de WhatsApp?",
+      "options": [
+        "Un círculo verde con un teléfono",
+        "Un círculo azul",
+        "Un triángulo rojo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuánto cuesta usar WhatsApp?",
+      "options": [
+        "Es gratis",
+        "Cuesta mucho dinero",
+        "Solo para empresas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué necesitamos, además del celular, para usar WhatsApp? (una palabra)",
+      "answer": "INTERNET"
+    }
+  ]
+}

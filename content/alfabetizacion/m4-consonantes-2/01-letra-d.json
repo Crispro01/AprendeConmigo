@@ -1,0 +1,128 @@
+{
+  "id": "letra-d",
+  "moduleId": "m4-consonantes-2",
+  "title": "La D",
+  "order": 1,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La D se parece a la T, pero esta sí usa la voz (vibra un poco en la garganta). La escuchamos en palabras como DEDO o NIDO."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Toca los dientes de arriba con la lengua, igual que con la T."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Esta vez, deja que salga la voz mientras sueltas el sonido: DA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Combina la D con las vocales: DA - DE - DI - DO - DU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Busca la D en la palabra DEDO."
+    },
+    {
+      "type": "analogy",
+      "text": "La D es como la T pero con la voz encendida: es el mismo golpe de la lengua, solo que esta vez 'zumba' un poco, como un motor prendido."
+    },
+    {
+      "type": "image",
+      "src": "D d",
+      "alt": "La letra D mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "Pon los dedos en tu garganta mientras dices 'DA' y luego 'TA'. Vas a sentir que la D vibra un poco y la T no."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra DEDO?",
+      "answer": "D"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_EDO",
+      "options": [
+        "R",
+        "D",
+        "C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la D?",
+      "options": [
+        "D",
+        "R",
+        "C"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra NIDO?",
+      "answer": "D"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "NI_O",
+      "options": [
+        "N",
+        "D",
+        "R"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la D?",
+      "options": [
+        "D",
+        "N",
+        "R"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra RADIO?",
+      "answer": "D"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "RA_IO",
+      "options": [
+        "B",
+        "D",
+        "N"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la D?",
+      "options": [
+        "D",
+        "B",
+        "N"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra DULCE?",
+      "answer": "D"
+    }
+  ]
+}

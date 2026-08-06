@@ -1,0 +1,128 @@
+{
+  "id": "letra-s",
+  "moduleId": "m3-consonantes-1",
+  "title": "La S",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La S es un sonido que se mantiene, como un silbido suave. La encontramos en palabras muy comunes como SOL o CASA."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Deja salir el aire despacio entre los dientes, sin usar la voz: sss, como cuando pedimos silencio."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Combina la S con las vocales: SA - SE - SI - SO - SU."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Busca la S en la palabra CASA: C-A-S-A."
+    },
+    {
+      "type": "analogy",
+      "text": "La S suena como el silbido del viento o el 'shhh' para pedir silencio: un sonido que se puede alargar todo lo que quieras."
+    },
+    {
+      "type": "image",
+      "src": "S s",
+      "alt": "La letra S mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "Puedes alargar el sonido de la S todo lo que quieras (sssss) para practicar cómo se siente en la boca, antes de unirla a una vocal."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la S?",
+      "options": [
+        "S",
+        "P",
+        "L"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra SOL?",
+      "answer": "S"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_OL",
+      "options": [
+        "M",
+        "S",
+        "P"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la S?",
+      "options": [
+        "S",
+        "M",
+        "P"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra CASA?",
+      "answer": "S"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "CA_A",
+      "options": [
+        "T",
+        "S",
+        "M"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la S?",
+      "options": [
+        "S",
+        "T",
+        "M"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MESA?",
+      "answer": "S"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "ME_A",
+      "options": [
+        "L",
+        "S",
+        "T"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la S?",
+      "options": [
+        "S",
+        "L",
+        "T"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

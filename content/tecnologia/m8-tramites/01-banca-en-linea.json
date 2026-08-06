@@ -1,0 +1,88 @@
+{
+  "id": "banca-en-linea",
+  "moduleId": "m8-tramites",
+  "title": "Qué es la banca en línea",
+  "order": 1,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "La banca en línea te permite ver y manejar tu cuenta del banco desde el celular, sin tener que ir hasta la agencia y hacer fila."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m8-tramites/01-banca-en-linea.png",
+      "alt": "Interfaz de banca móvil en celular con candado de seguridad"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Se usa a través de la aplicación oficial de tu banco, que debes descargar primero."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Descárgala solo desde la tienda oficial de aplicaciones de tu celular."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Nunca la descargues desde un enlace que te llegue por mensaje, aunque parezca del banco."
+    },
+    {
+      "type": "analogy",
+      "text": "La banca en línea es como tener el banco dentro de tu celular: puedes ver tu cuenta sin hacer fila ni salir de casa."
+    },
+    {
+      "type": "tip",
+      "text": "Ante cualquier duda sobre si una aplicación es realmente de tu banco, puedes preguntar directamente en una agencia física."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde debemos descargar la aplicación de nuestro banco?",
+      "options": [
+        "Desde la tienda oficial de aplicaciones",
+        "Desde un enlace de un mensaje",
+        "Desde cualquier página"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué permite hacer la banca en línea?",
+      "options": [
+        "Ver y manejar tu cuenta desde el celular",
+        "Solo ver publicidad",
+        "Nada relacionado al banco"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Dónde debemos descargar la app del banco?",
+      "options": [
+        "Desde la tienda oficial de aplicaciones",
+        "Desde cualquier enlace",
+        "Desde un mensaje de texto"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué evitamos al usar la banca en línea?",
+      "options": [
+        "Hacer fila en la agencia",
+        "Tener una cuenta",
+        "Usar el celular"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué necesitamos descargar para usar la banca en línea? (una palabra)",
+      "answer": "APLICACION"
+    }
+  ]
+}

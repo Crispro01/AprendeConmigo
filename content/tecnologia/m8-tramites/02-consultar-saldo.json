@@ -1,0 +1,88 @@
+{
+  "id": "consultar-saldo",
+  "moduleId": "m8-tramites",
+  "title": "Consultar el saldo de forma segura",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Revisar cuánto dinero tienes en tu cuenta, llamado saldo, es una de las funciones más usadas de la banca en línea."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m8-tramites/02-consultar-saldo.png",
+      "alt": "Pantalla de aplicación bancaria mostrando saldo de cuenta"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Abre la aplicación oficial de tu banco."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Ingresa tu usuario y clave con cuidado, sin que nadie más los vea ni los compartas en voz alta."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Una vez dentro, el saldo disponible suele aparecer en la pantalla principal."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Cierra la aplicación cuando termines de usarla."
+    },
+    {
+      "type": "analogy",
+      "text": "Revisar tu saldo es como revisar cuánto dinero te queda en la billetera antes de salir a comprar."
+    },
+    {
+      "type": "tip",
+      "text": "Si compartes el celular con otras personas de la casa, es especialmente importante cerrar la app del banco después de usarla."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué debemos hacer con la aplicación del banco al terminar de usarla?",
+      "answer": "cerrarla"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué es el saldo?",
+      "options": [
+        "Cuánto dinero tienes en tu cuenta",
+        "El nombre del banco",
+        "Tu número de cédula"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué necesitamos para entrar a la app del banco?",
+      "options": [
+        "Usuario y clave",
+        "Solo el nombre",
+        "Nada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Por qué es importante cerrar la app al terminar?",
+      "options": [
+        "Para proteger tu cuenta, sobre todo en celular compartido",
+        "No es importante",
+        "Para ahorrar batería únicamente"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué revisamos en la pantalla principal de la app del banco? (una palabra)",
+      "answer": "SALDO"
+    }
+  ]
+}

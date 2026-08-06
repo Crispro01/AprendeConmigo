@@ -1,0 +1,128 @@
+{
+  "id": "z-enie",
+  "moduleId": "m5-consonantes-3",
+  "title": "Z y Ñ",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Hoy vemos dos letras muy propias del español: la Z y la Ñ."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "La Z suena igual que la S en la mayoría de países de América Latina, como en ZAPATO."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "La Ñ es una letra única del español, no existe en otros idiomas como el inglés. Suena como en NIÑO o AÑO."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Fíjate en la rayita (~) que lleva la Ñ arriba: eso es lo que la diferencia de la N."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Practica: ZAPATO, NIÑO."
+    },
+    {
+      "type": "analogy",
+      "text": "La Ñ es como un sombrero especial (la rayita arriba) que convierte a la N en una letra distinta, típica solo del español."
+    },
+    {
+      "type": "image",
+      "src": "Ñ ñ",
+      "alt": "La letra Ñ mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "La Ñ es una letra muy querida del español, es parte importante de nuestro idioma. Tómate tu tiempo para reconocerla bien."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra ZAPATO?",
+      "answer": "Z"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "NI_O",
+      "options": [
+        "M",
+        "Ñ",
+        "Z"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la Z?",
+      "options": [
+        "Z",
+        "C",
+        "Ñ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra NIÑO?",
+      "answer": "Ñ"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_APATO",
+      "options": [
+        "S",
+        "Z",
+        "C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la Ñ?",
+      "options": [
+        "Ñ",
+        "N",
+        "M"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra TAZA?",
+      "answer": "Z"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "A_O",
+      "options": [
+        "S",
+        "Ñ",
+        "N"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la Z?",
+      "options": [
+        "Z",
+        "N",
+        "S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra AÑO?",
+      "answer": "Ñ"
+    }
+  ]
+}

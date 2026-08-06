@@ -1,0 +1,133 @@
+{
+  "id": "letra-t",
+  "moduleId": "m3-consonantes-1",
+  "title": "La T",
+  "order": 5,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "La T se produce tocando los dientes de arriba con la lengua y soltando el aire de golpe, sin usar la voz. La encontramos en palabras como TAZA o GATO."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Toca los dientes de arriba con la punta de la lengua."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Suelta el aire de golpe y di: TA."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Combina la T con las vocales: TA - TE - TI - TO - TU."
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "text": "Busca la T en la palabra GATO."
+    },
+    {
+      "type": "analogy",
+      "text": "La T es como un golpecito seco en la puerta: corto, firme, sin usar la voz."
+    },
+    {
+      "type": "image",
+      "src": "T t",
+      "alt": "La letra T mayúscula y minúscula"
+    },
+    {
+      "type": "tip",
+      "text": "La T y la D se sienten parecido en la boca, pero la D sí usa la voz (vibra) y la T no."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_AZA",
+      "options": [
+        "M",
+        "T",
+        "P"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la T?",
+      "options": [
+        "T",
+        "M",
+        "P"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra TAZA?",
+      "answer": "T"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "GA_O",
+      "options": [
+        "L",
+        "T",
+        "M"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la T?",
+      "options": [
+        "T",
+        "L",
+        "M"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra GATO?",
+      "answer": "T"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "PA_O",
+      "options": [
+        "S",
+        "T",
+        "L"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la T?",
+      "options": [
+        "T",
+        "S",
+        "L"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra PATO?",
+      "answer": "T"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "ZAPA_O",
+      "options": [
+        "P",
+        "T",
+        "S"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

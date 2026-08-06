@@ -1,0 +1,88 @@
+{
+  "id": "problemas-videollamada",
+  "moduleId": "m5-videollamadas",
+  "title": "Problemas comunes (no se ve o no se escucha)",
+  "order": 5,
+  "estimatedMinutes": 6,
+  "content": [
+    {
+      "type": "text",
+      "text": "A veces las videollamadas fallan un poco: no se escucha bien, o la imagen se congela. Aquí tienes algunas soluciones simples."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m5-videollamadas/05-problemas-videollamada.png",
+      "alt": "Controles de micrófono y cámara en videollamada"
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Primero, revisa que tengas buena conexión a internet, ya sea wifi o datos."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Revisa que no tengas el dedo tapando el micrófono o la cámara del celular."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Si el problema sigue, cuelga la llamada y vuelve a intentarla desde el inicio."
+    },
+    {
+      "type": "analogy",
+      "text": "Cuando una videollamada falla, es como una llamada de radio con interferencia: a veces el problema es la señal, no las personas hablando."
+    },
+    {
+      "type": "tip",
+      "text": "Estos problemas les pasan a todas las personas de vez en cuando, incluso a quienes usan el celular hace muchos años. No es algo que estés haciendo mal."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué revisamos primero si la videollamada no funciona?",
+      "options": [
+        "La conexión a internet",
+        "El color del celular",
+        "La hora del día"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué revisamos si no se escucha bien en una videollamada?",
+      "options": [
+        "Que el micrófono no esté tapado",
+        "El color del celular",
+        "La hora del día"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué hacemos si la videollamada sigue sin funcionar?",
+      "options": [
+        "Colgar y volver a intentar",
+        "Tirar el celular",
+        "Nada, ya no se puede usar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿A quién le pasan estos problemas de videollamada?",
+      "options": [
+        "A cualquier persona de vez en cuando",
+        "Solo a quienes no saben usar el celular",
+        "Nunca le pasa a nadie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué debemos revisar primero si algo falla en una videollamada? (una palabra)",
+      "answer": "INTERNET"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "gestos-tactiles",
+  "moduleId": "m1-mi-celular",
+  "title": "Tocar, deslizar, mantener presionado",
+  "order": 4,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "El celular no tiene botones para todo: la mayoría de las acciones se hacen tocando la pantalla de formas distintas. Vamos a conocer los tres gestos más importantes."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "TOCAR: dar un toque corto y rápido con un dedo, para abrir algo, como una aplicación."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "DESLIZAR: apoyar el dedo y moverlo por la pantalla sin levantarlo, por ejemplo para pasar de una foto a otra."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "MANTENER PRESIONADO: dejar el dedo quieto sobre algo durante unos segundos, sin moverlo, para ver más opciones."
+    },
+    {
+      "type": "analogy",
+      "text": "Usar gestos en la pantalla es como usar las manos para amasar, apretar o deslizar algo: cada movimiento hace una cosa distinta."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/m1-mi-celular/04-gestos-tactiles.png",
+      "alt": "Gesto de deslizar el dedo por la pantalla"
+    },
+    {
+      "type": "tip",
+      "text": "Estos tres gestos se repiten en casi todas las aplicaciones. Una vez que los domines, te van a servir para todo el celular."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "match-pairs",
+      "instructions": "Une el gesto con su acción",
+      "pairs": [
+        {
+          "left": "Tocar",
+          "right": "Abrir una app"
+        },
+        {
+          "left": "Deslizar",
+          "right": "Pasar de una foto a otra"
+        },
+        {
+          "left": "Mantener presionado",
+          "right": "Ver más opciones"
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué gesto usamos para abrir una aplicación?",
+      "options": [
+        "Tocar",
+        "Deslizar",
+        "Mantener presionado"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué gesto usamos para pasar de una foto a otra?",
+      "options": [
+        "Deslizar",
+        "Tocar",
+        "Ninguno"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Qué gesto usamos para ver más opciones de algo?",
+      "options": [
+        "Mantener presionado",
+        "Tocar una vez",
+        "Deslizar rápido"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Cómo se llama el gesto de dejar el dedo quieto unos segundos?",
+      "answer": "PRESIONAR"
+    }
+  ]
+}

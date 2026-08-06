@@ -1,0 +1,128 @@
+{
+  "id": "vocal-e",
+  "moduleId": "m2-vocales",
+  "title": "La E",
+  "order": 2,
+  "estimatedMinutes": 7,
+  "content": [
+    {
+      "type": "text",
+      "text": "Seguimos con la segunda vocal: la E. La vas a encontrar en palabras muy comunes, como ESCUELA o LECHE."
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "text": "Sonríe un poco, estira los labios hacia los lados y di: 'E'."
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "text": "Nota que el sonido es distinto al de la A, aunque la boca esté casi igual de abierta."
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "text": "Busca la E en la palabra MESA: M-E-S-A."
+    },
+    {
+      "type": "analogy",
+      "text": "Aprender la E después de la A es como aprender el segundo paso de un baile: no tiene sentido sin el primero, pero juntos ya forman algo."
+    },
+    {
+      "type": "image",
+      "src": "/images/lessons/alfabetizacion/m2-vocales/02-vocal-e.png",
+      "alt": "Letra E mayúscula y e minúscula con una estrella"
+    },
+    {
+      "type": "tip",
+      "text": "Compara el sonido de la A con el de la E diciendo las dos seguidas: A - E. Notarás cómo cambia la forma de la boca."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "L_CHE",
+      "options": [
+        "I",
+        "E",
+        "O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la E?",
+      "options": [
+        "E",
+        "I",
+        "O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra LECHE?",
+      "answer": "E"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "M_SA",
+      "options": [
+        "A",
+        "E",
+        "I"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la E?",
+      "options": [
+        "E",
+        "A",
+        "I"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra MESA?",
+      "answer": "E"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "V_RDE",
+      "options": [
+        "U",
+        "E",
+        "A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "¿Cuál de estas letras es la E?",
+      "options": [
+        "E",
+        "U",
+        "A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "type-word",
+      "question": "¿Qué letra escuchas en la palabra VERDE?",
+      "answer": "E"
+    },
+    {
+      "type": "fill-in-the-blank-choice",
+      "question": "_SPEJO",
+      "options": [
+        "O",
+        "E",
+        "U"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
