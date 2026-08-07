@@ -52,9 +52,9 @@ npm run build          # genera el sitio estático final (carpeta out/)
 
 ## 🌐 Despliegue
 
-El sitio se publica automáticamente en **GitHub Pages** mediante GitHub Actions cada vez que se sube un cambio a `main` (ver [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)). El detalle completo de la configuración está documentado en [`docs/informe-vinculacion.md`](docs/informe-vinculacion.md).
+El sitio se publica automáticamente en **GitHub Pages** mediante GitHub Actions cada vez que se sube un cambio a `main` (ver [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)). 
 
 ## 📄 Documentación
 
 - [`docs/CONTENT_GUIDE.md`](docs/CONTENT_GUIDE.md) — cómo agregar o editar una lección, sin saber programar.
-- [`docs/informe-vinculacion.md`](docs/informe-vinculacion.md) — informe completo del proyecto: objetivos, arquitectura, decisiones de diseño y despliegue.
+
